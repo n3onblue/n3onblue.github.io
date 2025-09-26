@@ -1,0 +1,1612 @@
+﻿[
+    {
+        "card_name": "MW01 Illia, Mistress of the Glow",
+        "number": 21,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MU01 Ishia, Teiran Matriarch",
+        "number": 62,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MB01 Gorthor, Maker of Fate",
+        "number": 103,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MR01 Ignus, the First Dreamwalker",
+        "number": 144,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MG01 Sorgash, Manic Mutant",
+        "number": 185,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MW02 The Mind Cleaver",
+        "number": 22,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MU02 Unstopable Destiny",
+        "number": 63,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MB02 Mangled Rager",
+        "number": 104,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MR02 Valley of Hands",
+        "number": 145,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MG02 Teiran Soothsayer",
+        "number": 186,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RW01 Epicenter Breach",
+        "number": 23,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RU01 Dreams of Solitary",
+        "number": 64,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RB01 Spiralling Thoughts",
+        "number": 105,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "RR01 The Sky Melts Away",
+        "number": 146,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RG01 Esoteric Rot Farmer",
+        "number": 187,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RW02 Fearless Commander",
+        "number": 24,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RU02 Path of the Protector",
+        "number": 65,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "RB02 Dreams of Apocalypse",
+        "number": 106,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RR02 Bramble Burner",
+        "number": 147,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RG02 Stout Watchman",
+        "number": 188,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RW03 Cycloptic Warden",
+        "number": 25,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RU03 Novice Dreamwalker",
+        "number": 66,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RB03 Leader of the Unformed",
+        "number": 107,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RR03 Eldrich Brutalizer",
+        "number": 148,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RG03 Teiran Healer",
+        "number": 189,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RW04 Greater Purpose",
+        "number": 26,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "RU04 Intricate Daydream",
+        "number": 67,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RB04 Shadow Titan",
+        "number": 108,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RR04 Candleglow Faithful",
+        "number": 149,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RG04 Bramble Skitherer",
+        "number": 190,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RW05 Legend Ledger",
+        "number": 27,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RU05 Guardian of the Brave",
+        "number": 68,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RB05 Fate's Enforcer",
+        "number": 109,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RR05 Insatiable Dreamwalker",
+        "number": 150,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RG05 Glowbound Ranger",
+        "number": 191,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RW06 Candleglow Sorcerer",
+        "number": 28,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RU06 Fear Father's Eyes",
+        "number": 69,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RB06 Gore Reveler",
+        "number": 110,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RR06 Goremame, Mind Tyrant",
+        "number": 151,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RG06 Corner the Beast",
+        "number": 192,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RW07 Rush to Finality",
+        "number": 29,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "RU07 See Fate's Design",
+        "number": 70,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RB07 Reformed by Grief",
+        "number": 111,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RR07 Face the Imposible",
+        "number": 152,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RG07 Fungal Amalgamate",
+        "number": 193,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW01 Teiran Wanderer",
+        "number": 30,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU01 Enspirited Gaurdian",
+        "number": 71,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB01 Unformed Terror",
+        "number": 112,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR01 Candle Glow Vigilant",
+        "number": 153,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG01 Fester Hoard",
+        "number": 194,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW02 Priestess of Lights",
+        "number": 31,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU02 Etherial Skeleton",
+        "number": 72,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB02 Smolder Hound",
+        "number": 113,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR02 Blood Worhsiper",
+        "number": 154,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG02 Eldritch Attendant",
+        "number": 195,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW03 Lost Mentor",
+        "number": 32,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU03 Deep Shadow Infiltrator",
+        "number": 73,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB03 Embrace Delusion",
+        "number": 114,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR03 Mutant Ringleader",
+        "number": 155,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG03 Candleglow Naturalist",
+        "number": 196,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW04 Candleglow Drake",
+        "number": 33,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU04 Whispers of the Forgotten",
+        "number": 74,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB04 Whispy Nightmare",
+        "number": 115,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR04 Dreamwalker Alchemist",
+        "number": 156,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG04 Teiran Brawler",
+        "number": 197,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW05 Prophecy Scribe",
+        "number": 34,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU05 Free Soul",
+        "number": 75,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB05 Beconer of the Epicenter",
+        "number": 116,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR05 Unformed Skin Stealer",
+        "number": 157,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG05 Wise Old Bramble",
+        "number": 198,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW06 Virtuous Nightmare",
+        "number": 35,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU06 Dreams of Rushing Waves",
+        "number": 76,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB06 Dark Horseman",
+        "number": 117,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR06 Smolderhorn Elk",
+        "number": 158,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG06 Conjoined Monstrosity",
+        "number": 199,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW07 Gargantuan Mutant",
+        "number": 36,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU07 Half Formed Leviathan",
+        "number": 77,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB07 Whispers of Guilt",
+        "number": 118,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR07 Constant Looming Threat",
+        "number": 159,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG07 Spindley Goreger",
+        "number": 200,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW08 Disappearing Man",
+        "number": 37,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU08 Doomed to Meaninglessness",
+        "number": 78,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB08 Lord of the Deformed",
+        "number": 119,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR08 Avatar of Candlelight",
+        "number": 160,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG08 Candleglow Beast",
+        "number": 201,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW09 Valiant Heroics",
+        "number": 38,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU09 Inexorable Sloth",
+        "number": 79,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB09 Dreams of Mourning",
+        "number": 120,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR09 Dream of Carnage",
+        "number": 161,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG09 Life From Rot",
+        "number": 202,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW10 Seek Offering",
+        "number": 39,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU10 Etherial Experince",
+        "number": 80,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB10 Call Forth the Rotten",
+        "number": 121,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR10 Reborn in Flames",
+        "number": 162,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG10 Brave the Bramble",
+        "number": 203,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW11 Ruthless Determination",
+        "number": 40,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU11 Control Magic",
+        "number": 81,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB11 Delerious Loss",
+        "number": 122,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR11 Fling",
+        "number": 163,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG11 Curageous Example",
+        "number": 204,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW12 Irrational Hope",
+        "number": 41,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU12 Dreamcast",
+        "number": 82,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB12 No Soul May Rest",
+        "number": 123,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR12 Pull of the Epicenter",
+        "number": 164,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG12 Teiran Scouting",
+        "number": 205,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UW13 Healing of the Candleglow",
+        "number": 42,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UU13 Reduce Form",
+        "number": 83,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UB13 Fatal Daydreams",
+        "number": 124,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UR13 Call Forth the Eager",
+        "number": 165,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UG13 Spiritual Rejuvination",
+        "number": 206,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW01 Prophecy of Flight",
+        "number": 2,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU01 Stray Daydreams",
+        "number": 43,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB01 Persistent Gurgle",
+        "number": 84,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR01 Blood Craized Mutant",
+        "number": 125,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG01 Savior in the Dark",
+        "number": 166,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW02 Beast Dispatcher",
+        "number": 3,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU02 Dreamer of Empowerment",
+        "number": 44,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB02 Ichorine Apostle",
+        "number": 85,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR02 Cultish Sorcerer",
+        "number": 126,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG02 Disciple of the Beastly",
+        "number": 167,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW03 Tyran Moral Keeper",
+        "number": 4,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU03 Haunted Wanderer",
+        "number": 45,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB03 Dream Coaxer",
+        "number": 86,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR03 Unsanctimonious Oprotunist",
+        "number": 127,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG03 Spindley Abomination",
+        "number": 168,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW04 Prophecy Enforcer",
+        "number": 5,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU04 Ghastly Motivator",
+        "number": 46,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB04 Ego Thirster",
+        "number": 87,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR04 Run Forever and Never Tire",
+        "number": 128,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG04 Tenacious Wanderer",
+        "number": 169,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW05 Fog Wanderer",
+        "number": 6,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU05 Looming Nightmare",
+        "number": 47,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB05 Maddened Lycan",
+        "number": 88,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR05 Dreamer of Carnage",
+        "number": 129,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG05 Wicker Titan",
+        "number": 170,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW06 Abandoned Impulse",
+        "number": 7,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU06 Scuttling Head",
+        "number": 48,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB06 Executor of Destiny",
+        "number": 89,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR06 Fanatic Visonary",
+        "number": 130,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG06 Lantern Guide",
+        "number": 171,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW07 Hearald of the Lost",
+        "number": 8,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU07 Dreamer of Omens",
+        "number": 49,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB07 Festering Patriarch",
+        "number": 90,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR07 Ritual Borne",
+        "number": 131,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG07 Aracnid Host",
+        "number": 172,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW08 Tyran Debilitator",
+        "number": 9,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU08 Gangley Thing",
+        "number": 50,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB08 Shapes in the Night",
+        "number": 91,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR08 Candleglow Ritualist",
+        "number": 132,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG08 Screeching Apex",
+        "number": 173,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW09 Candleglow Appostle",
+        "number": 10,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU09 Destiny Enforcer",
+        "number": 51,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB09 Skinless Almalgamate",
+        "number": 92,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR09 Hoarder of Bones",
+        "number": 133,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG09 Mass of Eyes and Teeth",
+        "number": 174,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW10 A Collosal Presence",
+        "number": 11,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU10 Unsubstantiated Obliterator",
+        "number": 52,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB10 Snarl of Death",
+        "number": 93,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR10 Gangley Hemocrat",
+        "number": 134,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG10 Beast of Puss and Senew",
+        "number": 175,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW11 Tamed Fogsoarer",
+        "number": 12,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU11 Dreams of Rejection",
+        "number": 53,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB11 Horrid Omen",
+        "number": 94,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR11 Ocult Evangel",
+        "number": 135,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG11 Offering Gaurdian",
+        "number": 176,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW12 Disapear into the Fog",
+        "number": 13,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU12 Stalwart Mind",
+        "number": 54,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB12 Tempting Whispers",
+        "number": 95,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR12 Seeing Double",
+        "number": 136,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG12 Collosal Barmble",
+        "number": 177,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW13 Debilitate the Feble",
+        "number": 14,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU13 Face Nightmares",
+        "number": 55,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB13 Toy With Bodies",
+        "number": 96,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR13 Power Fantasy",
+        "number": 137,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG13 Bramble of Memories",
+        "number": 178,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW14 Overwhelm Ego",
+        "number": 15,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU14 Homeward Bound",
+        "number": 56,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB14 Thirst for Domination",
+        "number": 97,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR14 Reckless Impulse",
+        "number": 138,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG14 Unbreakable Will",
+        "number": 179,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW15 Abstraction",
+        "number": 16,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU15 Solitary meditation",
+        "number": 57,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB15 Onset Repugnance",
+        "number": 98,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR15 Makeshift Campfire",
+        "number": 139,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG15 March in Candleglow",
+        "number": 180,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW16 Visit Unreality",
+        "number": 17,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU16 Historian's Calling",
+        "number": 58,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB16 Compulsive Sratching",
+        "number": 99,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR16 Down to the Wik",
+        "number": 140,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG16 Mental Fortitude",
+        "number": 181,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW17 Prophecy of Leadership",
+        "number": 18,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU17 Thought Revision",
+        "number": 59,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB17 Embrace Despair",
+        "number": 100,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR17 Strangle",
+        "number": 141,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG17 Strike from Above",
+        "number": 182,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW18 Refuse to Fall",
+        "number": 19,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU18 Sleep Paralysis",
+        "number": 60,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB18 Premature Tragedy",
+        "number": 101,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR18 Burn and Pillage",
+        "number": 142,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG18 Ground to Reality",
+        "number": 183,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CW19 Gift of the Candleglow",
+        "number": 20,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CU19 Dreamhopping",
+        "number": 61,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CB19 Dreams of Falling",
+        "number": 102,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CR19 Evicerate",
+        "number": 143,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CG19 Drag Away",
+        "number": 184,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "RM01 Bring Forth the Titan",
+        "number": 211,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Valkarie of the Epicenter",
+        "number": 218,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Persistent Mutant",
+        "number": 216,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Hungering Maw",
+        "number": 214,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "MX01 Cordia, Bringer of Sunlight",
+        "number": 207,
+        "shape": "planeswalker",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Shaper of Fates",
+        "number": 234,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Determined Dreamwalker",
+        "number": 221,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Pestilence Embodied",
+        "number": 227,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Reoccurring Predator",
+        "number": 230,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Dryad of Shared Fate",
+        "number": 212,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Unbreakable Conviction",
+        "number": 237,
+        "shape": "saga",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Esoteric Omen",
+        "number": 222,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Unwanted Insight",
+        "number": 238,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Roiling Bramble",
+        "number": 232,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Rally the Foolhardy",
+        "number": 229,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 Scrappy Survivalist",
+        "number": 233,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM01 The Whole World Blind",
+        "number": 217,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Beast of Wings and Limbs",
+        "number": 209,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Boneskull Freak",
+        "number": 210,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Excited Arival",
+        "number": 213,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RM01 Lethargic Skywhale",
+        "number": 215,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Prophecy Savant",
+        "number": 228,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Lord of Lucidity",
+        "number": 226,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Fleshforme Caverns",
+        "number": 224,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Cultish Apothocary",
+        "number": 220,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Animated Elderwood",
+        "number": 219,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Revisit Prophecy",
+        "number": 231,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Shredded Memory",
+        "number": 235,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Skittering Screecher",
+        "number": 236,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Etherial Reinvigoration",
+        "number": 223,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "UM01 Free the Beast",
+        "number": 225,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MX02 Tym, The Fear Father",
+        "number": 208,
+        "shape": "planeswalker",
+        "set": "APH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "CC01 Unformed Thought",
+        "number": 1,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CC02 Possesed Armor",
+        "number": 239,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CC03 Statue of the Bellringer",
+        "number": 240,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CC04 Prophesied Weapon",
+        "number": 241,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CC05 Illuminating Candle",
+        "number": 242,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "CC06 Manalith",
+        "number": 243,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL01 Abandoned Cemetary",
+        "number": 244,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RL01 Embewed Creek",
+        "number": 246,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RL01 Noxious Swampland",
+        "number": 248,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RL01 Barrens of the Shrouded Sun",
+        "number": 245,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "RL01 Mind Fog Forest",
+        "number": 247,
+        "shape": "normal",
+        "set": "APH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
