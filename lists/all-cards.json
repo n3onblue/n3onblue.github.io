@@ -1,11 +1,11 @@
 ﻿{
     "cards": [
         {
-            "card_name": "CW01 Prophecy of Flight",
+            "card_name": "Prophecy of Flight",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2013 Quest",
-            "number": 2,
+            "number": 29,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Prophecy of Flight\nI \u2013 Create a 1/1 white Human creature token.\nII \u2013 Put a flying counter on target creature.\nIII \u2013 Target creature gets +2/+2 until end of turn.",
@@ -21,11 +21,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW02 Beast Dispatcher",
+            "card_name": "Beast Dispatcher",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Survivor",
-            "number": 3,
+            "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Whenever another creature enters under your control, Beast Dispatcher gains first strike until end of turn.",
@@ -41,11 +41,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW03 Tyran Moral Keeper",
+            "card_name": "Tyran Moral Keeper",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Bard",
-            "number": 4,
+            "number": 39,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "When Tyran Moral Keeper enters, put a vigilance counter on target creature you control.\nPremonition {W} [i](You may pay {W} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -61,11 +61,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW04 Prophecy Enforcer",
+            "card_name": "Prophecy Enforcer",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Hero",
-            "number": 5,
+            "number": 28,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Whenever you put a counter on a permanent you control, scry 1 and gain 1 life.",
@@ -81,11 +81,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW05 Fog Wanderer",
+            "card_name": "Fog Wanderer",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Hero",
-            "number": 6,
+            "number": 15,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Fog Wanderer gets +1/+0 for each enchantment you control. \n{3}{W}, Exile Fog Wanderer from your graveyard: Return target enchantment card from your graveyard to your hand.",
@@ -101,11 +101,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW06 Abandoned Impulse",
+            "card_name": "Abandoned Impulse",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Spirit",
-            "number": 7,
+            "number": 2,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Flying\nWhenever Abandoned Impulse enters or leaves the battlefield, create a 1/1 white Spirit creature token with flying.",
@@ -121,11 +121,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW07 Hearald of the Lost",
+            "card_name": "Hearald of the Lost",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Warrior",
-            "number": 8,
+            "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever Hearald of the Lost enters, return a creature you control to its owners hand.",
@@ -141,11 +141,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW08 Tyran Debilitator",
+            "card_name": "Tyran Debilitator",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Survivor",
-            "number": 9,
+            "number": 38,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Whenever Tyran Debilitator attacks, tap up to one target creature.\n[i]Reimagine[/i] \u2013 {3}{W}, Remove a counter from a permanent you control: Put a stun counter on target creature.",
@@ -161,11 +161,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW09 Candleglow Appostle",
+            "card_name": "Candleglow Appostle",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Cleric",
-            "number": 10,
+            "number": 5,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Whenever Candleglow Appostle enters, other creatures you control get +1/+1 until end of turn.\nPremonition {2}{W} [i](You may pay {2}{W} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -181,11 +181,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW10 A Collosal Presence",
+            "card_name": "A Collosal Presence",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Draumur",
-            "number": 11,
+            "number": 8,
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "Vigilance \nWhen A Collosal Presence enters, return an enchantment card from your graveyard to your hand.",
@@ -201,11 +201,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW11 Tamed Fogsoarer",
+            "card_name": "Tamed Fogsoarer",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Dragon",
-            "number": 12,
+            "number": 36,
             "color_identity": "W",
             "cost": "{5}{W}",
             "rules_text": "Flying\nWhenever Tamed Fogsoarer attacks, put a flying counter on target creature you control.",
@@ -221,11 +221,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW12 Disapear into the Fog",
+            "card_name": "Disapear into the Fog",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 13,
+            "number": 11,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Exile target creature.",
@@ -241,11 +241,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW13 Debilitate the Feble",
+            "card_name": "Debilitate the Feble",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 14,
+            "number": 10,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Enchant creature with mana value 3 or less.\nEnchanted creature can't attack or block.",
@@ -261,11 +261,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW14 Overwhelm Ego",
+            "card_name": "Overwhelm Ego",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 15,
+            "number": 26,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Exile target creature if it has a counter on it or its mana value 4 or greater.",
@@ -281,11 +281,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW15 Abstraction",
+            "card_name": "Abstraction",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 16,
+            "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Destroy target artifact or enchantment. If a creature is destroyed this way, scry 1.",
@@ -301,11 +301,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW16 Visit Unreality",
+            "card_name": "Visit Unreality",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 17,
+            "number": 42,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Exile target creature or enchantment you control, then return it to the battlefield under its owner's control.",
@@ -321,11 +321,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW17 Prophecy of Leadership",
+            "card_name": "Prophecy of Leadership",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2013 Quest",
-            "number": 18,
+            "number": 30,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Prophecy of Leadership\nI \u2013 Put a vigilance a counter on target creature you control.\nII \u2013 Put a flying counter target creature you control.\nIII \u2013 Target creature you control gets +1/+1 until end of turn for each creature you control with a counter on it.",
@@ -341,11 +341,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW18 Refuse to Fall",
+            "card_name": "Refuse to Fall",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 19,
+            "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Target creature you control gets +3/+0 until end of turn. \n[i]Reimagine[/i] \u2013 You may remove a counter from a permanent you control. If you do, you may put a first strike counter on that creature.",
@@ -361,11 +361,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CW19 Gift of the Candleglow",
+            "card_name": "Gift of the Candleglow",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 20,
+            "number": 17,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Enchant creature\nWhen Gift of the Candleglow enters, draw a card.\nEnchanted creature gets +1/+1 and has ward {1}.",
@@ -381,11 +381,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU01 Stray Daydreams",
+            "card_name": "Stray Daydreams",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 43,
+            "number": 79,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose one \u2013\n\u2022 Create a 1/1 white Spirit creature token with flying.\n\u2022 Draw a card.",
@@ -401,11 +401,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU02 Dreamer of Empowerment",
+            "card_name": "Dreamer of Empowerment",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Elf Shaman",
-            "number": 44,
+            "number": 48,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flying\nWhenever you cast a noncreature spell, Dreamer of Empowerment gets +2/+0 until end of turn.",
@@ -421,11 +421,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU03 Haunted Wanderer",
+            "card_name": "Haunted Wanderer",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Human Scout",
-            "number": 45,
+            "number": 64,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Whenever you put a counter on Haunted Wanderer, if it has no other counters on it, create a 1/1 white Spirit creature token with flying.",
@@ -441,11 +441,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU04 Ghastly Motivator",
+            "card_name": "Ghastly Motivator",
             "color": "U",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Draumur",
-            "number": 46,
+            "number": 61,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying\n[i]Reimagine[/i] \u2013 When Ghastly Motivator enters, you may remove a counter from a permanent you control. If you do, draw a card.",
@@ -461,11 +461,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU05 Looming Nightmare",
+            "card_name": "Looming Nightmare",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment Creature \u2013 Draumur",
-            "number": 47,
+            "type": "Enchantment Creature \u2013 Spirit",
+            "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying\nThis creature enters tapped with two stun counters on it.",
@@ -481,11 +481,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU06 Scuttling Head",
+            "card_name": "Scuttling Head",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Horror",
-            "number": 48,
+            "number": 74,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When Scuttling Head enters, scry 2, then draw a card.",
@@ -501,7 +501,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU07 Dreamer of Omens",
+            "card_name": "Dreamer of Omens",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Human Shaman",
@@ -521,11 +521,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU08 Gangley Thing",
+            "card_name": "Gangley Thing",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Horror",
-            "number": 50,
+            "number": 60,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "When Gangley Thing enters, put two -1/-1 counters on a creature you control.",
@@ -541,11 +541,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU09 Destiny Enforcer",
+            "card_name": "Destiny Enforcer",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Giant Hero",
-            "number": 51,
+            "number": 45,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "Whenever you put a counter on an enhancement you control, Destiny Enforcer can't be blocked this turn.",
@@ -561,11 +561,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU10 Unsubstantiated Obliterator",
+            "card_name": "Unsubstantiated Obliterator",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2013 Horror Leviathan",
-            "number": 52,
+            "number": 82,
             "color_identity": "U",
             "cost": "{5}{U}",
             "rules_text": "Unsubstantiated Obliterator enters with two -1/-1 counters on it.\n[i]Reimagine[/i] \u2013 {2}{U}: Remove a counter from a permanent you control.",
@@ -581,11 +581,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU11 Dreams of Rejection",
+            "card_name": "Dreams of Rejection",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 53,
+            "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nCounter target spell, then choose one \u2013\n\u2022 Target creature gains flying until end of turn.\n\u2022 Scry 2",
@@ -601,11 +601,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU12 Stalwart Mind",
+            "card_name": "Stalwart Mind",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 54,
+            "number": 78,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target spell unless its controller pays {2}. If you put a counter on a permanent this turn, counter that spell instead.",
@@ -621,11 +621,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU13 Face Nightmares",
+            "card_name": "Face Nightmares",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 55,
+            "number": 57,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose two, You may choose the same mode more than once --\n\u2022 Tap target creature and put a stun counter on it.\n\u2022 Untap target creature and put a vigilance counter on it.",
@@ -641,11 +641,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU14 Homeward Bound",
+            "card_name": "Homeward Bound",
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2013 Quest",
-            "number": 56,
+            "number": 66,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on \nI \u2013 Return target creature to its owners hand.\nII \u2013 Scry 2.\nIII \u2013 Draw a card.",
@@ -661,14 +661,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU15 Solitary meditation",
+            "card_name": "Solitary Meditation",
             "color": "U",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 57,
+            "number": 77,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When Solitary meditation enters, put a stun counter on a creature you control.\nWhenever you remove a counter from a permanent you control for the first time each turn, target creature can't be blocked this turn.",
+            "rules_text": "When Solitary Meditation enters, put a stun counter on a creature you control.\nWhenever you remove a counter from a permanent you control for the first time each turn, target creature can't be blocked this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -681,17 +681,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU16 Historian's Calling",
+            "card_name": "Historian's Calling",
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2013 Quest",
-            "number": 58,
+            "number": 65,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever Historian's Calling enters and you cast a noncreature spell, put a quest counter on Historian's Calling.\nI \u2013 Draw two cards\nII, III \u2013 Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter this enchantment.\nI \u2013 Draw two cards\nII, III \u2013 Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever Historian's Calling enters and you cast a noncreature spell, put a quest counter on Historian's Calling.\nI \u2013 Draw two cards\nII, III \u2013 Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter this enchantment.\nI \u2013 Draw two cards\nII, III \u2013 Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.\n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -701,11 +701,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU17 Thought Revision",
+            "card_name": "Thought Revision",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 59,
+            "number": 80,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "[i]Reimagine[/i] \u2013 Draw two cards, then discard a card unless you remove a counter from a permanent you control.",
@@ -721,11 +721,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU18 Sleep Paralysis",
+            "card_name": "Sleep Paralysis",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 60,
+            "number": 76,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChose one \u2013\n\u2022 Target creature gets -4/-0 until end of turn.\n\u2022 Target permanent loses all abilities until end of turn. Remove any number of counters from it.",
@@ -741,11 +741,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CU19 Dreamhopping",
+            "card_name": "Dreamhopping",
             "color": "U",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 61,
+            "number": 50,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "When Dreamhopping enters, you may draw a card.\nWhenever you cast a noncreature spell, you may sacrifice Dreamhopping. If you do, draw a card.",
@@ -761,11 +761,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB01 Persistent Gurgle",
+            "card_name": "Persistent Gurgle",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Horror",
-            "number": 84,
+            "number": 110,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, each opponent loses 1 life, and you gain 1 life.",
@@ -781,11 +781,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB02 Ichorine Apostle",
+            "card_name": "Ichorine Apostle",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Cleric",
-            "number": 85,
+            "number": 103,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Menace\nProwess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]",
@@ -801,11 +801,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB03 Dream Coaxer",
+            "card_name": "Dream Coaxer",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Shaman",
-            "number": 86,
+            "number": 89,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Whenever Dream Coaxer enters, exile the top card of your library. For as long as you control Dream Coaxer, you may play that card from exile. If you cast a spell this way, you lose life equal to its mana value.",
@@ -821,11 +821,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB04 Ego Thirster",
+            "card_name": "Ego Thirster",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Drake",
-            "number": 87,
+            "number": 93,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying\n{B}, Sacrifice an enchantment: Target opponent loses 1 life and you gain 1 life.",
@@ -841,11 +841,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB05 Maddened Lycan",
+            "card_name": "Maddened Lycan",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Barbarian",
-            "number": 88,
+            "number": 106,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Menace\n[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, you may sacrifice a nonland permanent. If you do, draw a card.",
@@ -861,11 +861,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB06 Executor of Destiny",
+            "card_name": "Executor of Destiny",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Human Hero",
-            "number": 89,
+            "number": 96,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Whenever an enchantment enters under your control, this creature deals 1 damage to each opponent.",
@@ -881,11 +881,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB07 Festering Patriarch",
+            "card_name": "Festering Patriarch",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Beast",
-            "number": 90,
+            "number": 99,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Festering Patriarch gets +1/+1 for each other Mutant you control.",
@@ -901,11 +901,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB08 Shapes in the Night",
+            "card_name": "Shapes in the Night",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 91,
+            "number": 114,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose two. You may choose the same mode more than once. \n\u2022 Create a tapped 2/2 black Mutant creature token.\n\u2022 Each opponent loses 2 life and you gain 2 life.",
@@ -921,11 +921,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB09 Skinless Almalgamate",
+            "card_name": "Skinless Almalgamate",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Horror",
-            "number": 92,
+            "number": 115,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Whenever Skinless Almalgamate dies, create two 2/2 black Mutant creature tokens.",
@@ -941,11 +941,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB10 Snarl of Death",
+            "card_name": "Snarl of Death",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Beast",
-            "number": 93,
+            "number": 117,
             "color_identity": "B",
             "cost": "{5}{B}",
             "rules_text": "Whenever Snarl of Death enters, exile any number of noncreature, nonland cards from your graveyard. Create an X/X black Horror enchantment creature token, where X is the number of cards exiled this way.",
@@ -961,11 +961,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB11 Horrid Omen",
+            "card_name": "Horrid Omen",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 94,
+            "number": 102,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose one.\n\u2022 Each opponent discards a card.\n\u2022 Put a -1/-1 counter on target creature.",
@@ -981,11 +981,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB12 Tempting Whispers",
+            "card_name": "Tempting Whispers",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 95,
+            "number": 119,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "When this enchantment enters, exile the top two cards of your library face down. You may look at those cards.\n{1}, Pay 1 life: Put a card exiled with this enchantment into your hand. Then if there are no cards exiled with this enchantment, sacrifice it.",
@@ -1001,11 +1001,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB13 Toy With Bodies",
+            "card_name": "Toy With Bodies",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 96,
+            "number": 121,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose one.\n\u2022 Return target creature card from your graveyard to your hand.\n\u2022 Sacrifice a creature. If you do, draw two cards.",
@@ -1021,17 +1021,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB14 Thirst for Domination",
+            "card_name": "Thirst for Domination",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment \u2013 Quest",
-            "number": 97,
+            "number": 120,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on this enchantment.\nI \u2013 Create a 2/2 black Mutant creature token.\nII, III \u2013 Mutants you control get +1/+1 and gain menace until end of turn.",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on this enchantment.\nI \u2013 Create a 2/2 black Mutant creature token.\nII, III \u2013 Mutants you control get +1/+1 and gain menace until end of turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on this enchantment.\nI \u2013 Create a 2/2 black Mutant creature token.\nII, III \u2013 Mutants you control get +1/+1 and gain menace until end of turn.",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on this enchantment.\nI \u2013 Create a 2/2 black Mutant creature token.\nII, III \u2013 Mutants you control get +1/+1 and gain menace until end of turn.\n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -1041,11 +1041,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB15 Onset Repugnance",
+            "card_name": "Onset Repugnance",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 98,
+            "number": 109,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flash\nEnchant creature\nEnchanted creature gets +1/+1 and has deathtouch.",
@@ -1061,11 +1061,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB16 Compulsive Sratching",
+            "card_name": "Compulsive Sratching",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 99,
+            "number": 86,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Put a -1/-1 counter on target creature. \nDraw a card.",
@@ -1081,11 +1081,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB17 Embrace Despair",
+            "card_name": "Embrace Despair",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment \u2013 Quest",
-            "number": 100,
+            "number": 95,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on this enchantment.\nI \u2013 Each player sacrifices a creature.\nII \u2013 Each player discards a card.\nIII \u2013 Exile a creature card from your graveyard. Until the end of your next turn, you may cast it.",
@@ -1101,11 +1101,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB18 Premature Tragedy",
+            "card_name": "Premature Tragedy",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 101,
+            "number": 111,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Target creature gets -10/-10 until end of turn.",
@@ -1121,11 +1121,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB19 Dreams of Falling",
+            "card_name": "Dreams of Falling",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 102,
+            "number": 91,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose one.\n\u2022 Target creature gets -2/-2 until end of turn.\n\u2022 Scry 1, then draw a card. You lose 1 life.",
@@ -1141,11 +1141,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR01 Blood Craized Mutant",
+            "card_name": "Blood Craized Mutant",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Warrior",
-            "number": 125,
+            "number": 126,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Haste\n[i]Aberrant[/i] \u2013 Whenever one or more card you own leaves exile, this creature gets +2/+1 until end of turn.",
@@ -1161,11 +1161,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR02 Cultish Sorcerer",
+            "card_name": "Cultish Sorcerer",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Wizard",
-            "number": 126,
+            "number": 135,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "When this creature enters, you may discard a card, if you do, draw a card.\nPremonition {R} [i](You may pay {R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -1181,11 +1181,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR03 Unsanctimonious Oprotunist",
+            "card_name": "Unsanctimonious Oprotunist",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Rouge",
-            "number": 127,
+            "number": 164,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Whenever an attacking creature you control dies, this creature deals 1 damage to each opponent.",
@@ -1201,11 +1201,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR04 Run Forever and Never Tire",
+            "card_name": "Run Forever and Never Tire",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 128,
+            "number": 158,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose one.\n\u2022 Create a 2/1 red Rouge creature token. Creatures you control gain haste until end of turn.\n\u2022 Up to two target creatures can't block this turn.",
@@ -1221,11 +1221,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR05 Dreamer of Carnage",
+            "card_name": "Dreamer of Carnage",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Shaman",
-            "number": 129,
+            "number": 137,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Whenever you cast a modal spell, this creature gains first strike until end of turn.\n{2}{R}{R}, Sacrifice this creature: Return a modal spell from your graveyard to your hand.",
@@ -1241,11 +1241,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR06 Fanatic Visonary",
+            "card_name": "Fanatic Visonary",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Cleric",
-            "number": 130,
+            "number": 143,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Menace\nWhenever this creature enters, exile the top card of your library. You may play that card until the end of your next turn.",
@@ -1261,11 +1261,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR07 Ritual Borne",
+            "card_name": "Ritual Borne",
             "color": "R",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Angel Horror",
-            "number": 131,
+            "number": 157,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nTrample, haste",
@@ -1281,11 +1281,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR08 Candleglow Ritualist",
+            "card_name": "Candleglow Ritualist",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Monk",
-            "number": 132,
+            "number": 133,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Whenever this creature or another creature you control enters, this creature deals 1 damage to each opponent.",
@@ -1301,11 +1301,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR09 Hoarder of Bones",
+            "card_name": "Hoarder of Bones",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Beast",
-            "number": 133,
+            "number": 147,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Reach\n{1}, Sacrifice a creature, discard a card: Draw a card.",
@@ -1321,11 +1321,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR10 Gangley Hemocrat",
+            "card_name": "Gangley Hemocrat",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Cleric",
-            "number": 134,
+            "number": 145,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\n{R}, Sacrifice an artifact or creature: Target creature can't block this turn.",
@@ -1341,11 +1341,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR11 Ocult Evangel",
+            "card_name": "Ocult Evangel",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Human Cleric",
-            "number": 135,
+            "number": 152,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Whenever this creature enters, create a 2/1 red Rogue creature token.\nPremonition {2}{R} [i](You may pay {2}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -1361,11 +1361,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR12 Seeing Double",
+            "card_name": "Seeing Double",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 136,
+            "number": 159,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Create a token that's a copy of target creature you control, except it has haste and \u201cAt the beginning of the end step, sacrifice this token.\u201d",
@@ -1381,11 +1381,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR13 Power Fantasy",
+            "card_name": "Power Fantasy",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 137,
+            "number": 153,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose one.\n\u2022 Target creature gets +2/+0 and gains first strike until end of turn.\n\u2022 Put a first strike counter on target creature.",
@@ -1401,11 +1401,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR14 Reckless Impulse",
+            "card_name": "Reckless Impulse",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 138,
+            "number": 156,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",
@@ -1421,11 +1421,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR15 Makeshift Campfire",
+            "card_name": "Makeshift Campfire",
             "color": "R",
             "rarity": "common",
             "type": "Artifact",
-            "number": 139,
+            "number": 150,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Whenever this artifact enters, you may discard a card. If you do, draw two cards.\n{T}, Sacrifice a creature you control: This artifact deals 1 damage to each opponent.",
@@ -1441,11 +1441,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR16 Down to the Wik",
+            "card_name": "Down to the Wik",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 140,
+            "number": 136,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose one.\n\u2022 Destroy target artifact\n\u2022 Exile the top card of your library. Until the end of your next turn, you may play it.",
@@ -1461,11 +1461,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR17 Strangle",
+            "card_name": "Strangle",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 141,
+            "number": 162,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Strangle deals 3 damage to target creature or planeswalker.",
@@ -1481,11 +1481,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR18 Burn and Pillage",
+            "card_name": "Burn and Pillage",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 142,
+            "number": 129,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nBurn and Pillage deals 3 damage to target creature or planeswalker. Choose one.\n\u2022 Scry 2.\n\u2022 Create a Treasure token.",
@@ -1501,11 +1501,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CR19 Evicerate",
+            "card_name": "Evicerate",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 143,
+            "number": 141,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Evicerate deals 6 damage to target creature or planeswalker.",
@@ -1521,11 +1521,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG01 Savior in the Dark",
+            "card_name": "Savior in the Dark",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Human Survivor",
-            "number": 166,
+            "number": 191,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "This creature enters with a -1/-1 counter.\n[i]Reimagine[/i] \u2013 {T}, Remove a counter from a permanent you control: Add one mana of any color.",
@@ -1541,11 +1541,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG02 Disciple of the Beastly",
+            "card_name": "Disciple of the Beastly",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Druid",
-            "number": 167,
+            "number": 177,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Trample\n[i]Aberrant[/i] \u2013 This creature has +2/+2 as long a card you own has left exile this turn.",
@@ -1561,11 +1561,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG03 Spindley Abomination",
+            "card_name": "Spindley Abomination",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Beast",
-            "number": 168,
+            "number": 194,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "When this creature dies, if it's attacking, draw a card.",
@@ -1581,11 +1581,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG04 Tenacious Wanderer",
+            "card_name": "Tenacious Wanderer",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Human Survivor",
-            "number": 169,
+            "number": 203,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "This creature enters with a vigilance counter.\n[i]Reimagine[/i] \u2013 {1}{G}, Remove a counter from a permanent you control: Target creature must be blocked this turn if able.",
@@ -1601,11 +1601,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG05 Wicker Titan",
+            "card_name": "Wicker Titan",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Giant",
-            "number": 170,
+            "number": 205,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "This creature enters with two-1/-1 counters.\nWhenever you put a counter on another permanent you control, you gain 1 life.",
@@ -1621,11 +1621,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG06 Lantern Guide",
+            "card_name": "Lantern Guide",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Human Cleric",
-            "number": 171,
+            "number": 185,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "When this creature enters, target creature gains indestructible until end of turn.\nPremonition {1}{G} [i](You may pay {1}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -1641,11 +1641,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG07 Aracnid Host",
+            "card_name": "Aracnid Host",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Spider",
-            "number": 172,
+            "number": 166,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Reach\nWhenever this creature dies, create a 2/2 black Mutant creature token.",
@@ -1661,11 +1661,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG08 Screeching Apex",
+            "card_name": "Screeching Apex",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Beast",
-            "number": 173,
+            "number": 192,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "When this creature enters, put a trample counter on up to two Mutants you control.",
@@ -1681,11 +1681,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG09 Mass of Eyes and Teeth",
+            "card_name": "Mass of Eyes and Teeth",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Horror",
-            "number": 174,
+            "number": 188,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "This creature enters with two -1/-1 counters.\nWhenever another creature dies under your control, you may remove a counter from this creature.",
@@ -1701,11 +1701,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG10 Beast of Puss and Senew",
+            "card_name": "Beast of Puss and Senew",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Barbarian",
-            "number": 175,
+            "number": 167,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, this creature and other Mutants you control get +1/+0 until end of turn.",
@@ -1721,11 +1721,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG11 Offering Gaurdian",
+            "card_name": "Offering Gaurdian",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Spirit",
-            "number": 176,
+            "number": 190,
             "color_identity": "G",
             "cost": "{5}{G}",
             "rules_text": "When Offering Gaurdian enters, exile the top three cards of your library.You may put a creature card exiled this way into your hand. \nPremonition {3}{G} [i](You may pay {3}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -1741,11 +1741,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG12 Collosal Barmble",
+            "card_name": "Collosal Barmble",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Mutant Giant",
-            "number": 177,
+            "number": 173,
             "color_identity": "G",
             "cost": "{6}{G}",
             "rules_text": "Reach\nCollosal Barmble enters with a defender counter.\nTap two untapped creatures you control: Collosal Barmble can attack this turn as if it didn't have defender.",
@@ -1761,11 +1761,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG13 Bramble of Memories",
+            "card_name": "Bramble of Memories",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Plant",
-            "number": 178,
+            "number": 168,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Defender\nWhenever Bramble of Memories enters, exile a card from your graveyard.\nWhen Bramble of Memories dies, return all cards exiled with it to your hand.",
@@ -1781,11 +1781,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG14 Unbreakable Will",
+            "card_name": "Unbreakable Will",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 179,
+            "number": 204,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "[i]Reimagine[/i] \u2013 Target creature gets +2/+2 until end of turn. You may remove a counter from a permanent you control, if you do, it gets +4/+4 until end of turn instead.",
@@ -1801,11 +1801,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG15 March in Candleglow",
+            "card_name": "March in Candleglow",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 180,
+            "number": 187,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Creatures you control gets +2/+0 until end of turn. Creatures you control with a counter on it gain trample until end of turn.",
@@ -1821,11 +1821,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG16 Mental Fortitude",
+            "card_name": "Mental Fortitude",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
-            "number": 181,
+            "number": 189,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Enchant creature\nEnchanted creature gets +2/+2 and gains trample.\nIf enchanted creature would be destroyed, destroy this enchantment instead.",
@@ -1841,11 +1841,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG17 Strike from Above",
+            "card_name": "Strike from Above",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 182,
+            "number": 198,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Each opponent sacrifices a creature with flying, and an artifact or enchantment.",
@@ -1861,11 +1861,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG18 Ground to Reality",
+            "card_name": "Ground to Reality",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 183,
+            "number": 184,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Destroy target token.",
@@ -1881,11 +1881,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CG19 Drag Away",
+            "card_name": "Drag Away",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 184,
+            "number": 178,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. If that creature would die this turn, exile it instead.",
@@ -1901,7 +1901,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "CC01 Unformed Thought",
+            "card_name": "Unformed Thought",
             "color": "",
             "rarity": "common",
             "type": "Enchantment Creature \u2013 Spirit",
@@ -1921,11 +1921,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CC02 Possesed Armor",
+            "card_name": "Possesed Armor",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2013 Soldier",
-            "number": 239,
+            "number": 241,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "[i]Reimagine[/i] \u2013 When Possesed Armor enters, you may remove a counter from a permanent you control. If you do, scry 2.",
@@ -1941,11 +1941,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CC03 Statue of the Bellringer",
+            "card_name": "Statue of the Bellringer",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 240,
+            "number": 243,
             "color_identity": "C",
             "cost": "{5}",
             "rules_text": "Whenever you cast a noncreature spell, this artifact becomes a 4/4 Angel creature with flying in addition to its other types until end of turn.",
@@ -1961,11 +1961,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CC04 Prophesied Weapon",
+            "card_name": "Prophesied Weapon",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2013 Equipment",
-            "number": 241,
+            "number": 242,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Equipped creature gets +2/+2.\nWhenever you activate the final quest ability of a Quest you control, you may attach Prophesied Weapon to target creature you control.\nEquip {3}",
@@ -1981,11 +1981,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CC05 Illuminating Candle",
+            "card_name": "Illuminating Candle",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 242,
+            "number": 239,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{1}, {T}: Add one mana of any color.\n{3}, {T}, Sacrifice this artifact: Draw a card.",
@@ -2001,11 +2001,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "CC06 Manalith",
+            "card_name": "Manalith",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 243,
+            "number": 240,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.",
@@ -2021,11 +2021,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW01 Teiran Wanderer",
+            "card_name": "Teiran Wanderer",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Scout",
-            "number": 30,
+            "number": 37,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "This creature gets +1/+1 for each different type of counter on it.\n[i]Reimagine[/i] \u2013 {W}, {T}, Remove a counter from a permanent you control: Put your choice of a first strike, flying, lifelink, or vigilance counter on this creature.",
@@ -2041,11 +2041,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW02 Priestess of Lights",
+            "card_name": "Priestess of Lights",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Cleric",
-            "number": 31,
+            "number": 27,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "When this creature enters, scry 2.\nPremonition {W} [i](You may pay {W} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -2061,11 +2061,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW03 Lost Mentor",
+            "card_name": "Lost Mentor",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Spirit",
-            "number": 32,
+            "number": 24,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Whenever you the final Quest ability of a Quest you control triggers, put a first strike, flying, and vigilance counter on this creature. This triggers only once.",
@@ -2081,11 +2081,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW04 Candleglow Drake",
+            "card_name": "Candleglow Drake",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Drake",
-            "number": 33,
+            "number": 6,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Flying\nWhen Candleglow Drake enters, create a token copy of a token you control. It enters with a decayed counter. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
@@ -2101,11 +2101,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW05 Prophecy Scribe",
+            "card_name": "Prophecy Scribe",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Advisor",
-            "number": 34,
+            "number": 31,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "This creature gets +1/+1 for each quest in your graveyard and on the battlefield.\n{2}{W}, Sacrifice an enchantment: Draw a card. Activate only once each turn.",
@@ -2121,11 +2121,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW06 Virtuous Nightmare",
+            "card_name": "Virtuous Nightmare",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Horse Nightmare",
-            "number": 35,
+            "number": 41,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "This creature enters with a vigilance counter.\nVirtuous Nightmare power is equal to the number of counters among permanents you control.",
@@ -2141,11 +2141,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW07 Gargantuan Mutant",
+            "card_name": "Gargantuan Mutant",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Giant",
-            "number": 36,
+            "number": 16,
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "When Gargantuan Mutant enters, put a stun counter on each tapped creature your opponent controls. \nGargantuan Mutant can block an additional creature each combat.",
@@ -2161,11 +2161,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW08 Disappearing Man",
+            "card_name": "Disappearing Man",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Spirit",
-            "number": 37,
+            "number": 12,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Whenever Disappearing Man deals combat damage, return a creature you control to its owners hand.",
@@ -2181,17 +2181,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW09 Valiant Heroics",
+            "card_name": "Valiant Heroics",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Quest",
-            "number": 38,
+            "number": 40,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Valiant Heroics\nI \u2013 Create a 2/2 white Knight creature token with vigilance.\nII, III \u2013 Target creature gains double strike until end of turn.",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Valiant Heroics\nI \u2013 Create a 2/2 white Knight creature token with vigilance.\nII, III \u2013 Target creature gains double strike until end of turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Valiant Heroics\nI \u2013 Create a 2/2 white Knight creature token with vigilance.\nII, III \u2013 Target creature gains double strike until end of turn.",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Valiant Heroics\nI \u2013 Create a 2/2 white Knight creature token with vigilance.\nII, III \u2013 Target creature gains double strike until end of turn.\n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -2201,11 +2201,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW10 Seek Offering",
+            "card_name": "Seek Offering",
             "color": "W",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 39,
+            "number": 35,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Exile target creature. Its controller may cast it from exile. It costs {2} more to cast this way.",
@@ -2221,14 +2221,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW11 Ruthless Determination",
+            "card_name": "Ruthless Determination",
             "color": "W",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 40,
+            "number": 34,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "[i]Reimagine[/i] \u2013 Remove a counter from a permanent you control, if you do put a double strike counter on target creature. Otherwise put a first strike counter on that creature.",
+            "rules_text": "[i]Reimagine[/i] \u2013 You may remove a counter from a permanent you control, if you do put a double strike counter on target creature. Otherwise put a first strike counter on that creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2241,11 +2241,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU01 Enspirited Gaurdian",
+            "card_name": "Enspirited Gaurdian",
             "color": "U",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2013 Construct Bear",
-            "number": 71,
+            "number": 54,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flash\nSacrifice Enspirited Gaurdian: Counter target spell that targets a permanent you control",
@@ -2261,11 +2261,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU02 Etherial Skeleton",
+            "card_name": "Etherial Skeleton",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 72,
+            "number": 56,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flash\n[i]Reimagine[/i] \u2013 When this creature enters, you may remove a counter from a permanent you control. If you do, draw a card.",
@@ -2281,11 +2281,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU03 Deep Shadow Infiltrator",
+            "card_name": "Deep Shadow Infiltrator",
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Hero",
-            "number": 73,
+            "number": 44,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Vigilance\nWhenever you cast a noncreature spell, this creature can't be blocked this turn.",
@@ -2301,17 +2301,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU04 Whispers of the Forgotten",
+            "card_name": "Whispers of the Forgotten",
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Quest",
-            "number": 74,
+            "number": 83,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Create a 1/1 white Spirit creature token with flying\nII, III \u2013 Tap target creature and put a stun counter on it",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Create a 1/1 white Spirit creature token with flying\nII, III \u2013 Tap target creature and put a stun counter on it\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Create a 1/1 white Spirit creature token with flying\nII, III \u2013 Tap target creature and put a stun counter on it",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Create a 1/1 white Spirit creature token with flying\nII, III \u2013 Tap target creature and put a stun counter on it\n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -2321,11 +2321,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU05 Free Soul",
+            "card_name": "Free Soul",
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Spirit",
-            "number": 75,
+            "number": 59,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Whenever you cast a noncreature spell, put a flying counter on target creature you control.",
@@ -2341,11 +2341,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU06 Dreams of Rushing Waves",
+            "card_name": "Dreams of Rushing Waves",
             "color": "U",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 76,
+            "number": 52,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose two. You may choose the same mode more than once. \u2013\n\u2022 Target creature can't be blocked this turn\n\u2022 Create a 0/3 blue Crab creature token. Target player mills two cards.",
@@ -2361,11 +2361,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU07 Half Formed Leviathan",
+            "card_name": "Half Formed Leviathan",
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Leviathan",
-            "number": 77,
+            "number": 63,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]\nHalf Formed Leviathan enters with three -1/-1 counters on it.\nWhenever you choose one or more modes, remove up to that may counters from this creature.",
@@ -2381,17 +2381,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU08 Doomed to Meaninglessness",
+            "card_name": "Doomed to Meaninglessness",
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Quest",
-            "number": 78,
+            "number": 46,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nFlash.\nI \u2013 Put target creature on top of its owners library, second from the top. \nII, III \u2013 You may have each player draw a card.",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nFlash\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Put target creature on top of its owners library, second from the top. \nII, III \u2013 You may have each player draw a card.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nFlash.\nI \u2013 Put target creature on top of its owners library, second from the top. \nII, III \u2013 You may have each player draw a card.",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nFlash\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Put target creature on top of its owners library, second from the top. \nII, III \u2013 You may have each player draw a card.\n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -2401,11 +2401,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU09 Inexorable Sloth",
+            "card_name": "Inexorable Sloth",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 79,
+            "number": 67,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Creatures you don't control get -2/-0 until end of turn.\n[i]Reimagine[/i] \u2013 You may remove a counter from a permanent you control. If you do, tap up to two target creatures,",
@@ -2421,11 +2421,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU10 Etherial Experince",
+            "card_name": "Etherial Experince",
             "color": "U",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 80,
+            "number": 55,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose three. You may choose the same mode more than once. \u2013\n\u2022 Return target creature to its owners hand.\n\u2022 Untap target permanent.",
@@ -2441,11 +2441,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU11 Control Magic",
+            "card_name": "Control Magic",
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 81,
+            "number": 43,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Enchant creature\nYou control enchanted creature.",
@@ -2461,11 +2461,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB01 Unformed Terror",
+            "card_name": "Unformed Terror",
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Horror",
-            "number": 112,
+            "number": 122,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n{1}{B}, Exile this card and another creature card from your graveyard: You may play one of them this turn. If you do, it enters tapped. Activate only during your turn.",
@@ -2481,11 +2481,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB02 Smolder Hound",
+            "card_name": "Smolder Hound",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Dog",
-            "number": 113,
+            "number": 116,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flying\nWhen Smolder Hound enters, you may sacrifice a creature or enchantment. If you do, put a flying counter on up to one target creature you control.",
@@ -2501,11 +2501,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB03 Embrace Delusion",
+            "card_name": "Embrace Delusion",
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Quest",
-            "number": 114,
+            "number": 94,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Create two 1/1 black Horror enchantment creature tokens with menace.\nII \u2013 You gain life equal to the number of enchantments you control.\nIII \u2013 Each opponent loses life equal to the number of enchantments you control.",
@@ -2521,11 +2521,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB04 Whispy Nightmare",
+            "card_name": "Whispy Nightmare",
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Spirit",
-            "number": 115,
+            "number": 124,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Flying, deathtouch\nWhen this creature dies, exile the top card of your library. You may play it for as long as it remains exiled.",
@@ -2541,11 +2541,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB05 Beconer of the Epicenter",
+            "card_name": "Beconer of the Epicenter",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Warlock",
-            "number": 116,
+            "number": 84,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "When this creature dies, create a 5/5 black Demon creature token with flying.",
@@ -2561,11 +2561,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB06 Dark Horseman",
+            "card_name": "Dark Horseman",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Shaman",
-            "number": 117,
+            "number": 87,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn. \n[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, this creature can't be blocked until end of turn.",
@@ -2581,11 +2581,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB07 Whispers of Guilt",
+            "card_name": "Whispers of Guilt",
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 118,
+            "number": 123,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose two. You may choose the same mode more than once \u2013\n\u2022 Create a 1/1 black Horror enchantment creature token with menace.\n\u2022 Choose a card type. Exile all cards of the chosen type from each opponent's graveyard.",
@@ -2601,11 +2601,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB08 Lord of the Deformed",
+            "card_name": "Lord of the Deformed",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Knight",
-            "number": 119,
+            "number": 105,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Flying\nWhen Lord of the Deformed enters, exile the top two cards of your library. You may play cards exiled this way for as long as they remain exiled. Whenever you cast a spell this way, you lose life equal to its mana value unless it's a Mutant.",
@@ -2621,11 +2621,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB09 Dreams of Mourning",
+            "card_name": "Dreams of Mourning",
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 120,
+            "number": 92,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nDestroy target creature. Choose one \u2013\n\u2022 Each player mills 3 cards.\n\u2022 You gain 3 life.",
@@ -2641,11 +2641,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB10 Call Forth the Rotten",
+            "card_name": "Call Forth the Rotten",
             "color": "B",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 121,
+            "number": 85,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Create a 2/2 black Mutant creature token. Put a menace counter on each Mutant you control.",
@@ -2661,11 +2661,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR01 Candle Glow Vigilant",
+            "card_name": "Candle Glow Vigilant",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Warrior",
-            "number": 153,
+            "number": 131,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Haste\nPremonition {R} [i](You may pay {R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -2681,11 +2681,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR02 Blood Worhsiper",
+            "card_name": "Blood Worhsiper",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Barbarian",
-            "number": 154,
+            "number": 127,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Menace\nWhenever Blood Worhsiper enters or attacks, target creature can't block this turn.",
@@ -2701,11 +2701,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR03 Mutant Ringleader",
+            "card_name": "Mutant Ringleader",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Warrior",
-            "number": 155,
+            "number": 151,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "{1}, Sacrifice a creature: Put a menace counter on target creature.",
@@ -2721,11 +2721,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR04 Dreamwalker Alchemist",
+            "card_name": "Dreamwalker Alchemist",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Shaman",
-            "number": 156,
+            "number": 139,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Trample\nWhenever you cast a modal spell, create a number of Treasure tokens equal to the number of modes chosen for that spell.",
@@ -2741,11 +2741,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR05 Unformed Skin Stealer",
+            "card_name": "Unformed Skin Stealer",
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Horror",
-            "number": 157,
+            "number": 163,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Menace, trample\n[i]Aberrant[/i] \u2013Whenever one or more cards you own leaves exile, Unformed Skin Stealer deals 2 damage to each opponent.",
@@ -2761,11 +2761,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR06 Smolderhorn Elk",
+            "card_name": "Smolderhorn Elk",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Elk",
-            "number": 158,
+            "number": 161,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Haste\nThis creature doesn't untap during your untap step.\nWhenever another creature enters under your control, untap this creature.",
@@ -2781,11 +2781,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR07 Constant Looming Threat",
+            "card_name": "Constant Looming Threat",
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 159,
+            "number": 134,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose two. You may choose the same mode more than once \u2013\n\u2022 Create a 2/1 red Rouge creature token.\n\u2022 Exile the top card of your library, you may play it until the end of your next turn.",
@@ -2801,11 +2801,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR08 Avatar of Candlelight",
+            "card_name": "Avatar of Candlelight",
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Avatar",
-            "number": 160,
+            "number": 125,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "When this creature enters, exile the top card of your library. You may play it this turn. If this creature is a token, you may cast it without paying it's mana cost. \nPremonition {4}{R}{R} [i](You may pay {4}{R}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -2821,14 +2821,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR09 Dream of Carnage",
+            "card_name": "Dreams of Carnage",
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 161,
+            "number": 138,
             "color_identity": "R",
-            "cost": "{3}{R}{R}",
-            "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose three. You can choose the same mode more than once.\n\u2022 Dream of Carnage deals 2 damage to each creature.\n\u2022 Creatures you control get +1/+0 and gain trample until end of turn.",
+            "cost": "{3}{R}",
+            "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose three. You can choose the same mode more than once.\n\u2022 Dreams of Carnage deals 1 damage to each creature.\n\u2022 Creatures you control get +1/+0 and gain trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2841,11 +2841,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR10 Reborn in Flames",
+            "card_name": "Reborn in Flames",
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 162,
+            "number": 155,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Exile target creature you control. Return it to the battlefield under its owners control. That creature gains haste and trample until end of turn.",
@@ -2861,11 +2861,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR11 Fling",
+            "card_name": "Fling",
             "color": "R",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 163,
+            "number": 144,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
@@ -2881,14 +2881,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG01 Fester Hoard",
+            "card_name": "Fester Hoard",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Horror",
-            "number": 194,
+            "number": 181,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Fester Hoard gets +1/+1 for each other Mutant you control.",
+            "rules_text": "Mutants you control get +1/+1.",
             "flavor_text": "[i]They skitter as one.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2901,11 +2901,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG02 Eldritch Attendant",
+            "card_name": "Eldritch Attendant",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Cleric",
-            "number": 195,
+            "number": 179,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, you gain 2 life.",
@@ -2921,14 +2921,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG03 Candleglow Naturalist",
+            "card_name": "Candleglow Naturalist",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Barbarian",
-            "number": 196,
+            "number": 172,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Trample\nWhen this creature enters, search your library for a basic land card reveal and put it into you hand. If this creature is a token, put it onto the battlefield tapped instead. Shuffle afterwards.\nPremonition {3}{G}",
+            "rules_text": "Trample\nWhen this creature enters, search your library for a basic land card. Reveal it and put it into you hand. If this creature is a token, put it onto the battlefield tapped instead. Shuffle afterwards.\nPremonition {3}{G}",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2941,14 +2941,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG04 Teiran Brawler",
+            "card_name": "Teiran Brawler",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Orc Barbarian",
-            "number": 197,
+            "number": 199,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Teiran Brawler enters with a trample counter on it.\n[i]Reimagine[/i] \u2013 {2}{G}, Remove a counter from a permanent you control: This creature must be blocked this turn by target creature.",
+            "rules_text": "Teiran Brawler enters with a trample counter on it.\n[i]Reimagine[/i] \u2013 {2}{G}, Remove a counter from a permanent you control: This creature must be blocked this turn by target creature if able.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2961,11 +2961,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG05 Wise Old Bramble",
+            "card_name": "Wise Old Bramble",
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Treefolk",
-            "number": 198,
+            "number": 206,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "This creature enters with three -1/-1 counter on it.\n[i]Reimagine[/i] \u2013 {1}{G}, Remove a counter from a permanent you control: Scry 2.",
@@ -2981,11 +2981,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG06 Conjoined Monstrosity",
+            "card_name": "Conjoined Monstrosity",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Horror",
-            "number": 199,
+            "number": 174,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Trample, reach\nWhenever another Mutant enters, you may put a trample counter on it.",
@@ -3001,11 +3001,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG07 Spindley Goreger",
+            "card_name": "Spindley Goreger",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Spider",
-            "number": 200,
+            "number": 195,
             "color_identity": "G",
             "cost": "{5}{G}",
             "rules_text": "Trample, reach\nWhenever this creature attacks, exile a card from your graveyard. You may play cards exiled this way as long as a creature you control attacked this turn.",
@@ -3021,11 +3021,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG08 Candleglow Beast",
+            "card_name": "Candleglow Beast",
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Giant",
-            "number": 201,
+            "number": 171,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "This creature has haste if it's a token.\nWhen this creature attacks, other creatures you control get +1/+0 and gain trample until end of turn.\nPremonition {4}{G}{G} [i](You may pay {4}{G}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -3041,11 +3041,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG09 Life From Rot",
+            "card_name": "Life From Rot",
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 202,
+            "number": 186,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards. You gain life equal to the sacrificed creature's toughness.",
@@ -3061,11 +3061,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG10 Brave the Bramble",
+            "card_name": "Brave the Bramble",
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 203,
+            "number": 170,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Creatures you control gain hexproof an indestructible until end of turn. \n[i]Reimagine[/i] \u2013 Remove a counter from a permanent you control. If you do, creatures you control get +1/+0 until end of turn.",
@@ -3081,11 +3081,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG11 Curageous Example",
+            "card_name": "Curageous Example",
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Aura",
-            "number": 204,
+            "number": 176,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Enchant creature\nEnchanted creature has +2/+2 and gains trample. \nWhen enchanted creature dies, return this card from your graveyard to your hand.",
@@ -3101,11 +3101,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB12 No Soul May Rest",
+            "card_name": "No Soul May Rest",
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 123,
+            "number": 108,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "If a creature you control would die this turn, exile it instead. You may cast cards exiled this way for as long as they remain exiled. When you cast a creature spell this way, it enters with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
@@ -3121,11 +3121,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB13 Fatal Daydreams",
+            "card_name": "Fatal Daydreams",
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 124,
+            "number": 97,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Destroy target creature if it has mana value 2 or less.\n[i]Aberrant[/i] \u2013 Destroy that creature if it has mana value 4 or less instead if a card you own left exile this turn.",
@@ -3141,11 +3141,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG12 Teiran Scouting",
+            "card_name": "Teiran Scouting",
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 205,
+            "number": 201,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Search your library for two basic land cards and put them onto the battlefield tapped. Shuffle afterwards.\n[i]Reimagine[/i] \u2013 You may remove a counter from a permanent you control. If you do, untap those lands.",
@@ -3161,14 +3161,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UG13 Spiritual Rejuvination",
+            "card_name": "Spiritual Rejuvination",
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 206,
+            "number": 196,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Remove any number of counters from a permanent you control. If you do, draw cards equal to the number of counters removed this way.",
+            "rules_text": "Draw a card for each creature you control with a counter on it. You gain life equal to the number of counters on creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3181,11 +3181,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR12 Pull of the Epicenter",
+            "card_name": "Pull of the Epicenter",
             "color": "R",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 164,
+            "number": 154,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, creatures you control get +1/+0 until end of turn.",
@@ -3201,11 +3201,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UR13 Call Forth the Eager",
+            "card_name": "Call Forth the Eager",
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 165,
+            "number": 130,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Create three 2/1 red Scout creature tokens.",
@@ -3221,11 +3221,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU13 Reduce Form",
+            "card_name": "Reduce Form",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 83,
+            "number": 73,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target creature or enchantment spell.",
@@ -3241,11 +3241,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UU12 Dreamcast",
+            "card_name": "Dreamcast",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 82,
+            "number": 47,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "This spell costs {1} less to cast for each enchantment you control.\nDraw two cards.",
@@ -3261,14 +3261,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW12 Irrational Hope",
+            "card_name": "Irrational Hope",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 41,
+            "number": 22,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Whenever you put a counter on a permanent you control, if its the first time counters have been put in the permanent this turn, you gain 1 life.",
+            "rules_text": "Whenever you put a counter on a permanent you control, if its the first time counters have been put on the permanent this turn, you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3281,11 +3281,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UW13 Healing of the Candleglow",
+            "card_name": "Healing of the Candleglow",
             "color": "W",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 42,
+            "number": 19,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Return target creature or enchantment card from your graveyard to the battlefield.",
@@ -3301,11 +3301,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Shaper of Fates",
+            "card_name": "Shaper of Fates",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Hero",
-            "number": 234,
+            "number": 231,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Vigilance\n[i]Reimagine[/i] \u2013 {W}{U}, Remove a counter from a permanent you control: Draw a card. If you removed a counter from an enchantment, you gain 3 life. Activate only once each turn.",
@@ -3321,11 +3321,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Determined Dreamwalker",
+            "card_name": "Determined Dreamwalker",
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Shaman",
-            "number": 221,
+            "number": 213,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "Flying\nWhenever you cast a noncreature spell, this creature gets +1/+0 until end of turn. \nWhenever this creature deals combat damage to an opponent, if there are six or more instant, sorcery, or enchantment cards that you own in your graveyard or exile, draw a card.",
@@ -3341,11 +3341,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Pestilence Embodied",
+            "card_name": "Pestilence Embodied",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Horror",
-            "number": 227,
+            "number": 224,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Menace\nAt the beginning of your upkeep, exile the top card of your library and lose 1 life. You may play it until end of turn.\n[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, create a 1/1 black Insect creature token with flying.",
@@ -3361,11 +3361,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Reoccurring Predator",
+            "card_name": "Reoccurring Predator",
             "color": "RG",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Warrior",
-            "number": 230,
+            "number": 227,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Trample, haste\nWhenever an attacking creature you control dies, this creature deals 2 damage to target opponent or planeswalker.",
@@ -3381,11 +3381,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Scrappy Survivalist",
+            "card_name": "Scrappy Survivalist",
             "color": "WG",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Warrior",
-            "number": 233,
+            "number": 230,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Lifelink\nCreatures you control with counters on them get +1/+1.",
@@ -3401,14 +3401,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Prophecy Savant",
+            "card_name": "Prophecy Savant",
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Advisor",
-            "number": 228,
+            "number": 225,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "Whenever a quest ability of a quest you control triggers, gain 1 life.\nWhenever an enchantment you control leaves the battlefield, each opponent loses 1 life.",
+            "rules_text": "Whenever a quest ability of a quest you control triggers, you gain 1 life.\nWhenever an enchantment you control leaves the battlefield, each opponent loses 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3421,11 +3421,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Lord of Lucidity",
+            "card_name": "Lord of Lucidity",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Shaman",
-            "number": 226,
+            "number": 222,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Haste\nIf you would choose one or more modes casting a modal spell, you may choose an additional mode.",
@@ -3441,11 +3441,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Skittering Screecher",
+            "card_name": "Skittering Screecher",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2013 Mutant Horror",
-            "number": 236,
+            "number": 233,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Trample\nWhenever this creature attacks, other mutants you control get +1/+1 until end of turn.",
@@ -3461,11 +3461,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Cultish Apothocary",
+            "card_name": "Cultish Apothocary",
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human Cleric",
-            "number": 220,
+            "number": 212,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Haste\nWhenever another creature enters under your control, this creature gets +1/+1 until end of turn and you gain 1 life.",
@@ -3481,11 +3481,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Animated Elderwood",
+            "card_name": "Animated Elderwood",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Enchantment Creature \u2013 Treefrolk",
-            "number": 219,
+            "number": 207,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "Animated Elderwood enters with two -1/-1 counters.\nWhenever a creature you control attacks, if it has power higher than its mana value, draw a card.\n[i]Reimagine[/i] \u2013 At the beginning of your upkeep, remove a counter from a permanent you control. If you do, put a trample counter on a creature you control.",
@@ -3501,17 +3501,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Unbreakable Conviction",
+            "card_name": "Unbreakable Conviction",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Quest",
-            "number": 237,
+            "number": 235,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Prophecy of Leadership\nI \u2013 Draw two cards.\nII, III \u2013 Tap up to one target creature and put a stun counter on it.",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Prophecy of Leadership\nI \u2013 Draw two cards.\nII, III \u2013 Tap up to one target creature and put a stun counter on it.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Prophecy of Leadership\nI \u2013 Draw two cards.\nII, III \u2013 Tap up to one target creature and put a stun counter on it.",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, put a quest counter on Prophecy of Leadership\nI \u2013 Draw two cards.\nII, III \u2013 Tap up to one target creature and put a stun counter on it.\n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -3521,11 +3521,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Esoteric Omen",
+            "card_name": "Esoteric Omen",
             "color": "UB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 222,
+            "number": 215,
             "color_identity": "UB",
             "cost": "{U}{B}",
             "rules_text": "Draw two cards, then discard a card unless you have cast another instant, sorcery, or enchantment spell this turn.",
@@ -3541,11 +3541,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Unwanted Insight",
+            "card_name": "Unwanted Insight",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 238,
+            "number": 236,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
             "rules_text": "When Unwanted Insight enters, draw two cards and you lose 2 life.\n[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, return Unwanted Insight to your hand.",
@@ -3561,11 +3561,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Roiling Bramble",
+            "card_name": "Roiling Bramble",
             "color": "RG",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 232,
+            "number": 229,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Attacking creatures you control get +1/+0\n{1}, Sacrifice a creature: Roiling Bramble deals 1 damage to target player or planeswalker.",
@@ -3581,11 +3581,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Rally the Foolhardy",
+            "card_name": "Rally the Foolhardy",
             "color": "WG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 229,
+            "number": 226,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
             "rules_text": "Put your choice of a vigilance, flying, or first strike counter on target creature you control. Creatures you control with counters on them get +2/+2 and gain trample until end of turn.",
@@ -3601,14 +3601,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Revisit Prophecy",
+            "card_name": "Revisit Prophecy",
             "color": "WB",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 231,
+            "number": 228,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Return target noncreature enchantment from your graveyard to the battlefield.",
+            "rules_text": "Return target noncreature enchantment card from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3621,11 +3621,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Shredded Memory",
+            "card_name": "Shredded Memory",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 235,
+            "number": 232,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nDiscard a card. If you do, choose two. You may choose the same mode more than once.\n\u2022 Draw a card\n\u2022 Shredded Memory deals 2 damage to any target.",
@@ -3641,11 +3641,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Fleshforme Caverns",
+            "card_name": "Fleshforme Caverns",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 224,
+            "number": 218,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Whenever Fleshforme Caverns enters or you cast a Mutant spell, create a 2/2 black Mutant creature token,",
@@ -3661,11 +3661,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Etherial Reinvigoration",
+            "card_name": "Etherial Reinvigoration",
             "color": "WR",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 223,
+            "number": 216,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "Exile target creature you control then return it to the battlefield under its owners' control. When that creature enters, you may have it fight target creature. [i](Each deals damage equal to its power to the other.)[/i]",
@@ -3681,11 +3681,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "UM01 Free the Beast",
+            "card_name": "Free the Beast",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 225,
+            "number": 219,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "Remove any number of counters from target permanent. Draw a card.",
@@ -3701,7 +3701,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "MW01 Illia, Mistress of the Glow",
+            "card_name": "Illia, Mistress of the Glow",
             "color": "W",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Elf Cleric",
@@ -3721,14 +3721,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "MW02 The Mind Cleaver",
+            "card_name": "The Mind Cleaver",
             "color": "W",
             "rarity": "mythic",
             "type": "Legendary Artifact \u2013 Equipment",
-            "number": 22,
+            "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Equipped creature gets +2/+2 and has first strike and lifelink.\nEquip\u2013Remove a counter from a permanent you control.",
+            "rules_text": "Equipped creature gets +2/+2 and has first strike and lifelink.\nEquip\u2013Remove a counter from a permanent you control. Activate only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3741,11 +3741,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MU01 Ishia, Teiran Matriarch",
+            "card_name": "Ishia, Teiran Matriarch",
             "color": "U",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Human Warrior",
-            "number": 62,
+            "number": 69,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Whenever you put one or more counters on a permanent, draw a card. This ability triggers only once each turn.\n[i]Reimagine[/i] \u2013 {1}{U}, Remove a counter from a permanent you control: Tap target creature and put a stun counter on it.",
@@ -3761,11 +3761,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MU02 Unstopable Destiny",
+            "card_name": "Unstopable Destiny",
             "color": "U",
             "rarity": "mythic",
             "type": "Enchantment",
-            "number": 63,
+            "number": 81,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "If a quest ability of a Quest you control triggers, that ability triggers an additional time.",
@@ -3781,11 +3781,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MB01 Gorthor, Maker of Fate",
+            "card_name": "Gorthor, Maker of Fate",
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Demon Hero",
-            "number": 103,
+            "number": 101,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Flying, lifelink\nWard\u2013Pay 5 life.\nPay 5 life: Return an enchantment card from your graveyard to the battlefield. Activate only once each turn as a sorcery.",
@@ -3801,11 +3801,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MB02 Mangled Rager",
+            "card_name": "Mangled Rager",
             "color": "B",
             "rarity": "mythic",
             "type": "Creature \u2013 Mutant Beast",
-            "number": 104,
+            "number": 107,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Haste\n[i]Aberrant[/i]\u2013 Whenever one or more cards you own leaves exile, if this card is in your graveyard you may pay {3}{B}{B}. If you do, return this card from your graveyard to the battlefield.",
@@ -3821,16 +3821,16 @@
             "image_type": "png"
         },
         {
-            "card_name": "MR01 Ignus, the First Dreamwalker",
+            "card_name": "Ignus, the First Dreamwalker",
             "color": "R",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Human Shaman",
-            "number": 144,
+            "number": 148,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Menace\nIf you would choose one or more modes, you may choose an additional mode. [i](Modal spells and abilities are indicated by \u2022 listed modes.)[/i]",
+            "rules_text": "Menace\nWhenever you choose modes when casting a modal spell, for each mode chosen Ignus, the First Dreamwalker deals that much damage to any target.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "APH",
@@ -3841,14 +3841,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "MR02 Valley of Hands",
+            "card_name": "Valley of Hands",
             "color": "R",
             "rarity": "mythic",
             "type": "Enchantment",
-            "number": 145,
+            "number": 165,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Players cant gain life.\nCreatures attack each combat if able.\nWhenever a creature dies, if it was attacking, Valley of Hands deals 2 damage to each opponent.",
+            "rules_text": "Players can't gain life.\nCreatures attack each combat if able.\nWhenever a creature dies, if it was attacking, Valley of Hands deals 2 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3861,11 +3861,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MG01 Sorgash, Manic Mutant",
+            "card_name": "Sorgash, Manic Mutant",
             "color": "G",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 Mutant Horror",
-            "number": 185,
+            "number": 193,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Trample, haste\nWhen Sorgash, Manic Mutant enters, search your library for three land cards and exile them. Shuffle afterwards.\nWhenever Sorgash or another Mutant you control attacks, put a card exiled with Sorgash into your hand.",
@@ -3881,11 +3881,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MG02 Teiran Soothsayer",
+            "card_name": "Teiran Soothsayer",
             "color": "G",
             "rarity": "mythic",
             "type": "Creature \u2013 Human Druid",
-            "number": 186,
+            "number": 202,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Reimagine[/i] \u2013 At the beginning of each upkeep, you may remove a counter from a permanent you control. If you do, create a 1/1 black Snake creature token with deathtouch.",
@@ -3901,11 +3901,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MX01 Cordia, Bringer of Sunlight",
+            "card_name": "Cordia, Bringer of Sunlight",
             "color": "WG",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2013 Cordia",
-            "number": 207,
+            "number": 211,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
             "rules_text": "[+1]: Put your choice of a vigilance, flying, trample, or first strike counter on each creature you control. [i](Choose only one.)[/i]\n[0]: [i]Reimagine[/i] \u2013 Remove a counter from among permanents you control. If you do, you gain 3 life and draw a card.\n[-2]: Create a 0/0 white Avatar enchantment creature token with \u201cThis token gets +1/+1 for each permanent you control with a counter on it.\u201d",
@@ -3921,11 +3921,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RW01 Epicenter Breach",
+            "card_name": "Epicenter Breach",
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 23,
+            "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "[i]Reimagine[/i] \u2013 You may remove a counter from a permanent you control. If you do, up to one creature you control gains indestructible until end of turn.\nDestroy all creatures.",
@@ -3941,11 +3941,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RW02 Fearless Commander",
+            "card_name": "Fearless Commander",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Warrior",
-            "number": 24,
+            "type": "Creature \u2013 Human Soldier",
+            "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Vigilance\nWhenever one or more creatures enter under your control, if at least one of them isn't a soldier, create a 1/1 white Soldier creature token.",
@@ -3961,11 +3961,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RW03 Cycloptic Warden",
+            "card_name": "Cycloptic Warden",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Cyclops Cleric",
-            "number": 25,
+            "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.\nPremonition {2}{W}{W} [i](You may pay {2}{W}{W} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -3981,17 +3981,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "RW04 Greater Purpose",
+            "card_name": "Greater Purpose",
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment \u2013 Quest",
-            "number": 26,
+            "number": 18,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Put an indestructible and hexproof counter on a creature you control.\nII, III \u2013 Creatures you control get +2/+2 and gain vigilance until end of turn.",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Put an indestructible and hexproof counter on a creature you control.\nII, III \u2013 Creatures you control get +2/+2 and gain vigilance until end of turn. \n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Put an indestructible and hexproof counter on a creature you control.\nII, III \u2013 Creatures you control get +2/+2 and gain vigilance until end of turn.",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Put an indestructible and hexproof counter on a creature you control.\nII, III \u2013 Creatures you control get +2/+2 and gain vigilance until end of turn. \n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -4001,11 +4001,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RW05 Legend Ledger",
+            "card_name": "Legend Ledger",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Human Hero",
-            "number": 27,
+            "number": 23,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Whenever an enchantment enters under your control, draw a card. This ability triggers only once each turn.\nYou may cast enchantment spells as though they had flash.",
@@ -4021,11 +4021,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RW06 Candleglow Sorcerer",
+            "card_name": "Candleglow Sorcerer",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Human Wizard",
-            "number": 28,
+            "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When Candleglow Sorcerer enters, choose one \u2013\n\u2022 Destroy target artifact or enchantment.\n\u2022 Return a permanent card with mana value 2 or less from your graveyard to your hand.\n\u2022 Scry 2 and you gain 2 life.",
@@ -4041,11 +4041,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RW07 Rush to Finality",
+            "card_name": "Rush to Finality",
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment \u2013 Quest",
-            "number": 29,
+            "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 You gain 3 life\nII \u2013 Draw a card\nIII \u2013 If you have at least 20 life more than your starting life total, you win the game.",
@@ -4061,11 +4061,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RU01 Dreams of Solitary",
+            "card_name": "Dreams of Solitary",
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 64,
+            "number": 53,
             "color_identity": "U",
             "cost": "{4}{U}{U}{U}",
             "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose four. You may choose the same mode more than once \u2013\n\u2022 Draw two cards then discard a card\n\u2022 Return target spell or permanent to its owners hand.\n\u2022 For each creature you don't control, if its tapped, put a stun counter on it. Otherwise tap it.",
@@ -4081,11 +4081,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RU02 Path of the Protector",
+            "card_name": "Path of the Protector",
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment \u2013 Quest",
-            "number": 65,
+            "number": 72,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nFlash\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Counter up to one target spell.\nII \u2013 Untap up to two target lands you control.\nIII \u2013 Up to one target creature phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
@@ -4101,11 +4101,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RU03 Novice Dreamwalker",
+            "card_name": "Novice Dreamwalker",
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2013 Human Shaman",
-            "number": 66,
+            "number": 71,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "This creature gets +1/+1 for each kind of counter on it.\n[i]Reimagine[/i] \u2013 Whenever you cast a noncreature spell, you may remove a counter from a permanent you control. If you do, put your choice of a flying, vigilance, or shield counter on this creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]",
@@ -4121,11 +4121,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RU04 Intricate Daydream",
+            "card_name": "Intricate Daydream",
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Whale",
-            "number": 67,
+            "number": 68,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "This creature enters tapped with a stun counter on it.\nFlying\nAt the beginning of your end step, if you didn't cast a noncreature spell this turn, tap this creature and put a stun counter on it.",
@@ -4141,11 +4141,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RU05 Guardian of the Brave",
+            "card_name": "Guardian of the Brave",
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Spirit",
-            "number": 68,
+            "number": 62,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flash\nThis creature enters with a defender counter.\n{U}, Remove a counter from this creature: Counter target spell that targets a creature you control.",
@@ -4161,11 +4161,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RU06 Fear Father's Eyes",
+            "card_name": "Fear Father's Eyes",
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Harpie",
-            "number": 69,
+            "number": 58,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Flying\nOpponents play with their hands revealed.\nWhen Fear Father's Eyes enters or attacks, choose a nonland card name. Until your next turn, spells of the chosen name can't be cast.",
@@ -4181,11 +4181,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RU07 See Fate's Design",
+            "card_name": "See Fate's Design",
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 70,
+            "number": 75,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "You may look at the top card of your library at any time.\nYou may play enchantment and modal cards from the top of your library.\n{2}{U}: Scry 1.",
@@ -4201,11 +4201,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RB01 Spiralling Thoughts",
+            "card_name": "Spiralling Thoughts",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment \u2013 Quest",
-            "number": 105,
+            "number": 118,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 You draw a card and you lose 1 life.\nII \u2013 You draw two cards and you lose 2 life.\nIII \u2013 You draw three cards and you lose 3 life.",
@@ -4221,14 +4221,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "RB02 Dreams of Apocalypse",
+            "card_name": "Dreams of Apocalypse",
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 106,
+            "number": 90,
             "color_identity": "B",
             "cost": "{4}{B}{B}{B}",
-            "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose four. You may choose the same mode more than once \u2013 \n\u2022 Destroy target creature\n\u2022 Target opponent discards a card at random\n\u2022 Return target creature card from your graveyard to the battlefield tapped.",
+            "rules_text": "Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i]\nChoose four. You may choose the same mode more than once \u2013 \n\u2022 Destroy target creature.\n\u2022 Target opponent discards a card and sacrifices a land.\n\u2022 Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4241,11 +4241,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RB03 Leader of the Unformed",
+            "card_name": "Leader of the Unformed",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Zombie",
-            "number": 107,
+            "number": 104,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, create a 2/2 black Mutant creature token.\n{3}{B}{B}: Mutants you control get +2/+0 and gain menace until end of turn.",
@@ -4261,11 +4261,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RB04 Shadow Titan",
+            "card_name": "Shadow Titan",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Giant",
-            "number": 108,
+            "number": 113,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "Flying, menace\nWhen this creature enters, you may draw X cards and lose X life where X is the number of enchantments you control.",
@@ -4281,11 +4281,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RB05 Fate's Enforcer",
+            "card_name": "Fate's Enforcer",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2013 Human Hero",
-            "number": 109,
+            "number": 98,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Lifelink\nWhenever an enchantment enters, each opponent loses 2 life and you gain 2 life.",
@@ -4301,11 +4301,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RB06 Gore Reveler",
+            "card_name": "Gore Reveler",
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Angel",
-            "number": 110,
+            "number": 100,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Flying\nWhenever this creature attacks, you lose 3 life unless you have cast a noncreature spell this turn.",
@@ -4321,11 +4321,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RB07 Reformed by Grief",
+            "card_name": "Reformed by Grief",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 111,
+            "number": 112,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Whenever you cast a modal spell, return target creature card with mana value equal to or less than the number of modes chosen from your graveyard to the battlefield.",
@@ -4341,11 +4341,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RR01 The Sky Melts Away",
+            "card_name": "The Sky Melts Away",
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 146,
+            "number": 160,
             "color_identity": "R",
             "cost": "{3}{R}{R}{R}",
             "rules_text": "Lucid\nChoose three. You may choose the same mode more than once\u2013\n\u2022 Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.\n\u2022 Return an instant or sorcery card from your graveyard your hand.\n\u2022 Destroy target artifact.",
@@ -4361,11 +4361,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RR02 Bramble Burner",
+            "card_name": "Bramble Burner",
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Tree Elemental",
-            "number": 147,
+            "number": 128,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "Haste, trample\nAt the beginning of your upkeep, put a -1/-1 counter on this creature.\nSacrifice a creature: Remove a counter from this creature.",
@@ -4381,11 +4381,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RR03 Eldrich Brutalizer",
+            "card_name": "Eldrich Brutalizer",
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Barbarian",
-            "number": 148,
+            "number": 140,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Trample, haste\n[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, double Eldrich Brutalizer power until end of turn.",
@@ -4401,11 +4401,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RR04 Candleglow Faithful",
+            "card_name": "Candleglow Faithful",
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Human Cleric",
-            "number": 149,
+            "number": 132,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Menace\nWhen this creature enters, if it's a token, double its power until end of turn. It deals damage equal to its power to target creature. \nPremonition {3}{R} [i](You may pay {3}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -4421,11 +4421,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RR05 Insatiable Dreamwalker",
+            "card_name": "Insatiable Dreamwalker",
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2013 Human Shaman",
-            "number": 150,
+            "number": 149,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Haste\nThis creature gets +1/+1 for each kind of counter on it. \nWhenever you cast a modal spell, put your choice of a first strike, trample, or menace counter on this creature.",
@@ -4441,11 +4441,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RR06 Goremame, Mind Tyrant",
+            "card_name": "Goremame, Mind Tyrant",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Dragon",
-            "number": 151,
+            "number": 146,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "Flying\nWhenever Goremame, Mind Tyrant enters or attacks, you may have it fight target creature.\nWhenever another creature dies, create a Treasure token.",
@@ -4461,11 +4461,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RR07 Face the Imposible",
+            "card_name": "Face the Imposible",
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 152,
+            "number": 142,
             "color_identity": "R",
             "cost": "{5}{R}",
             "rules_text": "Create a token copy of each creature you control. Those tokens gain haste and \u201cAt the beginning of the end step, sacrifice this token.\u201d",
@@ -4481,11 +4481,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RG01 Esoteric Rot Farmer",
+            "card_name": "Esoteric Rot Farmer",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Shaman",
-            "number": 187,
+            "number": 180,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Trample\nWhen this creature enters, mill 3 cards.\n[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, return a land card from your graveyard to your hand.",
@@ -4501,11 +4501,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RG02 Stout Watchman",
+            "card_name": "Stout Watchman",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Human Cleric",
-            "number": 188,
+            "number": 197,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
             "rules_text": "When this creature enters, it fights up to one target creature.\nPremonition {3}{G}{G} [i](You may pay {3}{G}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -4521,11 +4521,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RG03 Teiran Healer",
+            "card_name": "Teiran Healer",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Human Cleric",
-            "number": 189,
+            "number": 200,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Teiran Healer enters with a vigilance counter.\n[i]Reimagine[/i] \u2013 {G}, {T}, Remove a counter from a creature you control: Target creature gains hexproof until end of turn. Prevent all damage that would be dealt to it this turn.",
@@ -4541,11 +4541,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RG04 Bramble Skitherer",
+            "card_name": "Bramble Skitherer",
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Plant",
-            "number": 190,
+            "number": 169,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Trample\nThis creature enters tapped with two stun counters on it.\nWhenever you remove a counter from a permanent you control, scry 1 and you gain 1 life.",
@@ -4561,11 +4561,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RG05 Glowbound Ranger",
+            "card_name": "Glowbound Ranger",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Human Scout",
-            "number": 191,
+            "number": 183,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Whenever this creature enters, create a 2/2 green Bear creature token.\nBears you control have +2/+2.\nPremonition {5}{G}{G} [i](You may pay {5}{G}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -4581,11 +4581,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RG06 Corner the Beast",
+            "card_name": "Corner the Beast",
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 192,
+            "number": 175,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Any number of target creatures you control fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]\nWhenever a creature dies this turn, draw a card.",
@@ -4601,11 +4601,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RG07 Fungal Amalgamate",
+            "card_name": "Fungal Amalgamate",
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Horror",
-            "number": 193,
+            "number": 182,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Fungal Amalgamate enters with a deathtouch counter.\n[i]Reimagine[/i] \u2013 {1}, Remove a counter from a creature you control: Exile target card from an opponents graveyard. If you exiled a creature this way, make a 1/1 green Plant creature token.",
@@ -4621,11 +4621,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "MX02 Tym, The Fear Father",
+            "card_name": "Tym, The Fear Father",
             "color": "UBR",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2013 Tym",
-            "number": 208,
+            "number": 234,
             "color_identity": "UBR",
             "cost": "{3}{U}{B}{R}",
             "rules_text": "As you cast a modal spell, add these modes to that spell.\n\u2022 Proliferate\n\u2022 Each opponent discards a card at random.\n\u2022 This spell deals 3 damage to any target.\n[0]: Draw two cards.\n[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves",
@@ -4641,11 +4641,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Bring Forth the Titan",
+            "card_name": "Bring Forth the Titan",
             "color": "WU",
             "rarity": "rare",
             "type": "Enchantment \u2013 Quest",
-            "number": 211,
+            "number": 210,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 4.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Tap target creature and put a stun counter on it.\nII, III \u2013 [i]You feel the earth shake beneath you.[/i]\nIV \u2013 Create Takot, a legendary 5/5 blue Spirit enchantment creature token with vigilance and hexproof.",
@@ -4661,11 +4661,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Valkarie of the Epicenter",
+            "card_name": "Valkarie of the Epicenter",
             "color": "UB",
             "rarity": "rare",
             "type": "Creature \u2013 Angel Warlock",
-            "number": 218,
+            "number": 237,
             "color_identity": "UB",
             "cost": "{4}{U}{B}",
             "rules_text": "This spell cost {2} less to cast for each noncreature spell you have cast this turn.\nFlash\nFlying, menace",
@@ -4681,11 +4681,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Persistent Mutant",
+            "card_name": "Persistent Mutant",
             "color": "BR",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Warrior",
-            "number": 216,
+            "number": 223,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "Menace\nIf this creature would die, if it was attacking, exile it instead. You may cast it for as long as it remains exiled.",
@@ -4701,11 +4701,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Hungering Maw",
+            "card_name": "Hungering Maw",
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Barbarian",
-            "number": 214,
+            "number": 220,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "Haste\nHungering Maw can't be blocked by creatures with power 2 or less.\nPremonition {2}{R}{G} [i](You may pay {2}{R}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
@@ -4721,11 +4721,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Dryad of Shared Fate",
+            "card_name": "Dryad of Shared Fate",
             "color": "WG",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Dryad",
-            "number": 212,
+            "number": 214,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "At the beginning of your upkeep, choose another target permanent you control. For each kind of counter on that permanent, put a counter of that kind on this creature.\n{G}{W}: Move one or more counters from this creature onto another target permanent you control. Activate only as a sorcery.",
@@ -4741,11 +4741,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 The Whole World Blind",
+            "card_name": "The Whole World Blind",
             "color": "WB",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 217,
+            "number": 238,
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a nonland permanent or discard a card.\nChoose target nonland permanent. That permanent's owner reveals their hand. You may choose a nonland card from it. If you do, that player exiles that card. If you don't, exile the chosen permanent.",
@@ -4761,16 +4761,16 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Beast of Wings and Limbs",
+            "card_name": "Beast of Wings and Limbs",
             "color": "UR",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Horror",
-            "number": 209,
+            "number": 208,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Flying, haste\nThis creature can't block\nWhenever you cast a modal spell, create a token copy of this creature except it has \u201cAt the beginning of the end step, sacrifice this token.\u201d",
+            "rules_text": "Flying, haste\nWhen this creature deals combat to an opponent, if you own a modal card in exile that is exiled by its own lucid ability, you may cast a copy of that spell without paying its mana cost. You may only choose one mode once when casting that spell.",
             "flavor_text": "[i][/i]",
-            "pt": "3/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "APH",
@@ -4781,11 +4781,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Boneskull Freak",
+            "card_name": "Boneskull Freak",
             "color": "BG",
             "rarity": "rare",
             "type": "Creature \u2013 Mutant Warior",
-            "number": 210,
+            "number": 209,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Haste, trample\n[i]Aberrant[/i] \u2013 Whenever one or more cards you own leaves exile, target creature must block this creature until end of turn if able.",
@@ -4801,11 +4801,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Excited Arival",
+            "card_name": "Excited Arival",
             "color": "WR",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 213,
+            "number": 217,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Whenever a creature enters under your control, Excited Arival deals 1 damage to each opponent and you gain 1 life.",
@@ -4821,11 +4821,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM01 Lethargic Skywhale",
+            "card_name": "Lethargic Skywhale",
             "color": "UG",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Whale",
-            "number": 215,
+            "number": 221,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Flying\nLethargic Skywhale enters with four -1/-1 counters.\n[i]Reimagine[/i] \u2013 Whenever Lethargic Skywhale attacks, you may remove a counter from a permanent you control. If you do, another creature you control gains flying until end of turn.",
@@ -4841,17 +4841,17 @@
             "image_type": "png"
         },
         {
-            "card_name": "UB11 Delerious Loss",
+            "card_name": "Delerious Loss",
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Quest",
-            "number": 122,
+            "number": 88,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Each player discards a card or sacrifices a creature.\nII, III \u2013 Exile a creature card from your graveyard. You may cast it for as long as it remains exiled.",
+            "rules_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Each player discards a card or sacrifices a creature.\nII, III \u2013 Exile a creature card from your graveyard. You may cast it for as long as it remains exiled.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Each player discards a card or sacrifices a creature.\nII, III \u2013 Exile a creature card from your graveyard. You may cast it for as long as it remains exiled.",
+            "special_text": "[i](Add a quest counter as this enters. Sacrifice after 3.)[/i]\nWhenever you cast a noncreature spell, add a quest counter.\nI \u2013 Each player discards a card or sacrifices a creature.\nII, III \u2013 Exile a creature card from your graveyard. You may cast it for as long as it remains exiled.\n\u200b",
             "shape": "saga",
             "set": "APH",
             "loyalty": "",
@@ -4861,7 +4861,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "RL01 Barrens of the Shrouded Sun",
+            "card_name": "Barrens of the Shrouded Sun",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -4881,7 +4881,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "RL01 Embewed Creek",
+            "card_name": "Embewed Creek",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -4901,7 +4901,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "RL01 Abandoned Cemetary",
+            "card_name": "Abandoned Cemetary",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -4921,7 +4921,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "RL01 Noxious Swampland",
+            "card_name": "Noxious Swampland",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -4941,7 +4941,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "RL01 Mind Fog Forest",
+            "card_name": "Mind Fog Forest",
             "color": "",
             "rarity": "rare",
             "type": "Land",

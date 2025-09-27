@@ -1,4 +1,506 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Prophecy of Flight added.
+Beast Dispatcher added.
+Tyran Moral Keeper added.
+Prophecy Enforcer added.
+Fog Wanderer added.
+Abandoned Impulse added.
+Hearald of the Lost added.
+Tyran Debilitator added.
+Candleglow Appostle added.
+A Collosal Presence added.
+Tamed Fogsoarer added.
+Disapear into the Fog added.
+Debilitate the Feble added.
+Overwhelm Ego added.
+Abstraction added.
+Visit Unreality added.
+Prophecy of Leadership added.
+Refuse to Fall added.
+Gift of the Candleglow added.
+Stray Daydreams added.
+Dreamer of Empowerment added.
+Haunted Wanderer added.
+Ghastly Motivator added.
+Looming Nightmare added.
+Scuttling Head added.
+Dreamer of Omens added.
+Gangley Thing added.
+Destiny Enforcer added.
+Unsubstantiated Obliterator added.
+Dreams of Rejection added.
+Stalwart Mind added.
+Face Nightmares added.
+Homeward Bound added.
+Solitary Meditation added.
+Historian's Calling added.
+Thought Revision added.
+Sleep Paralysis added.
+Dreamhopping added.
+Persistent Gurgle added.
+Ichorine Apostle added.
+Dream Coaxer added.
+Ego Thirster added.
+Maddened Lycan added.
+Executor of Destiny added.
+Festering Patriarch added.
+Shapes in the Night added.
+Skinless Almalgamate added.
+Snarl of Death added.
+Horrid Omen added.
+Tempting Whispers added.
+Toy With Bodies added.
+Thirst for Domination added.
+Onset Repugnance added.
+Compulsive Sratching added.
+Embrace Despair added.
+Premature Tragedy added.
+Dreams of Falling added.
+Blood Craized Mutant added.
+Cultish Sorcerer added.
+Unsanctimonious Oprotunist added.
+Run Forever and Never Tire added.
+Dreamer of Carnage added.
+Fanatic Visonary added.
+Ritual Borne added.
+Candleglow Ritualist added.
+Hoarder of Bones added.
+Gangley Hemocrat added.
+Ocult Evangel added.
+Seeing Double added.
+Power Fantasy added.
+Reckless Impulse added.
+Makeshift Campfire added.
+Down to the Wik added.
+Strangle added.
+Burn and Pillage added.
+Evicerate added.
+Savior in the Dark added.
+Disciple of the Beastly added.
+Spindley Abomination added.
+Tenacious Wanderer added.
+Wicker Titan added.
+Lantern Guide added.
+Aracnid Host added.
+Screeching Apex added.
+Mass of Eyes and Teeth added.
+Beast of Puss and Senew added.
+Offering Gaurdian added.
+Collosal Barmble added.
+Bramble of Memories added.
+Unbreakable Will added.
+March in Candleglow added.
+Mental Fortitude added.
+Strike from Above added.
+Ground to Reality added.
+Drag Away added.
+Unformed Thought added.
+Possesed Armor added.
+Statue of the Bellringer added.
+Prophesied Weapon added.
+Illuminating Candle added.
+Manalith added.
+Teiran Wanderer added.
+Priestess of Lights added.
+Lost Mentor added.
+Candleglow Drake added.
+Prophecy Scribe added.
+Virtuous Nightmare added.
+Gargantuan Mutant added.
+Disappearing Man added.
+Valiant Heroics added.
+Seek Offering added.
+Ruthless Determination added.
+Enspirited Gaurdian added.
+Etherial Skeleton added.
+Deep Shadow Infiltrator added.
+Whispers of the Forgotten added.
+Free Soul added.
+Dreams of Rushing Waves added.
+Half Formed Leviathan added.
+Doomed to Meaninglessness added.
+Inexorable Sloth added.
+Etherial Experince added.
+Control Magic added.
+Unformed Terror added.
+Smolder Hound added.
+Embrace Delusion added.
+Whispy Nightmare added.
+Beconer of the Epicenter added.
+Dark Horseman added.
+Whispers of Guilt added.
+Lord of the Deformed added.
+Dreams of Mourning added.
+Call Forth the Rotten added.
+Candle Glow Vigilant added.
+Blood Worhsiper added.
+Mutant Ringleader added.
+Dreamwalker Alchemist added.
+Unformed Skin Stealer added.
+Smolderhorn Elk added.
+Constant Looming Threat added.
+Avatar of Candlelight added.
+Dreams of Carnage added.
+Reborn in Flames added.
+Fling added.
+Fester Hoard added.
+Eldritch Attendant added.
+Candleglow Naturalist added.
+Teiran Brawler added.
+Wise Old Bramble added.
+Conjoined Monstrosity added.
+Spindley Goreger added.
+Candleglow Beast added.
+Life From Rot added.
+Brave the Bramble added.
+Curageous Example added.
+No Soul May Rest added.
+Fatal Daydreams added.
+Teiran Scouting added.
+Spiritual Rejuvination added.
+Pull of the Epicenter added.
+Call Forth the Eager added.
+Reduce Form added.
+Dreamcast added.
+Irrational Hope added.
+Healing of the Candleglow added.
+Shaper of Fates added.
+Determined Dreamwalker added.
+Pestilence Embodied added.
+Reoccurring Predator added.
+Scrappy Survivalist added.
+Prophecy Savant added.
+Lord of Lucidity added.
+Skittering Screecher added.
+Cultish Apothocary added.
+Animated Elderwood added.
+Unbreakable Conviction added.
+Esoteric Omen added.
+Unwanted Insight added.
+Roiling Bramble added.
+Rally the Foolhardy added.
+Revisit Prophecy added.
+Shredded Memory added.
+Fleshforme Caverns added.
+Etherial Reinvigoration added.
+Free the Beast added.
+Illia, Mistress of the Glow added.
+The Mind Cleaver added.
+Ishia, Teiran Matriarch added.
+Unstopable Destiny added.
+Gorthor, Maker of Fate added.
+Mangled Rager added.
+Ignus, the First Dreamwalker added.
+Valley of Hands added.
+Sorgash, Manic Mutant added.
+Teiran Soothsayer added.
+Cordia, Bringer of Sunlight added.
+Epicenter Breach added.
+Fearless Commander added.
+Cycloptic Warden added.
+Greater Purpose added.
+Legend Ledger added.
+Candleglow Sorcerer added.
+Rush to Finality added.
+Dreams of Solitary added.
+Path of the Protector added.
+Novice Dreamwalker added.
+Intricate Daydream added.
+Guardian of the Brave added.
+Fear Father's Eyes added.
+See Fate's Design added.
+Spiralling Thoughts added.
+Dreams of Apocalypse added.
+Leader of the Unformed added.
+Shadow Titan added.
+Fate's Enforcer added.
+Gore Reveler added.
+Reformed by Grief added.
+The Sky Melts Away added.
+Bramble Burner added.
+Eldrich Brutalizer added.
+Candleglow Faithful added.
+Insatiable Dreamwalker added.
+Goremame, Mind Tyrant added.
+Face the Imposible added.
+Esoteric Rot Farmer added.
+Stout Watchman added.
+Teiran Healer added.
+Bramble Skitherer added.
+Glowbound Ranger added.
+Corner the Beast added.
+Fungal Amalgamate added.
+Tym, The Fear Father added.
+Bring Forth the Titan added.
+Valkarie of the Epicenter added.
+Persistent Mutant added.
+Hungering Maw added.
+Dryad of Shared Fate added.
+The Whole World Blind added.
+Beast of Wings and Limbs added.
+Boneskull Freak added.
+Excited Arival added.
+Lethargic Skywhale added.
+Delerious Loss added.
+Barrens of the Shrouded Sun added.
+Embewed Creek added.
+Abandoned Cemetary added.
+Noxious Swampland added.
+Mind Fog Forest added.
+
+CW01 Prophecy of Flight removed.
+CW02 Beast Dispatcher removed.
+CW03 Tyran Moral Keeper removed.
+CW04 Prophecy Enforcer removed.
+CW05 Fog Wanderer removed.
+CW06 Abandoned Impulse removed.
+CW07 Hearald of the Lost removed.
+CW08 Tyran Debilitator removed.
+CW09 Candleglow Appostle removed.
+CW10 A Collosal Presence removed.
+CW11 Tamed Fogsoarer removed.
+CW12 Disapear into the Fog removed.
+CW13 Debilitate the Feble removed.
+CW14 Overwhelm Ego removed.
+CW15 Abstraction removed.
+CW16 Visit Unreality removed.
+CW17 Prophecy of Leadership removed.
+CW18 Refuse to Fall removed.
+CW19 Gift of the Candleglow removed.
+CU01 Stray Daydreams removed.
+CU02 Dreamer of Empowerment removed.
+CU03 Haunted Wanderer removed.
+CU04 Ghastly Motivator removed.
+CU05 Looming Nightmare removed.
+CU06 Scuttling Head removed.
+CU07 Dreamer of Omens removed.
+CU08 Gangley Thing removed.
+CU09 Destiny Enforcer removed.
+CU10 Unsubstantiated Obliterator removed.
+CU11 Dreams of Rejection removed.
+CU12 Stalwart Mind removed.
+CU13 Face Nightmares removed.
+CU14 Homeward Bound removed.
+CU15 Solitary meditation removed.
+CU16 Historian's Calling removed.
+CU17 Thought Revision removed.
+CU18 Sleep Paralysis removed.
+CU19 Dreamhopping removed.
+CB01 Persistent Gurgle removed.
+CB02 Ichorine Apostle removed.
+CB03 Dream Coaxer removed.
+CB04 Ego Thirster removed.
+CB05 Maddened Lycan removed.
+CB06 Executor of Destiny removed.
+CB07 Festering Patriarch removed.
+CB08 Shapes in the Night removed.
+CB09 Skinless Almalgamate removed.
+CB10 Snarl of Death removed.
+CB11 Horrid Omen removed.
+CB12 Tempting Whispers removed.
+CB13 Toy With Bodies removed.
+CB14 Thirst for Domination removed.
+CB15 Onset Repugnance removed.
+CB16 Compulsive Sratching removed.
+CB17 Embrace Despair removed.
+CB18 Premature Tragedy removed.
+CB19 Dreams of Falling removed.
+CR01 Blood Craized Mutant removed.
+CR02 Cultish Sorcerer removed.
+CR03 Unsanctimonious Oprotunist removed.
+CR04 Run Forever and Never Tire removed.
+CR05 Dreamer of Carnage removed.
+CR06 Fanatic Visonary removed.
+CR07 Ritual Borne removed.
+CR08 Candleglow Ritualist removed.
+CR09 Hoarder of Bones removed.
+CR10 Gangley Hemocrat removed.
+CR11 Ocult Evangel removed.
+CR12 Seeing Double removed.
+CR13 Power Fantasy removed.
+CR14 Reckless Impulse removed.
+CR15 Makeshift Campfire removed.
+CR16 Down to the Wik removed.
+CR17 Strangle removed.
+CR18 Burn and Pillage removed.
+CR19 Evicerate removed.
+CG01 Savior in the Dark removed.
+CG02 Disciple of the Beastly removed.
+CG03 Spindley Abomination removed.
+CG04 Tenacious Wanderer removed.
+CG05 Wicker Titan removed.
+CG06 Lantern Guide removed.
+CG07 Aracnid Host removed.
+CG08 Screeching Apex removed.
+CG09 Mass of Eyes and Teeth removed.
+CG10 Beast of Puss and Senew removed.
+CG11 Offering Gaurdian removed.
+CG12 Collosal Barmble removed.
+CG13 Bramble of Memories removed.
+CG14 Unbreakable Will removed.
+CG15 March in Candleglow removed.
+CG16 Mental Fortitude removed.
+CG17 Strike from Above removed.
+CG18 Ground to Reality removed.
+CG19 Drag Away removed.
+CC01 Unformed Thought removed.
+CC02 Possesed Armor removed.
+CC03 Statue of the Bellringer removed.
+CC04 Prophesied Weapon removed.
+CC05 Illuminating Candle removed.
+CC06 Manalith removed.
+UW01 Teiran Wanderer removed.
+UW02 Priestess of Lights removed.
+UW03 Lost Mentor removed.
+UW04 Candleglow Drake removed.
+UW05 Prophecy Scribe removed.
+UW06 Virtuous Nightmare removed.
+UW07 Gargantuan Mutant removed.
+UW08 Disappearing Man removed.
+UW09 Valiant Heroics removed.
+UW10 Seek Offering removed.
+UW11 Ruthless Determination removed.
+UU01 Enspirited Gaurdian removed.
+UU02 Etherial Skeleton removed.
+UU03 Deep Shadow Infiltrator removed.
+UU04 Whispers of the Forgotten removed.
+UU05 Free Soul removed.
+UU06 Dreams of Rushing Waves removed.
+UU07 Half Formed Leviathan removed.
+UU08 Doomed to Meaninglessness removed.
+UU09 Inexorable Sloth removed.
+UU10 Etherial Experince removed.
+UU11 Control Magic removed.
+UB01 Unformed Terror removed.
+UB02 Smolder Hound removed.
+UB03 Embrace Delusion removed.
+UB04 Whispy Nightmare removed.
+UB05 Beconer of the Epicenter removed.
+UB06 Dark Horseman removed.
+UB07 Whispers of Guilt removed.
+UB08 Lord of the Deformed removed.
+UB09 Dreams of Mourning removed.
+UB10 Call Forth the Rotten removed.
+UR01 Candle Glow Vigilant removed.
+UR02 Blood Worhsiper removed.
+UR03 Mutant Ringleader removed.
+UR04 Dreamwalker Alchemist removed.
+UR05 Unformed Skin Stealer removed.
+UR06 Smolderhorn Elk removed.
+UR07 Constant Looming Threat removed.
+UR08 Avatar of Candlelight removed.
+UR09 Dream of Carnage removed.
+UR10 Reborn in Flames removed.
+UR11 Fling removed.
+UG01 Fester Hoard removed.
+UG02 Eldritch Attendant removed.
+UG03 Candleglow Naturalist removed.
+UG04 Teiran Brawler removed.
+UG05 Wise Old Bramble removed.
+UG06 Conjoined Monstrosity removed.
+UG07 Spindley Goreger removed.
+UG08 Candleglow Beast removed.
+UG09 Life From Rot removed.
+UG10 Brave the Bramble removed.
+UG11 Curageous Example removed.
+UB12 No Soul May Rest removed.
+UB13 Fatal Daydreams removed.
+UG12 Teiran Scouting removed.
+UG13 Spiritual Rejuvination removed.
+UR12 Pull of the Epicenter removed.
+UR13 Call Forth the Eager removed.
+UU13 Reduce Form removed.
+UU12 Dreamcast removed.
+UW12 Irrational Hope removed.
+UW13 Healing of the Candleglow removed.
+UM01 Shaper of Fates removed.
+UM01 Determined Dreamwalker removed.
+UM01 Pestilence Embodied removed.
+UM01 Reoccurring Predator removed.
+UM01 Scrappy Survivalist removed.
+UM01 Prophecy Savant removed.
+UM01 Lord of Lucidity removed.
+UM01 Skittering Screecher removed.
+UM01 Cultish Apothocary removed.
+UM01 Animated Elderwood removed.
+UM01 Unbreakable Conviction removed.
+UM01 Esoteric Omen removed.
+UM01 Unwanted Insight removed.
+UM01 Roiling Bramble removed.
+UM01 Rally the Foolhardy removed.
+UM01 Revisit Prophecy removed.
+UM01 Shredded Memory removed.
+UM01 Fleshforme Caverns removed.
+UM01 Etherial Reinvigoration removed.
+UM01 Free the Beast removed.
+MW01 Illia, Mistress of the Glow removed.
+MW02 The Mind Cleaver removed.
+MU01 Ishia, Teiran Matriarch removed.
+MU02 Unstopable Destiny removed.
+MB01 Gorthor, Maker of Fate removed.
+MB02 Mangled Rager removed.
+MR01 Ignus, the First Dreamwalker removed.
+MR02 Valley of Hands removed.
+MG01 Sorgash, Manic Mutant removed.
+MG02 Teiran Soothsayer removed.
+MX01 Cordia, Bringer of Sunlight removed.
+RW01 Epicenter Breach removed.
+RW02 Fearless Commander removed.
+RW03 Cycloptic Warden removed.
+RW04 Greater Purpose removed.
+RW05 Legend Ledger removed.
+RW06 Candleglow Sorcerer removed.
+RW07 Rush to Finality removed.
+RU01 Dreams of Solitary removed.
+RU02 Path of the Protector removed.
+RU03 Novice Dreamwalker removed.
+RU04 Intricate Daydream removed.
+RU05 Guardian of the Brave removed.
+RU06 Fear Father's Eyes removed.
+RU07 See Fate's Design removed.
+RB01 Spiralling Thoughts removed.
+RB02 Dreams of Apocalypse removed.
+RB03 Leader of the Unformed removed.
+RB04 Shadow Titan removed.
+RB05 Fate's Enforcer removed.
+RB06 Gore Reveler removed.
+RB07 Reformed by Grief removed.
+RR01 The Sky Melts Away removed.
+RR02 Bramble Burner removed.
+RR03 Eldrich Brutalizer removed.
+RR04 Candleglow Faithful removed.
+RR05 Insatiable Dreamwalker removed.
+RR06 Goremame, Mind Tyrant removed.
+RR07 Face the Imposible removed.
+RG01 Esoteric Rot Farmer removed.
+RG02 Stout Watchman removed.
+RG03 Teiran Healer removed.
+RG04 Bramble Skitherer removed.
+RG05 Glowbound Ranger removed.
+RG06 Corner the Beast removed.
+RG07 Fungal Amalgamate removed.
+MX02 Tym, The Fear Father removed.
+RM01 Bring Forth the Titan removed.
+RM01 Valkarie of the Epicenter removed.
+RM01 Persistent Mutant removed.
+RM01 Hungering Maw removed.
+RM01 Dryad of Shared Fate removed.
+RM01 The Whole World Blind removed.
+RM01 Beast of Wings and Limbs removed.
+RM01 Boneskull Freak removed.
+RM01 Excited Arival removed.
+RM01 Lethargic Skywhale removed.
+UB11 Delerious Loss removed.
+RL01 Barrens of the Shrouded Sun removed.
+RL01 Embewed Creek removed.
+RL01 Abandoned Cemetary removed.
+RL01 Noxious Swampland removed.
+RL01 Mind Fog Forest removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
