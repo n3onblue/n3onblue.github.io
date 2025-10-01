@@ -1,4 +1,33 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Sleep Paralysis Visions added.
+Human added.
+Spirit added.
+Mutant added.
+Horror added.
+Rouge added.
+Treasure added.
+Copy added.
+Knight added.
+Crab added.
+Beast added.
+Insect added.
+Snake added.
+Demon added.
+Avatar added.
+Soldier added.
+Bear added.
+Plant added.
+Takot added.
+
+Sleep Paralysis removed.
+
+Snarl of Death
+rules_text: Whenever Snarl of Death enters, exile any number of noncreature, nonland cards from your graveyard. Create an X/X black Horror enchantment creature token, where X is the number of cards exiled this way. => Whenever Snarl of Death enters, exile any number of noncreature, nonland cards from your graveyard. Create an X/X black Beast enchantment creature token, where X is the number of cards exiled this way.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Compulsive Scratching added.

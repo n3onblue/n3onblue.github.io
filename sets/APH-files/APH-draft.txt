@@ -361,13 +361,13 @@
 			}
 		},
 		{
-			"name": "Sleep Paralysis",
+			"name": "Sleep Paralysis Visions",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/76_Sleep Paralysis.png"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/76_Sleep Paralysis Visions.png"
 			}
 		},
 		{
@@ -2479,6 +2479,186 @@
 			"image_uris": {
 				"en": "https://n3onblue.github.io/sets/APH-files/img/247_Mind Fog Forest.png"
 			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/3_Human.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/6_Spirit.png"
+			}
+		},
+		{
+			"name": "Mutant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Mutant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/13_Mutant.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Horror",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/11_Horror.png"
+			}
+		},
+		{
+			"name": "Rouge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rouge",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/15_Rouge.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/18_Treasure.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Reminder",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/1_Copy.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/4_Knight.png"
+			}
+		},
+		{
+			"name": "Crab",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Crab",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/7_Crab.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Beast",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/9_Beast.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/12_Insect.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snake",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/14_Snake.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/10_Demon.png"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Avatar",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/2_Avatar.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/5_Soldier.png"
+			}
+		},
+		{
+			"name": "Bear",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bear",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/16_Bear.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/17_Plant.png"
+			}
+		},
+		{
+			"name": "Takot",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Spirit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://n3onblue.github.io/sets/APH-files/img/8_Takot.png"
+			}
 		}
 	]
 
@@ -2668,7 +2848,7 @@
 	8 Solitary Meditation
 	8 Historian's Calling
 	8 Thought Revision
-	8 Sleep Paralysis
+	8 Sleep Paralysis Visions
 	8 Dreamhopping
 	8 Persistent Gurgle
 	8 Ichorine Apostle
@@ -2770,7 +2950,7 @@
 	12 Solitary Meditation
 	12 Historian's Calling
 	12 Thought Revision
-	12 Sleep Paralysis
+	12 Sleep Paralysis Visions
 	12 Dreamhopping
 	12 Persistent Gurgle
 	12 Ichorine Apostle
@@ -3019,7 +3199,7 @@
 	6 Solitary Meditation
 	6 Historian's Calling
 	6 Thought Revision
-	6 Sleep Paralysis
+	6 Sleep Paralysis Visions
 	6 Dreamhopping
 	6 Persistent Gurgle
 	6 Ichorine Apostle

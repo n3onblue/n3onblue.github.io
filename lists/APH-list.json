@@ -1056,7 +1056,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Sleep Paralysis",
+        "card_name": "Sleep Paralysis Visions",
         "number": 76,
         "shape": "normal",
         "set": "APH"
@@ -1593,6 +1593,133 @@
         "number": 247,
         "shape": "normal",
         "set": "APH"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 18,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Avatar",
+        "number": 2,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Human",
+        "number": 3,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Knight",
+        "number": 4,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Soldier",
+        "number": 5,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 6,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Crab",
+        "number": 7,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Takot",
+        "number": 8,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Beast",
+        "number": 9,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Demon",
+        "number": 10,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Horror",
+        "number": 11,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Insect",
+        "number": 12,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Mutant",
+        "number": 13,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Snake",
+        "number": 14,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Rouge",
+        "number": 15,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Bear",
+        "number": 16,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "Plant",
+        "number": 17,
+        "shape": "token",
+        "set": "APH"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
