@@ -1,4 +1,45 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Barrens of the Shrouded Sun
+rules_text: Barrens of the Shrouded Sun enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter form this land: Add {R} or {W} => Barrens of the Shrouded Sun enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {R} or {W}
+
+Embewed Creek
+rules_text: Embewed Creek enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter form this land: Add {U} or {R} => Embewed Creek enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {U} or {R}
+
+Abandoned Cemetary
+rules_text: Abandoned Cemetary enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter form this land: Add {W} or {B}. => Abandoned Cemetary enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {W} or {B}.
+
+Noxious Swampland
+rules_text: Noxious Swampland enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter form this land: Add {B} or {G}. => Noxious Swampland enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {B} or {G}.
+
+Mind Fog Forest
+rules_text: Mind Fog Forest enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter form this land: Add {G} or {U} => Mind Fog Forest enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {G} or {U}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Sleep Paralysis Visions added.
