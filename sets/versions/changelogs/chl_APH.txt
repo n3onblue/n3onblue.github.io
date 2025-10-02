@@ -1,4 +1,18 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Revisit Prophecy
+rules_text: Return target noncreature enchantment card from your graveyard to the battlefield. => Return target Quest, Saga, or Mystery card from your graveyard to the battlefield under its owners control.
+
+Fate's Enforcer
+rules_text: Lifelink
+Whenever an enchantment enters, each opponent loses 2 life and you gain 2 life. => Whenever an enchantment you control leaves the battlefield, each opponent loses 2 life and you gain 2 life.
+{2}{B}, Sacrifice an enchantment: Draw a card.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
