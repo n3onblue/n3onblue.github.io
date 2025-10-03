@@ -2959,7 +2959,7 @@
             "number": 108,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "If a creature you control would die this turn, exile it instead. You may cast cards exiled this way for as long as they remain exiled. When you cast a creature spell this way, it enters with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
+            "rules_text": "If a creature you control without a finality counter would die this turn, exile it instead. You may cast cards exiled this way for as long as they remain exiled. When you cast a creature spell this way, it enters with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3434,7 +3434,7 @@
             "number": 228,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Return target Quest, Saga, or Mystery card from your graveyard to the battlefield under its owners control.",
+            "rules_text": "Return target Quest, Saga, or Mystery card from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5061,5 +5061,5 @@
             "notes": ""
         }
     ],
-    "version": 6
+    "version": 7
 }

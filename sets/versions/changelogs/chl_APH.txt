@@ -1,4 +1,16 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+No Soul May Rest
+rules_text: If a creature you control would die this turn, exile it instead. You may cast cards exiled this way for as long as they remain exiled. When you cast a creature spell this way, it enters with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => If a creature you control without a finality counter would die this turn, exile it instead. You may cast cards exiled this way for as long as they remain exiled. When you cast a creature spell this way, it enters with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+Revisit Prophecy
+rules_text: Return target Quest, Saga, or Mystery card from your graveyard to the battlefield under its owners control. => Return target Quest, Saga, or Mystery card from your graveyard to the battlefield.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
