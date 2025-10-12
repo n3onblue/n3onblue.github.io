@@ -1,4 +1,301 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Prophecy of the Apex added.
+Dreams of Disloyalty added.
+Dreams of Rapture added.
+Place of Serenity added.
+
+Thirst for Domination removed.
+Dreams of Solitary removed.
+The Sky Melts Away removed.
+
+Stray Daydreams
+rules_text: Choose one —
+• Create a 1/1 white Spirit creature token with flying.
+• Draw a card. 
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one —
+• Create a 1/1 white Spirit creature token with flying.
+• Draw a card. 
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Dreams of Rejection
+rules_text: Counter target spell, then choose one —
+• Target creature gains flying until end of turn.
+• Scry 2
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Counter target spell, then choose one —
+• Target creature gains flying until end of turn.
+• Scry 2
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Face Nightmares
+rules_text: Choose two, You may choose the same mode more than once --
+• Tap target creature and put a stun counter on it.
+• Untap target creature and put a vigilance counter on it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose two, You may choose the same mode more than once --
+• Tap target creature and put a stun counter on it.
+• Untap target creature and put a vigilance counter on it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Sleep Paralysis Visions
+rules_text: Chose one —
+• Target creature gets -4/-0 until end of turn.
+• Target permanent loses all abilities until end of turn. Remove any number of counters from it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Chose one —
+• Target creature gets -4/-0 until end of turn.
+• Target permanent loses all abilities until end of turn. Remove any number of counters from it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Shapes in the Night
+rules_text: Choose two. You may choose the same mode more than once. 
+• Create a tapped 2/2 black Mutant creature token.
+• Each opponent loses 2 life and you gain 2 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose two. You may choose the same mode more than once. 
+• Create a tapped 2/2 black Mutant creature token.
+• Each opponent loses 2 life and you gain 2 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Horrid Omen
+rules_text: Choose one.
+• Each opponent discards a card.
+• Put a -1/-1 counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one.
+• Each opponent discards a card.
+• Put a -1/-1 counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Toy With Bodies
+rules_text: Choose one.
+• Return target creature card from your graveyard to your hand.
+• Sacrifice a creature. If you do, draw two cards.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one.
+• Return target creature card from your graveyard to your hand.
+• Sacrifice a creature. If you do, draw two cards.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Dreams of Falling
+rules_text: Choose one.
+• Target creature gets -2/-2 until end of turn.
+• Scry 1, then draw a card. You lose 1 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one.
+• Target creature gets -2/-2 until end of turn.
+• Scry 1, then draw a card. You lose 1 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Run Forever and Never Tire
+rules_text: Choose one.
+• Create a 2/1 red Rouge creature token. Creatures you control gain haste until end of turn.
+• Up to two target creatures can't block this turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one.
+• Create a 2/1 red Rouge creature token. Creatures you control gain haste until end of turn.
+• Up to two target creatures can't block this turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Ocult Evangel
+rules_text: Whenever this creature enters, create a 2/1 red Rogue creature token.
+Premonition {2}{R} [i](You may pay {2}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i] => Whenever this creature enters, create a 2/1 red Rouge creature token.
+Premonition {2}{R} [i](You may pay {2}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]
+
+Power Fantasy
+rules_text: Choose one.
+• Target creature gets +2/+0 and gains first strike until end of turn.
+• Put a first strike counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one.
+• Target creature gets +2/+0 and gains first strike until end of turn.
+• Put a first strike counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Down to the Wik
+rules_text: Choose one.
+• Destroy target artifact
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one.
+• Destroy target artifact
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Burn and Pillage
+rules_text: Burn and Pillage deals 3 damage to target creature or planeswalker. Choose one.
+• Scry 2.
+• Create a Treasure token.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Burn and Pillage deals 3 damage to target creature or planeswalker. Choose one.
+• Scry 2.
+• Create a Treasure token.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Seek Offering
+cost: {1}{W} => {W}
+
+Dreams of Rushing Waves
+rules_text: Choose two. You may choose the same mode more than once. —
+• Target creature can't be blocked this turn
+• Create a 0/3 blue Crab creature token. Target player mills two cards.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one —
+• Draw two cards
+• Target player mills seven cards.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Etherial Experince
+rules_text: Choose three. You may choose the same mode more than once. —
+• Return target creature to its owners hand.
+• Untap target permanent.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose three. You may choose the same mode more than once. —
+• Return target creature to its owners hand.
+• Untap target permanent.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Whispers of Guilt
+rules_text: Choose two. You may choose the same mode more than once —
+• Create a 1/1 black Horror enchantment creature token with menace.
+• Choose a card type. Exile all cards of the chosen type from each opponent's graveyard.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose two. You may choose the same mode more than once —
+• Create a 1/1 black Horror enchantment creature token with menace.
+• Choose a card type. Exile all cards of the chosen type from each opponent's graveyard.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Dreams of Mourning
+rules_text: Destroy target creature. Choose one —
+• Each player mills three cards.
+• You gain 3 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one —
+• Destroy target creature.
+• Draw two cards and lose 2 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Smolderhorn Elk
+type: Creature — Mutant Elk => Creature — Elk Mutant
+
+Constant Looming Threat
+rules_text: Choose two. You may choose the same mode more than once —
+• Create a 2/1 red Rouge creature token.
+• Exile the top card of your library, you may play it until the end of your next turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one —
+• Create two 2/1 red Rouge creature tokens.
+• Target creature you control fights target creature you don't control.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Dreams of Carnage
+rules_text: Choose three. You can choose the same mode more than once.
+• Dreams of Carnage deals 1 damage to each creature.
+• Creatures you control get +1/+0 and gain trample until end of turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose three. You can choose the same mode more than once.
+• Dreams of Carnage deals 1 damage to each creature.
+• Creatures you control get +1/+0 and gain trample until end of turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Fester Hoard
+rules_text: Mutants you control get +1/+1. => Other Mutants you control get +1/+1.
+pt: 1/1 => 2/1
+
+Call Forth the Eager
+rules_text: Create three 2/1 red Scout creature tokens. => Create three 2/1 red Rouge creature tokens.
+
+Rally the Foolhardy
+cost: {2}{G}{W} => {1}{G}{W}
+
+Shredded Memory
+rules_text: Discard a card. If you do, choose two. You may choose the same mode more than once.
+• Draw a card
+• Shredded Memory deals 2 damage to any target.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Discard a card. If you do, choose two. You may choose the same mode more than once.
+• Draw a card
+• Shredded Memory deals 2 damage to any target.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Fleshforme Caverns
+rules_text: Whenever Fleshforme Caverns enters or you cast a Mutant spell, create a 2/2 black Mutant creature token, => Whenever Fleshforme Caverns enters or you cast a Mutant spell, create a 2/2 black Mutant creature token.
+
+Gorthor, Maker of Fate
+cost: {4}{B} => {3}{B}{B}
+rules_text: Flying, lifelink
+Ward—Pay 5 life.
+Pay 5 life: Return an enchantment card from your graveyard to the battlefield. Activate only once each turn and only as a sorcery => Flying, lifelink
+Whenever an enchantment you control is put into your graveyard from the battlefield, return it to the battlefield with a finality counter on it.
+pt: 5/5 => 5/4
+
+Ignus, the First Dreamwalker
+rules_text: Menace
+Whenever you choose modes when casting a modal spell, for each mode chosen Ignus, the First Dreamwalker deals that much damage to any target. => Menace
+Whenever you choose modes when casting a modal spell, for each mode chosen Ignus, the First Dreamwalker deals twice that much damage to any target.
+pt: 4/3 => 3/2
+
+Sorgash, Manic Mutant
+rules_text: Trample, haste
+When Sorgash, Manic Mutant enters, search your library for three land cards and exile them, then shuffle.
+Whenever Sorgash or another Mutant you control attacks, put a card exiled with Sorgash into your hand. => Trample, haste
+When Sorgash, Manic Mutant enters, search your library for three land cards and exile them, then shuffle.
+Whenever one or more Mutants you control attack, put a card exiled with Sorgash into your hand.
+
+Legend Ledger
+cost: {1}{W} => {2}{W}
+pt: 2/1 => 2/3
+
+Dreams of Apocalypse
+cost: {4}{B}{B}{B} => {B}{B}{B}
+rules_text: Choose four. You may choose the same mode more than once — 
+• Destroy target creature.
+• Target opponent discards a card and sacrifices a land.
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. 
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add its modes to that spell.)[/i] => Choose one or more —
+• Target opponent sacrifices a creature, a land, and a noncreature nonland permanent.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Shadow Titan
+cost: {3}{B}{B} => {2}{B}{B}
+pt: 5/5 => 4/2
+
+Goremame, Mind Tyrant
+cost: {4}{R} => {4}{R}{R}
+rules_text: Flying
+Whenever Goremame, Mind Tyrant enters or attacks, you may have it fight target creature.
+Whenever another creature dies, create a Treasure token. => Flying
+Whenever Goremame, Mind Tyrant enters or attacks, you may have it fight target creature.
+Whenever a creature an opponent controls dies, create a Treasure token.
+pt: 5/6 => 5/5
+
+Beast of Wings and Limbs
+rules_text: Flying, haste
+When this creature deals combat to an opponent, if you own a modal card in exile that is exiled by its own lucid ability, you may cast a copy of that spell without paying its mana cost. You may only choose one mode once when casting that spell. => Flying, haste
+Beast of Wings and Limbs gets +1/+1 for each modal card you own in exile and in your graveyard.
+pt: 2/1 => 1/1
+
+Barrens of the Shrouded Sun
+rules_text: Barrens of the Shrouded Sun enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {R} or {W} => Barrens of the Shrouded Sun enters with two charge counters.
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {R} or {W}
+
+Embewed Creek
+rules_text: Embewed Creek enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {U} or {R} => Embewed Creek enters with two charge counters.
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {U} or {R}
+
+Abandoned Cemetary
+rules_text: Abandoned Cemetary enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {W} or {B}. => Abandoned Cemetary enters with two charge counters.
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {W} or {B}.
+
+Noxious Swampland
+rules_text: Noxious Swampland enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {B} or {G}. => Noxious Swampland enters with two charge counters.
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {B} or {G}.
+
+Mind Fog Forest
+rules_text: Mind Fog Forest enters with two charge counters
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {G} or {U} => Mind Fog Forest enters with two charge counters.
+{T}: Add {C}.
+{T}, Remove a charge counter from this land: Add {G} or {U}
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
