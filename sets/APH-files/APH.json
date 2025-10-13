@@ -1340,7 +1340,7 @@
             "card_name": "Reckless Impulse",
             "color": "R",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 157,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1762,7 +1762,7 @@
             "number": 198,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Each opponent sacrifices a creature with flying, and an artifact or enchantment.",
+            "rules_text": "Each opponent sacrifices a creature with flying, an artifact, or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2553,14 +2553,14 @@
             "notes": ""
         },
         {
-            "card_name": "Blood Worhsiper",
+            "card_name": "Blood Worshiper",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Barbarian",
             "number": 127,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Menace\nWhenever Blood Worhsiper enters or attacks, target creature can't block this turn.",
+            "rules_text": "Menace\nWhenever Blood Worshiper enters or attacks, target creature can't block this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3567,7 +3567,7 @@
             "number": 69,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Whenever you put one or more counters on a permanent, draw a card. This ability triggers only once each turn.\n[i]Reimagine[/i] \u2014 {1}{U}, Remove a counter from a permanent you control: Tap target creature and put a stun counter on it.",
+            "rules_text": "Whenever you put one or more counters on a permanent, draw a card. This ability triggers only once each turn.\n[i]Reimagine[/i] \u2014 {1}{U}, Remove a counter from a permanent you control: Tap target creature and put a stun counter on it. Activate only as a sorcery",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3681,7 +3681,7 @@
             "number": 193,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Trample, haste\nWhen Sorgash, Manic Mutant enters, search your library for three land cards and exile them, then shuffle.\nWhenever one or more Mutants you control attack, put a card exiled with Sorgash into your hand.",
+            "rules_text": "Haste\nWhen Sorgash, Manic Mutant enters, search your library for three land cards and exile them, then shuffle.\nWhenever one or more Mutants you control attack, put a card exiled with Sorgash into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4194,7 +4194,7 @@
             "number": 132,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Menace\nWhen this creature enters, if it's a token, double its power until end of turn. It deals damage equal to its power to target creature. \nPremonition {3}{R} [i](You may pay {3}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
+            "rules_text": "Menace\nWhen this creature enters, it deals damage equal to its power to up to one target creature. \nPremonition {3}{R} [i](You may pay {3}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4327,7 +4327,7 @@
             "number": 169,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Trample\nThis creature enters tapped with two stun counters on it.\nWhenever you remove a counter from a permanent you control, scry 1 and you gain 1 life.",
+            "rules_text": "Trample\nThis creature enters tapped with two stun counters on it.\nWhenever you remove a counter from a permanent you control, scry 1 and you gain 1 life. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5080,5 +5080,5 @@
             "notes": ""
         }
     ],
-    "version": 8
+    "version": 9
 }

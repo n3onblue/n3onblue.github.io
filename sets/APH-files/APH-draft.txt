@@ -704,7 +704,7 @@
 			"name": "Reckless Impulse",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://n3onblue.github.io/sets/APH-files/img/157_Reckless Impulse.png"
@@ -1341,13 +1341,13 @@
 			}
 		},
 		{
-			"name": "Blood Worhsiper",
+			"name": "Blood Worshiper",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Barbarian",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/127_Blood Worhsiper.png"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/127_Blood Worshiper.png"
 			}
 		},
 		{
@@ -2769,7 +2769,7 @@
 	4 Dreams of Mourning
 	4 Call Forth the Rotten
 	4 Candle Glow Vigilant
-	4 Blood Worhsiper
+	4 Blood Worshiper
 	4 Mutant Ringleader
 	4 Dreamwalker Alchemist
 	4 Unformed Skin Stealer
@@ -3059,7 +3059,7 @@
 	6 Dreams of Mourning
 	6 Call Forth the Rotten
 	6 Candle Glow Vigilant
-	6 Blood Worhsiper
+	6 Blood Worshiper
 	6 Mutant Ringleader
 	6 Dreamwalker Alchemist
 	6 Unformed Skin Stealer
@@ -3309,7 +3309,7 @@
 	15 Dreams of Mourning
 	15 Call Forth the Rotten
 	15 Candle Glow Vigilant
-	15 Blood Worhsiper
+	15 Blood Worshiper
 	15 Mutant Ringleader
 	15 Dreamwalker Alchemist
 	15 Unformed Skin Stealer

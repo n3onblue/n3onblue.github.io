@@ -1,4 +1,44 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Blood Worshiper added.
+
+Blood Worhsiper removed.
+
+Reckless Impulse
+type: Instant => Sorcery
+
+Strike from Above
+rules_text: Each opponent sacrifices a creature with flying, and an artifact or enchantment. => Each opponent sacrifices a creature with flying, an artifact, or enchantment.
+
+Ishia, Teiran Matriarch
+rules_text: Whenever you put one or more counters on a permanent, draw a card. This ability triggers only once each turn.
+[i]Reimagine[/i] — {1}{U}, Remove a counter from a permanent you control: Tap target creature and put a stun counter on it. => Whenever you put one or more counters on a permanent, draw a card. This ability triggers only once each turn.
+[i]Reimagine[/i] — {1}{U}, Remove a counter from a permanent you control: Tap target creature and put a stun counter on it. Activate only as a sorcery
+
+Sorgash, Manic Mutant
+rules_text: Trample, haste
+When Sorgash, Manic Mutant enters, search your library for three land cards and exile them, then shuffle.
+Whenever one or more Mutants you control attack, put a card exiled with Sorgash into your hand. => Haste
+When Sorgash, Manic Mutant enters, search your library for three land cards and exile them, then shuffle.
+Whenever one or more Mutants you control attack, put a card exiled with Sorgash into your hand.
+
+Candleglow Faithful
+rules_text: Menace
+When this creature enters, if it's a token, double its power until end of turn. It deals damage equal to its power to target creature. 
+Premonition {3}{R} [i](You may pay {3}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i] => Menace
+When this creature enters, it deals damage equal to its power to up to one target creature. 
+Premonition {3}{R} [i](You may pay {3}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]
+
+Bramble Skitherer
+rules_text: Trample
+This creature enters tapped with two stun counters on it.
+Whenever you remove a counter from a permanent you control, scry 1 and you gain 1 life. => Trample
+This creature enters tapped with two stun counters on it.
+Whenever you remove a counter from a permanent you control, scry 1 and you gain 1 life. This ability triggers only once each turn.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Prophecy of the Apex added.
