@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
   <title>Aphantasia</title>
-  <link rel="icon" type="image/x-icon" href="/sets/APH-files/icon.png">
+  <link rel="icon" type="image/x-icon" href="/sets/aph-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
   <link rel="stylesheet" href="/resources/card-text.css">
@@ -309,8 +309,8 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/APH-files/icon.png">
-				<div class="set-title">Aphantasia</div><div class="dot"> • </div><a href="/sets/APH-files/APH-draft.txt" download>Draft</a>
+				<img class="set-logo" src="/sets/aph-files/icon.png">
+				<div class="set-title">Aphantasia</div><div class="dot"> • </div><a href="/sets/aph-files/aph-draft.txt" download>Draft</a>
 		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
 		</div>
 
@@ -367,7 +367,7 @@
 				card_list_arrayified = card_list.cards;
 
 
-			await fetch('/sets/APH-files/APH-draft.txt')
+			await fetch('/sets/aph-files/aph-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -377,7 +377,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "APH")
+				if (card_list_arrayified[i].set == "aph")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}

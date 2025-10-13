@@ -1,4 +1,51 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Unsubstantiated Obliterator
+rules_text: Unsubstantiated Obliterator enters with two -1/-1 counters on it.
+[i]Reimagine[/i] — {2}{U}: Remove a counter from a permanent you control. => This creature enters with two -1/-1 counters on it.
+[i]Reimagine[/i] — Whenever this creature attacks, remove a counter from it. If you do, up to one other target creature can't be blocked this turn.
+
+Wicker Titan
+rules_text: This creature enters with two-1/-1 counters.
+Whenever you put a counter on another permanent you control, you gain 1 life. => This creature enters with two-1/-1 counters.
+Whenever you put one or more counters on another permanent you control, you gain 1 life.
+
+Unbreakable Will
+rules_text: [i]Reimagine[/i] — Target creature gets +2/+2 until end of turn. You may remove a counter from a permanent you control, if you do, it gets +4/+4 until end of turn instead. => [i]Reimagine[/i] — Target creature gets +3/+3 until end of turn. You may remove a counter from a permanent you control, if you do, it gets trample and vigilance until end of turn.
+
+Wise Old Bramble
+rules_text: This creature enters with three -1/-1 counter on it.
+[i]Reimagine[/i] — {1}{G}, Remove a counter from a permanent you control: Scry 2. => This creature enters with three -1/-1 counter on it.
+[i]Reimagine[/i] — Whenever this creature attacks, you may remove a counter from a permanent you control.If you do, Scry 2.
+
+Animated Elderwood
+rules_text: Animated Elderwood enters with two -1/-1 counters.
+Whenever a creature you control attacks, if it has power greater than its mana value, draw a card.
+[i]Reimagine[/i] — At the beginning of your upkeep, remove a counter from a permanent you control. If you do, put a trample counter on a creature you control. => Animated Elderwood enters with two -1/-1 counters.
+Whenever one or more creature you control attacks, if it has power greater than its mana value, draw a card.
+[i]Reimagine[/i] — At the beginning of your upkeep, remove a counter from a permanent you control. If you do, put a trample counter on a creature you control.
+
+Free the Beast
+type: Instant => Enchantment
+cost: {G}{U} => {1}{G}{U}
+rules_text: Remove any number of counters from target permanent. Draw a card. => [i]Reimagine[/i] — At the beginning of your end step, you may remove a counter from among permanents you control. If you do, draw a card.
+
+Ishia, Teiran Matriarch
+rules_text: Whenever you put one or more counters on a permanent, draw a card. This ability triggers only once each turn.
+[i]Reimagine[/i] — {1}{U}, Remove a counter from a permanent you control: Tap target creature and put a stun counter on it. Activate only as a sorcery => Whenever you put one or more counters on a permanent, draw a card. This ability triggers only once each turn.
+[i]Reimagine[/i] — {1}{U}, Remove a counter from a permanent you control: Tap target creature and put a stun counter on it. Activate only as a sorcery.
+
+Bramble Skitherer
+rules_text: Trample
+This creature enters tapped with two stun counters on it.
+Whenever you remove a counter from a permanent you control, scry 1 and you gain 1 life. This ability triggers only once each turn. => This creature enters tapped with two stun counters on it.
+Whenever you remove a counter from a permanent you control, scry 1 and you gain 1 life. This ability triggers only once each turn.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Blood Worshiper added.
