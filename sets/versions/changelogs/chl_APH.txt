@@ -1,4 +1,381 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Ghastly Spectre added.
+Mind Control added.
+Siphoner of the Epicenter added.
+Caller of Plauges added.
+Cycloptic Watcher added.
+Uncertainty Manifested added.
+Seer of Radiance added.
+Scavenger of the Depraved added.
+Lost in the Shadows added.
+Rogue added.
+Angel added.
+
+Ghastly Motivator removed.
+Control Magic removed.
+Beconer of the Epicenter removed.
+Call Forth the Rotten removed.
+Cycloptic Warden removed.
+Shadow Titan removed.
+Candleglow Faithful removed.
+Esoteric Rot Farmer removed.
+Delerious Loss removed.
+Rouge removed.
+Demon removed.
+
+A Collosal Presence
+type: Enchantment Creature — Draumur => Enchantment Creature — Illusion
+
+Face Nightmares
+rules_text: Choose two, You may choose the same mode more than once --
+• Tap target creature and put a stun counter on it.
+• Untap target creature and put a vigilance counter on it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose two, You may choose the same mode more than once —
+• Tap target creature and put a stun counter on it.
+• Untap target creature and put a vigilance counter on it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Historian's Calling
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+
+Sleep Paralysis Visions
+rules_text: Chose one —
+• Target creature gets -4/-0 until end of turn.
+• Target permanent loses all abilities until end of turn. Remove any number of counters from it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Chose one —
+• Target creature gets -4/-0 until end of turn.
+• Target permanent loses all abilities until end of turn. 
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Horrid Omen
+rules_text: Choose one.
+• Each opponent discards a card.
+• Put a -1/-1 counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one —
+• Each opponent discards a card.
+• Put a -1/-1 counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Toy With Bodies
+rules_text: Choose one.
+• Return target creature card from your graveyard to your hand.
+• Sacrifice a creature. If you do, draw two cards.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one —
+• Return target creature card from your graveyard to your hand.
+• Sacrifice a creature. If you do, draw two cards.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Prophecy of the Apex
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+
+Compulsive Scratching
+type: Sorcery => Instant
+
+Dreams of Falling
+cost: {1}{B} => {1}{B}{B}
+rules_text: Choose one.
+• Target creature gets -2/-2 until end of turn.
+• Scry 1, then draw a card. You lose 1 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Target creature gets -2/-2 until end of turn. Choose one —
+• Scry 1, then draw a card. You lose 1 life.
+• Target creature gains indestructible until end of turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Unsanctimonious Oprotunist
+type: Creature — Human Rouge => Creature — Human Rogue
+
+Run Forever and Never Tire
+rules_text: Choose one.
+• Create a 2/1 red Rouge creature token. Creatures you control gain haste until end of turn.
+• Up to two target creatures can't block this turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one —
+• Create a 2/1 red Rogue creature token. Creatures you control gain haste until end of turn.
+• Up to two target creatures can't block this turn.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Ocult Evangel
+rules_text: Whenever this creature enters, create a 2/1 red Rouge creature token.
+Premonition {2}{R} [i](You may pay {2}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i] => Whenever this creature enters, create a 2/1 red Rogue creature token.
+Premonition {2}{R}{R} [i](You may pay {2}{R}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]
+
+Power Fantasy
+rules_text: Choose one.
+• Target creature gets +2/+0 and gains first strike until end of turn.
+• Put a first strike counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one —
+• Target creature gets +2/+0 and gains first strike until end of turn.
+• Put a first strike counter on target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Down to the Wik
+rules_text: Choose one.
+• Destroy target artifact
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one —
+• Destroy target artifact
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Wicker Titan
+rules_text: This creature enters with two-1/-1 counters.
+Whenever you put one or more counters on another permanent you control, you gain 1 life. => This creature enters with two -1/-1 counters.
+Whenever you put one or more counters on another permanent you control, you gain 1 life.
+
+Offering Gaurdian
+cost: {5}{G} => {4}{G}
+rules_text: When Offering Gaurdian enters, exile the top three cards of your library.You may put a creature card exiled this way into your hand. 
+Premonition {3}{G} [i](You may pay {3}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i] => When Offering Gaurdian enters, exile the top three cards of your library.You may put a creature card and/or land card exiled this way into your hand. 
+Premonition {4}{G} [i](You may pay {4}{G} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]
+
+Strike from Above
+cost: {1}{G} => {G}
+rules_text: Each opponent sacrifices a creature with flying, an artifact, or enchantment. => Each opponent sacrifices a creature with flying, an artifact, or an enchantment.
+
+Valiant Heroics
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+
+Whispers of the Forgotten
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+
+Doomed to Meaninglessness
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+
+Dark Horseman
+type: Creature — Human Shaman => Creature — Mutant Shaman
+
+Whispers of Guilt
+type: Sorcery => Instant
+
+Dreams of Mourning
+rules_text: Choose one —
+• Destroy target creature.
+• Draw two cards and lose 2 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one —
+• Return target creature from your graveyard to the battlefield. It enters with a decayed counter.
+• Draw two cards and lose 2 life.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Constant Looming Threat
+rules_text: Choose one —
+• Create two 2/1 red Rouge creature tokens.
+• Target creature you control fights target creature you don't control.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one —
+• Create two 1/1 black Horror enchantment creature tokens with menace.
+• Target creature you control fights target creature you don't control.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Call Forth the Eager
+rules_text: Create three 2/1 red Rouge creature tokens. => Create three 2/1 red Rogue creature tokens.
+
+Dreamcast
+
+Unbreakable Conviction
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+
+Unstopable Destiny
+rules_text: If a quest ability of a Quest you control triggers, that ability triggers an additional time. => If an ability of a Quest, Saga, or Mystery you control triggers, that ability triggers an additional time.
+
+Gorthor, Maker of Fate
+cost: {3}{B}{B} => {2}{B}{B}
+rules_text: Flying, lifelink
+Whenever an enchantment you control is put into your graveyard from the battlefield, return it to the battlefield with a finality counter on it. => Flying, lifelink
+Whenever an enchantment you control is put into your graveyard from the battlefield, return it to the battlefield with a finality counter on it. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i]
+pt: 5/4 => 4/3
+
+Mangled Rager
+cost: {2}{B}{B} => {1}{B}{B}
+pt: 5/4 => 4/3
+
+Sorgash, Manic Mutant
+cost: {2}{G}{G} => {3}{G}{G}
+rules_text: Haste
+When Sorgash, Manic Mutant enters, search your library for three land cards and exile them, then shuffle.
+Whenever one or more Mutants you control attack, put a card exiled with Sorgash into your hand. => Haste
+When Sorgash attacks, exile a land you control and return it to the battlefield. If it enters tapped, untap it.
+[i]Aberrant[/i] — Whenever one or more cards you own leaves exile, Mutants you control get +1/+1 until end of turn.
+pt: 4/4 => 4/3
+
+Greater Purpose
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. 
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. 
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn.
+
+Candleglow Sorcerer
+rules_text: When Candleglow Sorcerer enters, choose one —
+• Destroy target artifact or enchantment.
+• Return a permanent card with mana value 2 or less from your graveyard to your hand.
+• Scry 2 and you gain 2 life. => When Candleglow Sorcerer enters, choose one —
+• Destroy target enchantment.
+• Return a permanent card with mana value 2 or less from your graveyard to your hand.
+• Scry 2 and you gain 2 life.
+pt: 2/2 => 2/3
+
+Dreams of Disloyalty
+type: Sorcery => Instant
+cost: {2}{U}{U}{U} => {1}{U}{U}{U}
+rules_text: Choose one or more —
+• Gain control of target creature
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one or more —
+• Create a token copy of target creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Dreams of Apocalypse
+type: Sorcery => Instant
+rules_text: Choose one or more —
+• Target opponent sacrifices a creature, a land, and a noncreature nonland permanent.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i] => Choose one or more —
+• Each opponent sacrifices a creature.
+Lucid [i](Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.)[/i]
+
+Fungal Amalgamate
+type: Creature — Mutant Horror => Enchantment Creature — Plant Horror
+
+Tym, The Fear Father
+cost: {3}{U}{B}{R} => {2}{U}{B}{R}
+rules_text: As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card at random.
+• This spell deals 3 damage to any target.
+[0]: Draw two cards.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves => As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card.
+• Create a 1/1 black Horror enchantment creature token with menace.
+[0]: Draw two cards.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves
+special_text: As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card at random.
+• This spell deals 3 damage to any target.
+[0]: Draw two cards.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves => As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card.
+• Create a 1/1 black Horror enchantment creature token with menace.
+[0]: Draw two cards.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves
+
+Beast of Wings and Limbs
+rules_text: Flying, haste
+Beast of Wings and Limbs gets +1/+1 for each modal card you own in exile and in your graveyard. => This creature's power is equal to the number of modal cards you own in your graveyard and in exile.
+{UR}: This creature gains flying until end of turn. Activate only on your turn.
+pt: 1/1 => */2
+
+Excited Arival
+rules_text: Whenever a creature enters under your control, Excited Arival deals 1 damage to each opponent and you gain 1 life. => Whenever a creature enters under your control, Excited Arival deals 1 damage to each opponent and you gain 1 life.
+Sacrifice this enchantment: Create a 4/4 white Angel creature token with flying. Activate only if you have at least 10 more life than your starting life total.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
