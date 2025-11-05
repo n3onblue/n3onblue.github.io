@@ -1,4 +1,28 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Whispers of the Forgotten
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+​
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Ghastly Spectre added.
