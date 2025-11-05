@@ -18,7 +18,7 @@
             "artist": "Ruberman Rodriguez",
             "alias": "",
             "notes": "MV1 token Quest",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Beast Dispatcher",
@@ -38,7 +38,7 @@
             "artist": "PETER MING YEE SHEH",
             "alias": "",
             "notes": "mana value2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Tyran Moral Keeper",
@@ -58,7 +58,7 @@
             "artist": "Matteo Paolini",
             "alias": "",
             "notes": "mana value2 tenacious",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Prophecy Enforcer",
@@ -78,7 +78,7 @@
             "artist": "Bear Frymire",
             "alias": "",
             "notes": "mv2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fog Wanderer",
@@ -98,7 +98,7 @@
             "artist": "Ksenija Radojevic",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Abandoned Impulse",
@@ -118,7 +118,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Hearald of the Lost",
@@ -138,7 +138,7 @@
             "artist": "huleeb",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Tyran Debilitator",
@@ -158,7 +158,7 @@
             "artist": "Dmitry Dubinsky",
             "alias": "",
             "notes": "mana value4 reimagine",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Candleglow Appostle",
@@ -178,7 +178,7 @@
             "artist": "Marcin FlisikowskiPro",
             "alias": "",
             "notes": "mana value4 tenacious",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "A Collosal Presence",
@@ -198,7 +198,7 @@
             "artist": "Joey Beelich",
             "alias": "",
             "notes": "mana value5 creature",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Tamed Fogsoarer",
@@ -218,7 +218,7 @@
             "artist": "Karel D'Huyvetter",
             "alias": "",
             "notes": "mana value6",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Disapear into the Fog",
@@ -238,7 +238,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "NC unconditional Removal",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Debilitate the Feble",
@@ -258,7 +258,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "NC Small removal/ combat",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Overwhelm Ego",
@@ -278,7 +278,7 @@
             "artist": "AID_EDITION",
             "alias": "",
             "notes": "NC Big removal",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Abstraction",
@@ -298,7 +298,7 @@
             "artist": "Branden Singletary",
             "alias": "",
             "notes": "NC disenchant",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Visit Unreality",
@@ -318,7 +318,7 @@
             "artist": "James Firkins",
             "alias": "",
             "notes": "NC Permenant flicker",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Prophecy of Leadership",
@@ -338,7 +338,7 @@
             "artist": "Chrisnazgul",
             "alias": "",
             "notes": "Quest, makes counter",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Refuse to Fall",
@@ -358,7 +358,7 @@
             "artist": "Emicathe",
             "alias": "",
             "notes": "Reimagine combat trick",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Gift of the Candleglow",
@@ -378,7 +378,7 @@
             "artist": "Ian Llanas",
             "alias": "",
             "notes": "Aura",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Stray Daydreams",
@@ -398,7 +398,7 @@
             "artist": "Duy Van",
             "alias": "",
             "notes": "mana value1 Lucid",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreamer of Empowerment",
@@ -418,7 +418,7 @@
             "artist": "Chrisnazgul",
             "alias": "",
             "notes": "Creature mana value2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Haunted Wanderer",
@@ -438,7 +438,7 @@
             "artist": "Humberto Cunha",
             "alias": "",
             "notes": "Creature mv2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ghastly Spectre",
@@ -458,7 +458,7 @@
             "artist": "Sebastian Kowoll",
             "alias": "",
             "notes": "Creature mana value 3 reimagine",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Looming Nightmare",
@@ -478,7 +478,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "notes": "creature mana value 3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Scuttling Head",
@@ -498,7 +498,7 @@
             "artist": "Antonio J. Manzanedo",
             "alias": "",
             "notes": "creature mana value 3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreamer of Omens",
@@ -518,7 +518,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "mana value4 creature",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Gangley Thing",
@@ -538,7 +538,7 @@
             "artist": "Alexandre Chaudret",
             "alias": "",
             "notes": "creature mana value 4",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Destiny Enforcer",
@@ -558,7 +558,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "mana value5",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unsubstantiated Obliterator",
@@ -578,7 +578,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "mana value 6",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Rejection",
@@ -598,7 +598,7 @@
             "artist": "Wenjun Lin",
             "alias": "",
             "notes": "Lucid hard counter",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Stalwart Mind",
@@ -618,7 +618,7 @@
             "artist": "Joseph Feely",
             "alias": "",
             "notes": "Soft counter",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Face Nightmares",
@@ -638,7 +638,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "Lucid Tap down",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Homeward Bound",
@@ -658,7 +658,7 @@
             "artist": "Paola Malafronte",
             "alias": "",
             "notes": "bounce on a quest",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Solitary Meditation",
@@ -678,7 +678,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "Stun counters",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Historian's Calling",
@@ -698,7 +698,7 @@
             "artist": "Craig Morrison",
             "alias": "",
             "notes": "NC quest",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Thought Revision",
@@ -718,7 +718,7 @@
             "artist": "L-E-N-T-E- S-C-U-R-A",
             "alias": "",
             "notes": "Cantrip with reimagine",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Sleep Paralysis Visions",
@@ -738,7 +738,7 @@
             "artist": "VURDALAK",
             "alias": "",
             "notes": "Power reducer (Lucid)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreamhopping",
@@ -758,7 +758,7 @@
             "artist": "Sylvain Sarrailh",
             "alias": "",
             "notes": "Enchantment with NC trigger",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Persistent Gurgle",
@@ -778,7 +778,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "notes": "mana value1",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ichorine Apostle",
@@ -798,7 +798,7 @@
             "artist": "Chrisnazgul",
             "alias": "",
             "notes": "mana value2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dream Coaxer",
@@ -818,7 +818,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "mana value2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ego Thirster",
@@ -838,7 +838,7 @@
             "artist": "James Zapata",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Maddened Lycan",
@@ -858,7 +858,7 @@
             "artist": "Einar Martinsen",
             "alias": "",
             "notes": "mana value3 (aberant)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Executor of Destiny",
@@ -878,7 +878,7 @@
             "artist": "Johannes Voss",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Festering Patriarch",
@@ -898,7 +898,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "notes": "mana value4",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Shapes in the Night",
@@ -918,7 +918,7 @@
             "artist": "Petar Milivojevic",
             "alias": "",
             "notes": "mana value4 (Lucid)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Skinless Almalgamate",
@@ -938,7 +938,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "mana value5",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Snarl of Death",
@@ -958,7 +958,7 @@
             "artist": "Maik Beiersdorf",
             "alias": "",
             "notes": "mana value6",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Horrid Omen",
@@ -978,7 +978,7 @@
             "artist": "Yoojin Rhee",
             "alias": "",
             "notes": "Discard (Lucid)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Tempting Whispers",
@@ -998,7 +998,7 @@
             "artist": "Pawe\u0142 Latkowski",
             "alias": "",
             "notes": "opponent exile steal/cantrip",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Toy With Bodies",
@@ -1018,7 +1018,7 @@
             "artist": "Sravan NCS",
             "alias": "",
             "notes": "modal Lucid",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Prophecy of the Apex",
@@ -1038,7 +1038,7 @@
             "artist": "Wero Gallo",
             "alias": "",
             "notes": "quest",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Onset Repugnance",
@@ -1058,7 +1058,7 @@
             "artist": "Arokhun",
             "alias": "",
             "notes": "aura",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Compulsive Scratching",
@@ -1078,7 +1078,7 @@
             "artist": "Art of Korn",
             "alias": "",
             "notes": "Enchantment with aberant",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Embrace Despair",
@@ -1098,7 +1098,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "notes": "Edict quest",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Premature Tragedy",
@@ -1118,7 +1118,7 @@
             "artist": "Vera Prosetskaya",
             "alias": "",
             "notes": "Cheap conditional creature removal",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Falling",
@@ -1138,7 +1138,7 @@
             "artist": "Thomas Dubois",
             "alias": "",
             "notes": "Expensive hard removal (Lucid)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Blood Craized Mutant",
@@ -1158,7 +1158,7 @@
             "artist": "SNEAKERZ SAD",
             "alias": "",
             "notes": "mana value1 aberant",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Cultish Sorcerer",
@@ -1178,7 +1178,7 @@
             "artist": "Daniela Ivanova",
             "alias": "",
             "notes": "mana value1 Tenacious",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unsanctimonious Oprotunist",
@@ -1198,7 +1198,7 @@
             "artist": "Clement Danveau",
             "alias": "",
             "notes": "mana value2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Run Forever and Never Tire",
@@ -1218,7 +1218,7 @@
             "artist": "Lisa Mey",
             "alias": "",
             "notes": "mana value2 (Lucid)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreamer of Carnage",
@@ -1238,7 +1238,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "Mv2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fanatic Visonary",
@@ -1258,7 +1258,7 @@
             "artist": "Wesley Gardner",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ritual Borne",
@@ -1278,7 +1278,7 @@
             "artist": "Pawe\u0142 Latkowski",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Candleglow Ritualist",
@@ -1298,7 +1298,7 @@
             "artist": "vnmribaya \u2502ger\u00f3nimo ribaya",
             "alias": "",
             "notes": "Mv3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Hoarder of Bones",
@@ -1318,7 +1318,7 @@
             "artist": "Vinh Pham",
             "alias": "",
             "notes": "mana value4",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Gangley Hemocrat",
@@ -1338,7 +1338,7 @@
             "artist": "Dakota Curry",
             "alias": "",
             "notes": "mana value4 (Aberant)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ocult Evangel",
@@ -1358,7 +1358,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "notes": "mana value5 (Tenacious)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Seeing Double",
@@ -1378,7 +1378,7 @@
             "artist": "Luna Clarion",
             "alias": "",
             "notes": "Hastey copy spell",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Power Fantasy",
@@ -1398,7 +1398,7 @@
             "artist": "Jimmy Lo",
             "alias": "",
             "notes": "Modal cobat trick (Lucid)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Reckless Impulse",
@@ -1418,7 +1418,7 @@
             "artist": "Manon-Lou Petit",
             "alias": "",
             "notes": "Impulse draw",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Makeshift Campfire",
@@ -1438,7 +1438,7 @@
             "artist": "Mateusz Michalski",
             "alias": "",
             "notes": "Artifact that is a sac outlet",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Down to the Wik",
@@ -1458,7 +1458,7 @@
             "artist": "Libby S",
             "alias": "",
             "notes": "Shatter (Lucid)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Strangle",
@@ -1478,7 +1478,7 @@
             "artist": "Err0rC0degames",
             "alias": "",
             "notes": "Small burn",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Burn and Pillage",
@@ -1498,7 +1498,7 @@
             "artist": "Hakob Minasian",
             "alias": "",
             "notes": "Medium Burn",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Evicerate",
@@ -1518,7 +1518,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "notes": "Big burn",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Savior in the Dark",
@@ -1538,7 +1538,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "mana value1 reimagine",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Disciple of the Beastly",
@@ -1558,7 +1558,7 @@
             "artist": "Alena Aenami",
             "alias": "",
             "notes": "aberant mana value2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Spindley Abomination",
@@ -1578,7 +1578,7 @@
             "artist": "Nino Is",
             "alias": "",
             "notes": "mana value2",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Tenacious Wanderer",
@@ -1598,7 +1598,7 @@
             "artist": "Jonathan Guzi",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Wicker Titan",
@@ -1618,7 +1618,7 @@
             "artist": "Ren\u00e9 Aigner",
             "alias": "",
             "notes": "mana value3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Lantern Guide",
@@ -1638,7 +1638,7 @@
             "artist": "Joseph Feely",
             "alias": "",
             "notes": "mana value3 Tenacious",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Aracnid Host",
@@ -1658,7 +1658,7 @@
             "artist": "Sebastian Horoszko",
             "alias": "",
             "notes": "Mv 3",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Screeching Apex",
@@ -1678,7 +1678,7 @@
             "artist": "Nino Is",
             "alias": "",
             "notes": "mana value4",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Mass of Eyes and Teeth",
@@ -1698,7 +1698,7 @@
             "artist": "Tomasz Jedruszek",
             "alias": "",
             "notes": "Mv4",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Beast of Puss and Senew",
@@ -1718,7 +1718,7 @@
             "artist": "Jerad S. Marantz",
             "alias": "",
             "notes": "mana value5 abaerant",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Offering Gaurdian",
@@ -1738,7 +1738,7 @@
             "artist": "Connor Sheehan",
             "alias": "",
             "notes": "mana value6 tenacious",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Collosal Barmble",
@@ -1758,7 +1758,7 @@
             "artist": "Quaresma",
             "alias": "",
             "notes": "mana value7",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Bramble of Memories",
@@ -1778,7 +1778,7 @@
             "artist": "Jerry Balaicuis",
             "alias": "",
             "notes": "Regrowth",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unbreakable Will",
@@ -1798,7 +1798,7 @@
             "artist": "Rochaku",
             "alias": "",
             "notes": "Giant growth (Reimagine)",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "March in Candleglow",
@@ -1818,7 +1818,7 @@
             "artist": "Einar Martinsen",
             "alias": "",
             "notes": "Make counters",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Mental Fortitude",
@@ -1838,7 +1838,7 @@
             "artist": "Unreal Shack",
             "alias": "",
             "notes": "NC that enters and leaves exile or has cards enter and leave exile",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Strike from Above",
@@ -1858,7 +1858,7 @@
             "artist": "DreadJim",
             "alias": "",
             "notes": "Anti Fly",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ground to Reality",
@@ -1878,7 +1878,7 @@
             "artist": "Mazert Young",
             "alias": "",
             "notes": "Disenchant",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Drag Away",
@@ -1898,7 +1898,7 @@
             "artist": "Denis Kornev",
             "alias": "",
             "notes": "FIght Bite",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unformed Thought",
@@ -1918,7 +1918,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "mana value1-2 artifact",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Possesed Armor",
@@ -1938,7 +1938,7 @@
             "artist": "Jerome Jacinto",
             "alias": "",
             "notes": "mana value 3-4 artifcat",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Statue of the Bellringer",
@@ -1958,7 +1958,7 @@
             "artist": "Yellow Cloud",
             "alias": "",
             "notes": "mana value 5-6 artifact",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Prophesied Weapon",
@@ -1978,7 +1978,7 @@
             "artist": "Marika Ravi",
             "alias": "",
             "notes": "Land",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Illuminating Candle",
@@ -1998,7 +1998,7 @@
             "artist": "Johanna Rupprecht",
             "alias": "",
             "notes": "Land",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Manalith",
@@ -2018,7 +2018,7 @@
             "artist": "Scott Harris",
             "alias": "",
             "notes": "Land",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Teiran Wanderer",
@@ -2038,7 +2038,7 @@
             "artist": "Dao Trong Le",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Priestess of Lights",
@@ -2058,7 +2058,7 @@
             "artist": "Noah",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Lost Mentor",
@@ -2078,7 +2078,7 @@
             "artist": "Jiun Qi",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Candleglow Drake",
@@ -2098,7 +2098,7 @@
             "artist": "Nico Fari",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Prophecy Scribe",
@@ -2118,7 +2118,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Virtuous Nightmare",
@@ -2138,7 +2138,7 @@
             "artist": "Daniele Gay",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Gargantuan Mutant",
@@ -2158,7 +2158,7 @@
             "artist": "Tomek Larek",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Disappearing Man",
@@ -2178,7 +2178,7 @@
             "artist": "Jakub Jagoda",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Valiant Heroics",
@@ -2198,7 +2198,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Seek Offering",
@@ -2218,7 +2218,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ruthless Determination",
@@ -2238,7 +2238,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Enspirited Gaurdian",
@@ -2258,7 +2258,7 @@
             "artist": "Vadim Simanin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Etherial Skeleton",
@@ -2278,7 +2278,7 @@
             "artist": "jordi van hees",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Deep Shadow Infiltrator",
@@ -2298,7 +2298,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Whispers of the Forgotten",
@@ -2318,7 +2318,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Free Soul",
@@ -2338,7 +2338,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Rushing Waves",
@@ -2358,7 +2358,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Half Formed Leviathan",
@@ -2378,7 +2378,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Doomed to Meaninglessness",
@@ -2398,7 +2398,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Inexorable Sloth",
@@ -2418,7 +2418,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Etherial Experince",
@@ -2438,7 +2438,7 @@
             "artist": "huleeb",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Mind Control",
@@ -2458,7 +2458,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unformed Terror",
@@ -2478,7 +2478,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Smolder Hound",
@@ -2498,7 +2498,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Embrace Delusion",
@@ -2518,7 +2518,7 @@
             "artist": "John \"Jangus\" Cambra",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Whispy Nightmare",
@@ -2538,7 +2538,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Siphoner of the Epicenter",
@@ -2558,7 +2558,7 @@
             "artist": "Aaron Nakahara",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dark Horseman",
@@ -2578,7 +2578,7 @@
             "artist": "Chrisnazgul",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Whispers of Guilt",
@@ -2598,7 +2598,7 @@
             "artist": "Chrisnazgul",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Lord of the Deformed",
@@ -2618,7 +2618,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Mourning",
@@ -2638,7 +2638,7 @@
             "artist": "Dawid Jurek",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Caller of Plauges",
@@ -2658,7 +2658,7 @@
             "artist": "Julian Bauer",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Candle Glow Vigilant",
@@ -2678,7 +2678,7 @@
             "artist": "Jakub Jagoda",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Blood Worshiper",
@@ -2698,7 +2698,7 @@
             "artist": "Jakub Jagoda",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Mutant Ringleader",
@@ -2718,7 +2718,7 @@
             "artist": "Nino Is",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreamwalker Alchemist",
@@ -2738,7 +2738,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unformed Skin Stealer",
@@ -2758,7 +2758,7 @@
             "artist": "David Astruga",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Smolderhorn Elk",
@@ -2778,7 +2778,7 @@
             "artist": "Katinka ThorondorPro",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Constant Looming Threat",
@@ -2798,7 +2798,7 @@
             "artist": "Sergio Cosmai",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Avatar of Candlelight",
@@ -2818,7 +2818,7 @@
             "artist": "Peter Mohrbacher",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Carnage",
@@ -2838,7 +2838,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Reborn in Flames",
@@ -2858,7 +2858,7 @@
             "artist": "Juan Pablo Fuentes Ruiz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fling",
@@ -2878,7 +2878,7 @@
             "artist": "Jackson Tjota",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fester Hoard",
@@ -2898,7 +2898,7 @@
             "artist": "Fran\u00e7ois Dujardin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Eldritch Attendant",
@@ -2918,7 +2918,7 @@
             "artist": "Mike Jordana",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Candleglow Naturalist",
@@ -2938,7 +2938,7 @@
             "artist": "Tony Sart",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Teiran Brawler",
@@ -2958,7 +2958,7 @@
             "artist": "Blake Rottinger",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Wise Old Bramble",
@@ -2978,7 +2978,7 @@
             "artist": "Dominic Reyes",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Conjoined Monstrosity",
@@ -2998,7 +2998,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Spindley Goreger",
@@ -3018,7 +3018,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Candleglow Beast",
@@ -3038,7 +3038,7 @@
             "artist": "St\u00e9phane HEUVELINE",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Life From Rot",
@@ -3058,7 +3058,7 @@
             "artist": "Alessandro Manzella",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Brave the Bramble",
@@ -3078,7 +3078,7 @@
             "artist": "Alessandro Manzella",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Curageous Example",
@@ -3098,7 +3098,7 @@
             "artist": "Alessandro Manzella",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "No Soul May Rest",
@@ -3118,7 +3118,7 @@
             "artist": "Stu Harrington",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fatal Daydreams",
@@ -3138,7 +3138,7 @@
             "artist": "Antonio J. Manzanedo",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Teiran Scouting",
@@ -3158,7 +3158,7 @@
             "artist": "\nDavid Frasheski",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Spiritual Rejuvination",
@@ -3178,7 +3178,7 @@
             "artist": "Vova Tchuiev",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Pull of the Epicenter",
@@ -3198,7 +3198,7 @@
             "artist": "James Maw",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Call Forth the Eager",
@@ -3218,7 +3218,7 @@
             "artist": "Rob Laskey",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Reduce Form",
@@ -3238,7 +3238,7 @@
             "artist": "Dawid Jurek",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreamcast",
@@ -3258,7 +3258,7 @@
             "artist": "Felix Ria\u00f1o",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Irrational Hope",
@@ -3278,7 +3278,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Healing of the Candleglow",
@@ -3298,7 +3298,7 @@
             "artist": "Jiun Qi",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Shaper of Fates",
@@ -3318,7 +3318,7 @@
             "artist": "Claudia Vilcu",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Determined Dreamwalker",
@@ -3338,7 +3338,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Pestilence Embodied",
@@ -3358,7 +3358,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Reoccurring Predator",
@@ -3378,7 +3378,7 @@
             "artist": "Lorenzo Napoli",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Scrappy Survivalist",
@@ -3398,7 +3398,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Prophecy Savant",
@@ -3418,7 +3418,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Lord of Lucidity",
@@ -3438,7 +3438,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Skittering Screecher",
@@ -3458,7 +3458,7 @@
             "artist": "Noah Thatcher",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Cultish Apothocary",
@@ -3478,7 +3478,7 @@
             "artist": "Ramin Tabasian",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Animated Elderwood",
@@ -3498,7 +3498,7 @@
             "artist": "Sergio Cosmai",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unbreakable Conviction",
@@ -3518,7 +3518,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Esoteric Omen",
@@ -3538,7 +3538,7 @@
             "artist": "huleeb",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unwanted Insight",
@@ -3558,7 +3558,7 @@
             "artist": "Ana Mitrovi\u0107",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Roiling Bramble",
@@ -3578,7 +3578,7 @@
             "artist": "Martin Biffaud",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Rally the Foolhardy",
@@ -3598,7 +3598,7 @@
             "artist": "Huu Ha",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Revisit Prophecy",
@@ -3618,7 +3618,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Shredded Memory",
@@ -3638,7 +3638,7 @@
             "artist": "Bassem Khaled",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fleshforme Caverns",
@@ -3658,7 +3658,7 @@
             "artist": "Antonio J. Manzanedo",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Etherial Reinvigoration",
@@ -3678,7 +3678,7 @@
             "artist": "Yeve Drovosekova",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Free the Beast",
@@ -3698,7 +3698,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Illia, Mistress of the Glow",
@@ -3718,7 +3718,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "The Mind Cleaver",
@@ -3738,7 +3738,7 @@
             "artist": "joan Piqu\u00e9 LlorensPro",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ishia, Teiran Matriarch",
@@ -3758,7 +3758,7 @@
             "artist": "Chris Dien",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Unstopable Destiny",
@@ -3778,7 +3778,7 @@
             "artist": "Simo R\u00e4s\u00e4nen",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Gorthor, Maker of Fate",
@@ -3798,7 +3798,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Mangled Rager",
@@ -3818,7 +3818,7 @@
             "artist": "Ivan Mikhalenko",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Ignus, the First Dreamwalker",
@@ -3838,7 +3838,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Valley of Hands",
@@ -3858,7 +3858,7 @@
             "artist": "Craig Mesaros",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Sorgash, Manic Mutant",
@@ -3878,7 +3878,7 @@
             "artist": "Vlad Marica",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Teiran Soothsayer",
@@ -3898,7 +3898,7 @@
             "artist": "Dao Trong Le",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Cordia, Bringer of Sunlight",
@@ -3918,7 +3918,7 @@
             "artist": "Sutthiwat Dechakamphu",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Epicenter Breach",
@@ -3938,7 +3938,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fearless Commander",
@@ -3958,7 +3958,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Cycloptic Watcher",
@@ -3978,7 +3978,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Greater Purpose",
@@ -3998,7 +3998,7 @@
             "artist": "huleeb",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Legend Ledger",
@@ -4018,7 +4018,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Candleglow Sorcerer",
@@ -4038,7 +4038,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Rush to Finality",
@@ -4058,7 +4058,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Disloyalty",
@@ -4078,7 +4078,7 @@
             "artist": "Erikas Perl",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Path of the Protector",
@@ -4098,7 +4098,7 @@
             "artist": "Bassem Khaled",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Novice Dreamwalker",
@@ -4118,7 +4118,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Intricate Daydream",
@@ -4138,7 +4138,7 @@
             "artist": "Louis Lin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Guardian of the Brave",
@@ -4158,7 +4158,7 @@
             "artist": "Pavel Kolomeyets",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fear Father's Eyes",
@@ -4178,7 +4178,7 @@
             "artist": "Kyle Pearson",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "See Fate's Design",
@@ -4198,7 +4198,7 @@
             "artist": "John \"Jangus\" Cambra",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Spiralling Thoughts",
@@ -4218,7 +4218,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Apocalypse",
@@ -4238,7 +4238,7 @@
             "artist": "Vassilios Bayiokos",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Leader of the Unformed",
@@ -4258,7 +4258,7 @@
             "artist": "Andy Walsh",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Uncertainty Manifested",
@@ -4278,7 +4278,7 @@
             "artist": "Alena Aenami",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fate's Enforcer",
@@ -4298,7 +4298,7 @@
             "artist": "Ivan Mikhalenko",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Gore Reveler",
@@ -4318,7 +4318,7 @@
             "artist": "Alexander Borodin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Reformed by Grief",
@@ -4338,7 +4338,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dreams of Rapture",
@@ -4358,7 +4358,7 @@
             "artist": "Satyaki Sarkar",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Bramble Burner",
@@ -4378,7 +4378,7 @@
             "artist": "Konstantinos Skenteridis",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Eldrich Brutalizer",
@@ -4398,7 +4398,7 @@
             "artist": "Jordan Kerbow",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Seer of Radiance",
@@ -4418,7 +4418,7 @@
             "artist": "Stephen ETIENNE",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Insatiable Dreamwalker",
@@ -4438,7 +4438,7 @@
             "artist": "Stephen ETIENNE",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Goremame, Mind Tyrant",
@@ -4458,7 +4458,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Face the Imposible",
@@ -4478,7 +4478,7 @@
             "artist": "James Maw",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Scavenger of the Depraved",
@@ -4498,7 +4498,7 @@
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Stout Watchman",
@@ -4518,7 +4518,7 @@
             "artist": "Istv\u00e1n S\u00fcveg",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Teiran Healer",
@@ -4538,7 +4538,7 @@
             "artist": "Tony Foti",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Bramble Skitherer",
@@ -4558,7 +4558,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Glowbound Ranger",
@@ -4578,7 +4578,7 @@
             "artist": "Bram Willemot",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Corner the Beast",
@@ -4598,7 +4598,7 @@
             "artist": "Jakub Rozalski",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Fungal Amalgamate",
@@ -4618,7 +4618,7 @@
             "artist": "Ivan Mikhalenko",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Tym, The Fear Father",
@@ -4638,7 +4638,7 @@
             "artist": "Einar Martinsen",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Bring Forth the Titan",
@@ -4658,7 +4658,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Valkarie of the Epicenter",
@@ -4678,7 +4678,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Persistent Mutant",
@@ -4698,7 +4698,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Hungering Maw",
@@ -4718,7 +4718,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Dryad of Shared Fate",
@@ -4738,7 +4738,7 @@
             "artist": "Jiun Qi",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "The Whole World Blind",
@@ -4758,7 +4758,7 @@
             "artist": "Rashed AlAkroka",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Beast of Wings and Limbs",
@@ -4778,7 +4778,7 @@
             "artist": "HoTcH",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Boneskull Freak",
@@ -4798,7 +4798,7 @@
             "artist": "Thomas Ricci",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Excited Arival",
@@ -4818,7 +4818,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Lethargic Skywhale",
@@ -4838,7 +4838,7 @@
             "artist": "Robin Tran",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Lost in the Shadows",
@@ -4858,7 +4858,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Barrens of the Shrouded Sun",
@@ -4878,7 +4878,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Embewed Creek",
@@ -4898,7 +4898,7 @@
             "artist": "Joe Grabenstetter",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Abandoned Cemetary",
@@ -4918,7 +4918,7 @@
             "artist": "Christer Degerman",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Noxious Swampland",
@@ -4938,7 +4938,7 @@
             "artist": "Valery Sazonov",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Mind Fog Forest",
@@ -4958,7 +4958,7 @@
             "artist": "huleeb",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Human",
@@ -4978,7 +4978,7 @@
             "artist": "Siwoo Kim",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Spirit",
@@ -4998,7 +4998,7 @@
             "artist": "Bryan Sola",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Mutant",
@@ -5018,7 +5018,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Horror",
@@ -5038,7 +5038,7 @@
             "artist": "Kirill Barybin",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Rogue",
@@ -5058,7 +5058,7 @@
             "artist": "Brad RigneyPro",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Treasure",
@@ -5078,7 +5078,7 @@
             "artist": "Viacheslav Gedich",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Copy",
@@ -5098,7 +5098,7 @@
             "artist": "Stephen Lindsay",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Knight",
@@ -5118,7 +5118,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Crab",
@@ -5138,7 +5138,7 @@
             "artist": "Bryan Sola",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Beast",
@@ -5158,7 +5158,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Insect",
@@ -5178,7 +5178,7 @@
             "artist": "Owen Yeung",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Snake",
@@ -5198,7 +5198,7 @@
             "artist": "Maria Trepalina",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Angel",
@@ -5218,7 +5218,7 @@
             "artist": "Cliff Schonewill",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Avatar",
@@ -5238,7 +5238,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Soldier",
@@ -5258,7 +5258,7 @@
             "artist": "Wesley Gardner",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Bear",
@@ -5278,7 +5278,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Plant",
@@ -5298,7 +5298,7 @@
             "artist": "Julian Bauer",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Takot",
@@ -5318,7 +5318,7 @@
             "artist": "Sebastian Kowoll",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         },
         {
             "card_name": "Place of Serenity",
@@ -5338,7 +5338,7 @@
             "artist": "Tyler Smith",
             "alias": "",
             "notes": "",
-            "image_type": "png"
+            "image_type": "jpg"
         }
     ]
 }
