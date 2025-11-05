@@ -1,4 +1,122 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Historian's Calling
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+​
+
+Prophecy of the Apex
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+​
+
+Valiant Heroics
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+​
+
+Doomed to Meaninglessness
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+​
+
+Unbreakable Conviction
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+​
+
+Greater Purpose
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. 
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. 
+​
+
+
+VERSION 12 CHANGELOG
 ====================
 
 
