@@ -1,4 +1,168 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Sorgash's Goliath added.
+Cycloptic Rite Giver added.
+Boneskin Freak added.
+
+Beast of Puss and Senew removed.
+Cycloptic Watcher removed.
+Boneskull Freak removed.
+
+Tyran Moral Keeper
+rules_text: When Tyran Moral Keeper enters, put a vigilance counter on target creature you control.
+Premonition {W} [i](You may pay {W} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i] => When this creature enters, put a vigilance counter on target creature you control.
+Premonition {W} [i](You may pay {W} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]
+
+Overwhelm Ego
+
+Visit Unreality
+
+Gift of the Candleglow
+
+Ghastly Spectre
+pt: 2/1 => 2/2
+
+Scuttling Head
+
+Ichorine Apostle
+
+Maddened Lycan
+
+Premature Tragedy
+
+Blood Craized Mutant
+
+Fanatic Visonary
+
+Ritual Borne
+
+Hoarder of Bones
+
+Ocult Evangel
+cost: {4}{R} => {2}{R}{R}
+rules_text: Whenever this creature enters, create a 2/1 red Rogue creature token.
+Premonition {2}{R}{R} [i](You may pay {2}{R}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i] => Whenever this creature enters, create a 2/1 red Rogue creature token.
+Premonition {4}{R} [i](You may pay {4}{R} and exile this from your hand as a sorcery to create a token copy of it that enters with a decayed counter. You may cast this later from exile.)[/i]
+pt: 3/3 => 3/2
+
+Seeing Double
+
+Savior in the Dark
+
+Screeching Apex
+
+March in Candleglow
+
+Strike from Above
+
+Ground to Reality
+
+Drag Away
+
+Lost Mentor
+rules_text: Whenever you the final Quest ability of a Quest you control triggers, put a first strike, flying, and vigilance counter on this creature. This triggers only once. => Whenever you the final quest ability of a Quest you control triggers, put a first strike, flying, and vigilance counter on this creature. This triggers only once.
+
+Prophecy Scribe
+rules_text: This creature gets +1/+1 for each quest in your graveyard and on the battlefield.
+{2}{W}, Sacrifice an enchantment: Draw a card. Activate only once each turn. => This creature gets +1/+1 for each Quest card in your graveyard and on the battlefield.
+{2}{W}, Sacrifice an enchantment: Draw a card. Activate only once each turn.
+
+Virtuous Nightmare
+
+Disappearing Man
+
+Etherial Skeleton
+
+Deep Shadow Infiltrator
+
+Free Soul
+
+Mind Control
+type: Enchantment => Enchantment — Aura
+
+Whispy Nightmare
+
+Caller of Plauges
+
+Blood Worshiper
+rules_text: Menace
+Whenever Blood Worshiper enters or attacks, target creature can't block this turn. => Whenever Blood Worshiper enters or attacks, target creature can't block this turn.
+
+Dreamwalker Alchemist
+
+Smolderhorn Elk
+pt: 2/2 => 2/1
+
+Avatar of Candlelight
+pt: 4/4 => 4/3
+
+Eldritch Attendant
+
+Conjoined Monstrosity
+
+Pull of the Epicenter
+
+Irrational Hope
+
+Healing of the Candleglow
+
+Scrappy Survivalist
+
+Prophecy Savant
+
+Lord of Lucidity
+
+Skittering Screecher
+
+Cultish Apothocary
+
+Esoteric Omen
+
+Revisit Prophecy
+
+Fleshforme Caverns
+
+Illia, Mistress of the Glow
+
+The Mind Cleaver
+
+Unstopable Destiny
+rules_text: If an ability of a Quest, Saga, or Mystery you control triggers, that ability triggers an additional time. => Other enchantments you control have hexproof.
+If a quest ability, chapter ability, or mystery ability of a permanent you control triggers, that ability triggers an additional time.
+
+Greater Purpose
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. 
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I, II, III — Put an indestructible and hexproof counter on a creature you control.
+Creatures you control get +2/+2 and gain flying until end of turn. 
+​
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Put an indestructible and hexproof counter on a creature you control.
+II, III — Creatures you control get +2/+2 and gain vigilance until end of turn. 
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I, II, III — Put an indestructible and hexproof counter on a creature you control.
+Creatures you control get +2/+2 and gain flying until end of turn. 
+​
+
+Fear Father's Eyes
+
+Uncertainty Manifested
+
+Reformed by Grief
+
+Eldrich Brutalizer
+
+Face the Imposible
+
+
+VERSION 14 CHANGELOG
 ====================
 
 No changes.

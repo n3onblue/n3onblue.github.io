@@ -673,7 +673,7 @@
 		{
 			"name": "Ocult Evangel",
 			"rarity": "common",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "152",
 			"image_uris": {
@@ -765,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Survivor",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/190_Savior in the Dark.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/189_Savior in the Dark.jpg"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Mutant Druid",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/177_Disciple of the Beastly.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/176_Disciple of the Beastly.jpg"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/184_Lantern Guide.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/183_Lantern Guide.jpg"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Mutant Beast",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/192_Screeching Apex.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/191_Screeching Apex.jpg"
 			}
 		},
 		{
@@ -845,19 +845,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment Creature — Horror",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/187_Mass of Eyes and Teeth.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/186_Mass of Eyes and Teeth.jpg"
 			}
 		},
 		{
-			"name": "Beast of Puss and Senew",
+			"name": "Sorgash's Goliath",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Mutant Barbarian",
-			"collector_number": "167",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/167_Beast of Puss and Senew.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/193_Sorgash's Goliath.jpg"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/189_Offering Gaurdian.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/188_Offering Gaurdian.jpg"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
 			"type": "Creature — Mutant Giant",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/173_Collosal Barmble.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/172_Collosal Barmble.jpg"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/168_Bramble of Memories.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/167_Bramble of Memories.jpg"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/186_March in Candleglow.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/185_March in Candleglow.jpg"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/188_Mental Fortitude.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/187_Mental Fortitude.jpg"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/183_Ground to Reality.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/182_Ground to Reality.jpg"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/178_Drag Away.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/177_Drag Away.jpg"
 			}
 		},
 		{
@@ -1224,7 +1224,7 @@
 			"name": "Mind Control",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Enchantment",
+			"type": "Enchantment — Aura",
 			"collector_number": "70",
 			"image_uris": {
 				"en": "https://n3onblue.github.io/sets/APH-files/img/70_Mind Control.jpg"
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Mutant Horror",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/180_Fester Hoard.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/179_Fester Hoard.jpg"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Mutant Cleric",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/179_Eldritch Attendant.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/178_Eldritch Attendant.jpg"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Barbarian",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/172_Candleglow Naturalist.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/171_Candleglow Naturalist.jpg"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Mutant Horror",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/174_Conjoined Monstrosity.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/173_Conjoined Monstrosity.jpg"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment Creature — Giant",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/171_Candleglow Beast.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/170_Candleglow Beast.jpg"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/185_Life From Rot.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/184_Life From Rot.jpg"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/170_Brave the Bramble.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/169_Brave the Bramble.jpg"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/176_Curageous Example.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/175_Curageous Example.jpg"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Mutant Horror",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/193_Sorgash, Manic Mutant.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/192_Sorgash, Manic Mutant.jpg"
 			}
 		},
 		{
@@ -1981,13 +1981,13 @@
 			}
 		},
 		{
-			"name": "Cycloptic Watcher",
+			"name": "Cycloptic Rite Giver",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Cyclops Cleric",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/9_Cycloptic Watcher.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/9_Cycloptic Rite Giver.jpg"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Mutant Druid",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/191_Scavenger of the Depraved.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/190_Scavenger of the Depraved.jpg"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Plant",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/169_Bramble Skitherer.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/168_Bramble Skitherer.jpg"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/182_Glowbound Ranger.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/181_Glowbound Ranger.jpg"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/175_Corner the Beast.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/174_Corner the Beast.jpg"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Plant Horror",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/181_Fungal Amalgamate.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/180_Fungal Amalgamate.jpg"
 			}
 		},
 		{
@@ -2391,13 +2391,13 @@
 			}
 		},
 		{
-			"name": "Boneskull Freak",
+			"name": "Boneskin Freak",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Mutant Warior",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/209_Boneskull Freak.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/209_Boneskin Freak.jpg"
 			}
 		},
 		{
@@ -2686,7 +2686,7 @@
 	1 Cordia, Bringer of Sunlight
 	2 Epicenter Breach
 	2 Fearless Commander
-	2 Cycloptic Watcher
+	2 Cycloptic Rite Giver
 	2 Greater Purpose
 	2 Legend Ledger
 	2 Candleglow Sorcerer
@@ -2727,7 +2727,7 @@
 	2 Dryad of Shared Fate
 	2 The Whole World Blind
 	2 Beast of Wings and Limbs
-	2 Boneskull Freak
+	2 Boneskin Freak
 	2 Excited Arival
 	2 Lethargic Skywhale
 	2 Barrens of the Shrouded Sun
@@ -2908,7 +2908,7 @@
 	8 Aracnid Host
 	8 Screeching Apex
 	8 Mass of Eyes and Teeth
-	8 Beast of Puss and Senew
+	8 Sorgash's Goliath
 	8 Offering Gaurdian
 	8 Collosal Barmble
 	8 Bramble of Memories
@@ -3010,7 +3010,7 @@
 	12 Aracnid Host
 	12 Screeching Apex
 	12 Mass of Eyes and Teeth
-	12 Beast of Puss and Senew
+	12 Sorgash's Goliath
 	12 Offering Gaurdian
 	12 Collosal Barmble
 	12 Bramble of Memories
@@ -3123,7 +3123,7 @@
 	1 Cordia, Bringer of Sunlight
 	2 Epicenter Breach
 	2 Fearless Commander
-	2 Cycloptic Watcher
+	2 Cycloptic Rite Giver
 	2 Greater Purpose
 	2 Legend Ledger
 	2 Candleglow Sorcerer
@@ -3164,7 +3164,7 @@
 	2 Dryad of Shared Fate
 	2 The Whole World Blind
 	2 Beast of Wings and Limbs
-	2 Boneskull Freak
+	2 Boneskin Freak
 	2 Excited Arival
 	2 Lethargic Skywhale
 	6 Lost in the Shadows
@@ -3260,7 +3260,7 @@
 	6 Aracnid Host
 	6 Screeching Apex
 	6 Mass of Eyes and Teeth
-	6 Beast of Puss and Senew
+	6 Sorgash's Goliath
 	6 Offering Gaurdian
 	6 Collosal Barmble
 	6 Bramble of Memories
@@ -3373,7 +3373,7 @@
 	4 Cordia, Bringer of Sunlight
 	7 Epicenter Breach
 	7 Fearless Commander
-	7 Cycloptic Watcher
+	7 Cycloptic Rite Giver
 	7 Greater Purpose
 	7 Legend Ledger
 	7 Candleglow Sorcerer
@@ -3414,7 +3414,7 @@
 	7 Dryad of Shared Fate
 	7 The Whole World Blind
 	7 Beast of Wings and Limbs
-	7 Boneskull Freak
+	7 Boneskin Freak
 	7 Excited Arival
 	7 Lethargic Skywhale
 	15 Lost in the Shadows

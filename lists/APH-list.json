@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Sorgash, Manic Mutant",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "APH"
     },
@@ -85,12 +85,12 @@
     },
     {
         "card_name": "Bramble Skitherer",
-        "number": 169,
+        "number": 168,
         "shape": "normal",
         "set": "APH"
     },
     {
-        "card_name": "Cycloptic Watcher",
+        "card_name": "Cycloptic Rite Giver",
         "number": 9,
         "shape": "normal",
         "set": "APH"
@@ -115,7 +115,7 @@
     },
     {
         "card_name": "Corner the Beast",
-        "number": 175,
+        "number": 174,
         "shape": "normal",
         "set": "APH"
     },
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Fungal Amalgamate",
-        "number": 181,
+        "number": 180,
         "shape": "normal",
         "set": "APH"
     },
@@ -175,7 +175,7 @@
     },
     {
         "card_name": "Glowbound Ranger",
-        "number": 182,
+        "number": 181,
         "shape": "normal",
         "set": "APH"
     },
@@ -205,7 +205,7 @@
     },
     {
         "card_name": "Scavenger of the Depraved",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "APH"
     },
@@ -295,7 +295,7 @@
     },
     {
         "card_name": "Brave the Bramble",
-        "number": 170,
+        "number": 169,
         "shape": "normal",
         "set": "APH"
     },
@@ -325,7 +325,7 @@
     },
     {
         "card_name": "Candleglow Beast",
-        "number": 171,
+        "number": 170,
         "shape": "normal",
         "set": "APH"
     },
@@ -355,7 +355,7 @@
     },
     {
         "card_name": "Candleglow Naturalist",
-        "number": 172,
+        "number": 171,
         "shape": "normal",
         "set": "APH"
     },
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Conjoined Monstrosity",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "APH"
     },
@@ -415,7 +415,7 @@
     },
     {
         "card_name": "Curageous Example",
-        "number": 176,
+        "number": 175,
         "shape": "normal",
         "set": "APH"
     },
@@ -445,7 +445,7 @@
     },
     {
         "card_name": "Eldritch Attendant",
-        "number": 179,
+        "number": 178,
         "shape": "normal",
         "set": "APH"
     },
@@ -475,7 +475,7 @@
     },
     {
         "card_name": "Fester Hoard",
-        "number": 180,
+        "number": 179,
         "shape": "normal",
         "set": "APH"
     },
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Life From Rot",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "APH"
     },
@@ -714,7 +714,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Beast of Puss and Senew",
+        "card_name": "Bramble of Memories",
         "number": 167,
         "shape": "normal",
         "set": "APH"
@@ -744,8 +744,8 @@
         "set": "APH"
     },
     {
-        "card_name": "Bramble of Memories",
-        "number": 168,
+        "card_name": "Collosal Barmble",
+        "number": 172,
         "shape": "normal",
         "set": "APH"
     },
@@ -774,8 +774,8 @@
         "set": "APH"
     },
     {
-        "card_name": "Collosal Barmble",
-        "number": 173,
+        "card_name": "Disciple of the Beastly",
+        "number": 176,
         "shape": "normal",
         "set": "APH"
     },
@@ -804,7 +804,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Disciple of the Beastly",
+        "card_name": "Drag Away",
         "number": 177,
         "shape": "normal",
         "set": "APH"
@@ -834,8 +834,8 @@
         "set": "APH"
     },
     {
-        "card_name": "Drag Away",
-        "number": 178,
+        "card_name": "Ground to Reality",
+        "number": 182,
         "shape": "normal",
         "set": "APH"
     },
@@ -864,7 +864,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Ground to Reality",
+        "card_name": "Lantern Guide",
         "number": 183,
         "shape": "normal",
         "set": "APH"
@@ -894,8 +894,8 @@
         "set": "APH"
     },
     {
-        "card_name": "Lantern Guide",
-        "number": 184,
+        "card_name": "March in Candleglow",
+        "number": 185,
         "shape": "normal",
         "set": "APH"
     },
@@ -924,7 +924,7 @@
         "set": "APH"
     },
     {
-        "card_name": "March in Candleglow",
+        "card_name": "Mass of Eyes and Teeth",
         "number": 186,
         "shape": "normal",
         "set": "APH"
@@ -954,7 +954,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Mass of Eyes and Teeth",
+        "card_name": "Mental Fortitude",
         "number": 187,
         "shape": "normal",
         "set": "APH"
@@ -984,7 +984,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Mental Fortitude",
+        "card_name": "Offering Gaurdian",
         "number": 188,
         "shape": "normal",
         "set": "APH"
@@ -1014,7 +1014,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Offering Gaurdian",
+        "card_name": "Savior in the Dark",
         "number": 189,
         "shape": "normal",
         "set": "APH"
@@ -1044,8 +1044,8 @@
         "set": "APH"
     },
     {
-        "card_name": "Savior in the Dark",
-        "number": 190,
+        "card_name": "Screeching Apex",
+        "number": 191,
         "shape": "normal",
         "set": "APH"
     },
@@ -1074,8 +1074,8 @@
         "set": "APH"
     },
     {
-        "card_name": "Screeching Apex",
-        "number": 192,
+        "card_name": "Sorgash's Goliath",
+        "number": 193,
         "shape": "normal",
         "set": "APH"
     },
@@ -1378,7 +1378,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Boneskull Freak",
+        "card_name": "Boneskin Freak",
         "number": 209,
         "shape": "normal",
         "set": "APH"
