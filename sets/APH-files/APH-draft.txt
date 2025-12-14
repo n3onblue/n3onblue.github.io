@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/132_Candleglow Ritualist.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/131_Candleglow Ritualist.jpg"
 			}
 		},
 		{
@@ -821,13 +821,13 @@
 			}
 		},
 		{
-			"name": "Aracnid Host",
+			"name": "Arachnid Host",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Mutant Spider",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/166_Aracnid Host.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/166_Arachnid Host.jpg"
 			}
 		},
 		{
@@ -1331,13 +1331,13 @@
 			}
 		},
 		{
-			"name": "Candle Glow Vigilant",
+			"name": "Candleglow Vigilant",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/APH-files/img/131_Candle Glow Vigilant.jpg"
+				"en": "https://n3onblue.github.io/sets/APH-files/img/132_Candleglow Vigilant.jpg"
 			}
 		},
 		{
@@ -2654,7 +2654,7 @@
 			"name": "Takot",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Enchantment — Spirit",
+			"type": "Token Enchantment Creature — Spirit",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://n3onblue.github.io/sets/APH-files/img/9_Takot.jpg"
@@ -2768,7 +2768,7 @@
 	4 Lord of the Deformed
 	4 Dreams of Mourning
 	4 Caller of Plauges
-	4 Candle Glow Vigilant
+	4 Candleglow Vigilant
 	4 Blood Worshiper
 	4 Mutant Ringleader
 	4 Dreamwalker Alchemist
@@ -2905,7 +2905,7 @@
 	8 Tenacious Wanderer
 	8 Wicker Titan
 	8 Lantern Guide
-	8 Aracnid Host
+	8 Arachnid Host
 	8 Screeching Apex
 	8 Mass of Eyes and Teeth
 	8 Sorgash's Goliath
@@ -3007,7 +3007,7 @@
 	12 Tenacious Wanderer
 	12 Wicker Titan
 	12 Lantern Guide
-	12 Aracnid Host
+	12 Arachnid Host
 	12 Screeching Apex
 	12 Mass of Eyes and Teeth
 	12 Sorgash's Goliath
@@ -3058,7 +3058,7 @@
 	6 Lord of the Deformed
 	6 Dreams of Mourning
 	6 Caller of Plauges
-	6 Candle Glow Vigilant
+	6 Candleglow Vigilant
 	6 Blood Worshiper
 	6 Mutant Ringleader
 	6 Dreamwalker Alchemist
@@ -3257,7 +3257,7 @@
 	6 Tenacious Wanderer
 	6 Wicker Titan
 	6 Lantern Guide
-	6 Aracnid Host
+	6 Arachnid Host
 	6 Screeching Apex
 	6 Mass of Eyes and Teeth
 	6 Sorgash's Goliath
@@ -3308,7 +3308,7 @@
 	15 Lord of the Deformed
 	15 Dreams of Mourning
 	15 Caller of Plauges
-	15 Candle Glow Vigilant
+	15 Candleglow Vigilant
 	15 Blood Worshiper
 	15 Mutant Ringleader
 	15 Dreamwalker Alchemist

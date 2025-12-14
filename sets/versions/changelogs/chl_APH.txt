@@ -1,4 +1,273 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Arachnid Host added.
+Candleglow Vigilant added.
+
+Aracnid Host removed.
+Candle Glow Vigilant removed.
+
+Beast Dispatcher
+
+A Collosal Presence
+
+Disapear into the Fog
+
+Debilitate the Feble
+
+Abstraction
+
+Dreamer of Empowerment
+
+Looming Nightmare
+
+Scuttling Head
+
+Historian's Calling
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards
+II, III — Target creature gets +1/+1 until end of turn for each noncreature spell you have cast this turn.
+
+Festering Patriarch
+
+Prophecy of the Apex
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+Create a 2/2 black Mutant creature token.
+Mutants you control get +1/+1 and gain menace until end of turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Create a 2/2 black Mutant creature token.
+II, III — Mutants you control get +1/+1 and gain menace until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+Create a 2/2 black Mutant creature token.
+Mutants you control get +1/+1 and gain menace until end of turn.
+
+Embrace Despair
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Each player sacrifices a creature.
+II — Each player discards a card.
+III — Exile a creature card from your graveyard. Until the end of your next turn, you may cast it. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+Each player sacrifices a creature.
+Each player discards a card.
+Exile a creature card from your graveyard. Until the end of your next turn, you may cast it.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+I — Each player sacrifices a creature.
+II — Each player discards a card.
+III — Exile a creature card from your graveyard. Until the end of your next turn, you may cast it. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment.
+Each player sacrifices a creature.
+Each player discards a card.
+Exile a creature card from your graveyard. Until the end of your next turn, you may cast it.
+
+Reckless Impulse
+
+Evicerate
+
+Spindley Abomination
+
+Unbreakable Will
+
+Strike from Above
+
+Lost Mentor
+rules_text: Whenever you the final quest ability of a Quest you control triggers, put a first strike, flying, and vigilance counter on this creature. This triggers only once. => Whenever you trigger the final quest ability of a Quest you control triggers, put a first strike, flying, and vigilance counter on this creature. This triggers only once.
+
+Valiant Heroics
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter on Valiant Heroics
+I — Create a 2/2 white Knight creature token with vigilance.
+II, III — Target creature gains double strike until end of turn.
+
+Whispers of the Forgotten
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create a 1/1 white Spirit creature token with flying
+II, III — Tap target creature and put a stun counter on it
+
+Doomed to Meaninglessness
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+Put target creature on top of its owners library, second from the top. 
+You may have each player draw a card.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+I — Put target creature on top of its owners library, second from the top. 
+II, III — You may have each player draw a card.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Flash
+Put target creature on top of its owners library, second from the top. 
+You may have each player draw a card.
+
+Mind Control
+
+Embrace Delusion
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create two 1/1 black Horror enchantment creature tokens with menace.
+II — You gain life equal to the number of enchantments you control.
+III — Each opponent loses life equal to the number of enchantments you control. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Create two 1/1 black Horror enchantment creature tokens with menace.
+You gain life equal to the number of enchantments you control.
+Each opponent loses life equal to the number of enchantments you control.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Create two 1/1 black Horror enchantment creature tokens with menace.
+II — You gain life equal to the number of enchantments you control.
+III — Each opponent loses life equal to the number of enchantments you control. => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Create two 1/1 black Horror enchantment creature tokens with menace.
+You gain life equal to the number of enchantments you control.
+Each opponent loses life equal to the number of enchantments you control.
+
+Irrational Hope
+
+Unbreakable Conviction
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, put a quest counter this enchantment.
+I — Draw two cards.
+II, III — Tap up to one target creature and put a stun counter on it.
+
+Greater Purpose
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I, II, III — Put an indestructible and hexproof counter on a creature you control.
+Creatures you control get +2/+2 and gain flying until end of turn. 
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Put an indestructible and hexproof counter on a creature you control.
+Creatures you control get +2/+2 and gain flying until end of turn.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I, II, III — Put an indestructible and hexproof counter on a creature you control.
+Creatures you control get +2/+2 and gain flying until end of turn. 
+​ => [i](Add a quest counter as this enters. Sacrifice after 3.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Put an indestructible and hexproof counter on a creature you control.
+Creatures you control get +2/+2 and gain flying until end of turn.
+
+Legend Ledger
+rules_text: Whenever an enchantment enters under your control, draw a card. This ability triggers only once each turn.
+You may cast enchantment spells as though they had flash. => Whenever an enchantment enters under your control, draw a card. This ability triggers only once each turn.
+You may cast enchantment spells as though they have flash.
+
+Tym, The Fear Father
+rules_text: As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card.
+• Create a 1/1 black Horror enchantment creature token with menace.
+[0]: Draw two cards.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves => As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card.
+• Create a 1/1 black Horror enchantment creature token with menace.
+[0]: Draw two cards then discard a card.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves
+special_text: As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card.
+• Create a 1/1 black Horror enchantment creature token with menace.
+[0]: Draw two cards.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves => As you cast a modal spell, add the following modes to that spell. You may choose an additional mode when casting that spell. —
+• Proliferate
+• Each opponent discards a card.
+• Create a 1/1 black Horror enchantment creature token with menace.
+[0]: Draw two cards then discard a card.
+[-3]: You may cast an instant or sorcery spell from your graveyard without paying its mana cost. Exile it as it resolves
+
+Bring Forth the Titan
+rules_text: [i](Add a quest counter as this enters. Sacrifice after 4.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Tap target creature and put a stun counter on it.
+II, III — [i]You feel the earth shake beneath you.[/i]
+IV — Create Takot, a legendary 5/5 blue Spirit enchantment creature token with vigilance and hexproof. => [i](Add a quest counter as this enters. Sacrifice after 4.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Tap target creature and put a stun counter on it.
+[i]You feel the earth shake beneath you.[/i]
+Create Takot, a legendary 5/5 blue Spirit enchantment creature token with vigilance and hexproof.
+special_text: [i](Add a quest counter as this enters. Sacrifice after 4.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+I — Tap target creature and put a stun counter on it.
+II, III — [i]You feel the earth shake beneath you.[/i]
+IV — Create Takot, a legendary 5/5 blue Spirit enchantment creature token with vigilance and hexproof. => [i](Add a quest counter as this enters. Sacrifice after 4.)[/i]
+Whenever you cast a noncreature spell, add a quest counter.
+Tap target creature and put a stun counter on it.
+[i]You feel the earth shake beneath you.[/i]
+Create Takot, a legendary 5/5 blue Spirit enchantment creature token with vigilance and hexproof.
+
+Boneskin Freak
+
+Takot
+type: Token Enchantment — Spirit => Token Enchantment Creature — Spirit
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Sorgash's Goliath added.

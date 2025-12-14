@@ -378,8 +378,8 @@
         "set": "APH"
     },
     {
-        "card_name": "Candle Glow Vigilant",
-        "number": 131,
+        "card_name": "Candleglow Vigilant",
+        "number": 132,
         "shape": "normal",
         "set": "APH"
     },
@@ -684,7 +684,7 @@
         "set": "APH"
     },
     {
-        "card_name": "Aracnid Host",
+        "card_name": "Arachnid Host",
         "number": 166,
         "shape": "normal",
         "set": "APH"
@@ -739,7 +739,7 @@
     },
     {
         "card_name": "Candleglow Ritualist",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "APH"
     },
