@@ -2155,10 +2155,10 @@
             "color2": "R",
             "type2": "Legendary Planeswalker \u2014 Me",
             "cost2": "",
-            "rules_text2": "\n",
+            "rules_text2": "Whenever an opponent loses life for the first time each turn, put a loyalty counter on The Placebo God\n[0]: The Placebo God deals 2 damage to any target.\n[-X]: Exile the top X cards of your library. Until the end of your next turn, you may cast red spells from among the exiled cards.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "\n",
+            "special_text2": "Whenever an opponent loses life for the first time each turn, put a loyalty counter on The Placebo God\n[0]: The Placebo God deals 2 damage to any target.\n[-X]: Exile the top X cards of your library. Until the end of your next turn, you may cast red spells from among the exiled cards.",
             "loyalty2": "3",
             "artist2": "m-hugo",
             "alias2": "",
@@ -4964,5 +4964,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

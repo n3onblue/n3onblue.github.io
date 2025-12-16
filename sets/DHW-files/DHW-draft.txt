@@ -7,7 +7,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/141_Acolyte of Loss.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/141_Acolyte of Loss.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Angel Cleric",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/142_Acolyte of Plurality.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/142_Acolyte of Plurality.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/143_Acolyte of Self Importance.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/143_Acolyte of Self Importance.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Jellyfish Merfolk Cleric",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/144_Acolyte of the Depths.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/144_Acolyte of the Depths.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Skeleton Cleric",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/145_Acolyte of the Wilds.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/145_Acolyte of the Wilds.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/24_True Hearted Minimalist.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/24_True Hearted Minimalist.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/21_Solun Tactician.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/21_Solun Tactician.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Creature — Angel Citizen",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/6_Eager Cherub.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/6_Eager Cherub.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Hound",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/13_Lonely Domestic.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/13_Lonely Domestic.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Creature — Dwarf Cleric",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/214_Preacher of Enlightenment.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/214_Preacher of Enlightenment.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/181_Medatative Two-Spirit.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/181_Medatative Two-Spirit.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/7_Eager Enlistee.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/7_Eager Enlistee.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Angel Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/12_Holy City Sentinel.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/12_Holy City Sentinel.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Wall",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/27_Walls of the Empire.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/27_Walls of the Empire.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/3_Consult the Enlightened.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/3_Consult the Enlightened.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Cleric Spirit",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/8_Enlightened Bishop.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/8_Enlightened Bishop.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/196_Solun Avenger.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/196_Solun Avenger.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/28_War Room Talks.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/28_War Room Talks.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/23_Solus' Rebuke.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/23_Solus' Rebuke.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/18_Phraz's Inaction.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/18_Phraz's Inaction.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/5_Destroy Evil.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/5_Destroy Evil.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/183_Path to Enlightenment.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/183_Path to Enlightenment.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/186_Prayer of Courage.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/186_Prayer of Courage.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Enchantment",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/14_Meditation.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/14_Meditation.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/48_Snow Owl.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/48_Snow Owl.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Merfolk Warrior",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/42_Merfolk Zealot.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/42_Merfolk Zealot.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/36_Efficient Acrobat.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/36_Efficient Acrobat.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Merfolk Wizard",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/177_Lethargy Mage.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/177_Lethargy Mage.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/167_Fidist Rioter.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/167_Fidist Rioter.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/52_Tome Bearer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/52_Tome Bearer.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Dwarf Wizard",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/211_Imprisoned Sage.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/211_Imprisoned Sage.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Merfolk Serpent",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/51_Tide Pool Temptress.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/51_Tide Pool Temptress.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Dragon Fish",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/45_Scourge of the Seas.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/45_Scourge of the Seas.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Creature — Wall",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/47_Snow Fortifications.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/47_Snow Fortifications.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/37_Fides' Rebuke.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/37_Fides' Rebuke.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/41_Lost in the Current.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/41_Lost in the Current.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/31_Caught in the Rip Tide.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/31_Caught in the Rip Tide.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/149_Belief Makes Right.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/149_Belief Makes Right.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/54_Visit the Ancient Sage.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/54_Visit the Ancient Sage.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/33_Cryogenic Impediment.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/33_Cryogenic Impediment.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Instant",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/194_Sea's Memory.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/194_Sea's Memory.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Sorcery",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/32_Crush Under Waves.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/32_Crush Under Waves.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Instant",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/40_Ideological Epiphany.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/40_Ideological Epiphany.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Zombie Elk",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/219_Starving Carcass.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/219_Starving Carcass.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/59_Bone Picking Vulture.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/59_Bone Picking Vulture.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/76_Priest of Destitution.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/76_Priest of Destitution.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature — Cat Beast",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/79_Stalking Snow Tiger.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/79_Stalking Snow Tiger.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Vampire Barbarian",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/70_Feral Vampire.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/70_Feral Vampire.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Zombie Monk",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/64_Depraved Isolationist.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/64_Depraved Isolationist.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/69_Exhausted Gravekeeper.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/69_Exhausted Gravekeeper.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/140_Abominable Fang Bearer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/140_Abominable Fang Bearer.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Zombie Beast",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/60_Cruor's Monster.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/60_Cruor's Monster.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/163_Enlightened Sanctum Keeper.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/163_Enlightened Sanctum Keeper.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/151_Blood Grudge.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/151_Blood Grudge.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/61_Crushing Avalanche.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/61_Crushing Avalanche.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/68_Exeunt.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/68_Exeunt.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/78_Scars of the Pitchfork.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/78_Scars of the Pitchfork.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/81_Trail of Blood.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/81_Trail of Blood.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Sorcery",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/190_Refuse Oblivion.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/190_Refuse Oblivion.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Enchantment",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/74_Necrotic Fasting.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/74_Necrotic Fasting.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/71_Forgo Physicality.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/71_Forgo Physicality.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Elk",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/62_Delicious Herbivore.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/62_Delicious Herbivore.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Gnome Scout",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/97_Gnome Hunter.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/97_Gnome Hunter.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/87_Battle Priest of Hate.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/87_Battle Priest of Hate.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/184_Pax's Flameweaver.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/184_Pax's Flameweaver.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Human Rebel Wizard",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/92_Enraged Anarchist.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/92_Enraged Anarchist.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/99_Intimidating Lancer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/99_Intimidating Lancer.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/218_Solun Striker.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/218_Solun Striker.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Human Wizard Rebel",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/102_Revolutionary Pyromancer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/102_Revolutionary Pyromancer.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Creature — Angel Rebel",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/105_Shackled Angel.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/105_Shackled Angel.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/179_Library Vandal.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/179_Library Vandal.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Human Barbarian Rebel",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/96_Glyph Marked Bruiser.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/96_Glyph Marked Bruiser.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Instant",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/187_Prayer of Flame.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/187_Prayer of Flame.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Instant",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/95_Fire Sword Smite.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/95_Fire Sword Smite.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Sorcery",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/111_Violent Evangelism.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/111_Violent Evangelism.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Sorcery",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/161_Cry of Rebellion.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/161_Cry of Rebellion.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Instant",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/109_Thrill of Possibility.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/109_Thrill of Possibility.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/104_Righteous Anger of Solus.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/104_Righteous Anger of Solus.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/84_Ancestral Anger.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/84_Ancestral Anger.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Sorcery",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/100_Lay Seige.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/100_Lay Seige.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/93_Fides' Fury.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/93_Fides' Fury.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Merfolk Scout",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/119_Deep Sea Veteran.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/119_Deep Sea Veteran.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/135_Skilled Hunter.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/135_Skilled Hunter.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Shark",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/123_Infant Razortooth.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/123_Infant Razortooth.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/207_Crab Rider.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/207_Crab Rider.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Creature — Vampire Barbarian",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/172_Frenzied Cold Blood.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/172_Frenzied Cold Blood.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Merfolk Scout",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/128_Preserve Rationer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/128_Preserve Rationer.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Creature — Shark Beast",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/164_Feasting Sea Beast.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/164_Feasting Sea Beast.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Creature — Elf Rogue",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/113_Branch-Bound Stalker.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/113_Branch-Bound Stalker.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Creature — Merfolk Advisor",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/134_Sea Legion Commander.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/134_Sea Legion Commander.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Giant Bear",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/138_Titanic Grizzly.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/138_Titanic Grizzly.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/125_Meat Mass.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/125_Meat Mass.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Sorcery",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/118_Crush of Ancient Maws.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/118_Crush of Ancient Maws.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/153_Bloody Feast.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/153_Bloody Feast.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/115_Call of the Collective.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/115_Call of the Collective.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/127_Pick Apart.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/127_Pick Apart.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/130_Reckless Hunger.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/130_Reckless Hunger.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Instant",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/200_Swallow.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/200_Swallow.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Instant",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/112_Aquterra's Expansion.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/112_Aquterra's Expansion.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/131_Return to Nature.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/131_Return to Nature.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/114_Cadaver-Hungry Hydra.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/114_Cadaver-Hungry Hydra.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Creature — Human Monk",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/63_Depraved Faster.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/63_Depraved Faster.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Creature — Merfolk Warrior",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/44_Molder of Waves.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/44_Molder of Waves.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Enchantment",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/178_Leviathan Trench.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/178_Leviathan Trench.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/110_Tyrant of Glaciers.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/110_Tyrant of Glaciers.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/1_Angelic Tactician.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/1_Angelic Tactician.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/198_Solus, of Holy Conquest.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/198_Solus, of Holy Conquest.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/166_Fides, of Immutable Certainty.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/166_Fides, of Immutable Certainty.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/159_Cruor, of Endless Bloodfeast.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/159_Cruor, of Endless Bloodfeast.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/175_Ieiun, of Endless Fasting.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/175_Ieiun, of Endless Fasting.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/171_Fluctus, of Tide and Storm.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/171_Fluctus, of Tide and Storm.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/162_Drill Ideology.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/162_Drill Ideology.png"
 			}
 		},
 		{
@@ -1130,11 +1130,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://n3onblue.github.io/sets/DHW-files/img/101_Me, Divine Aspirant_back.png"
+					"en": "https://n3onblue.github.io/sets/DHw-files/img/101_Me, Divine Aspirant_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/101_Me, Divine Aspirant_front.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/101_Me, Divine Aspirant_front.png"
 			}
 		},
 		{
@@ -1147,11 +1147,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://n3onblue.github.io/sets/DHW-files/img/139_Vess, Starving Refugee_back.png"
+					"en": "https://n3onblue.github.io/sets/DHw-files/img/139_Vess, Starving Refugee_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/139_Vess, Starving Refugee_front.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/139_Vess, Starving Refugee_front.png"
 			}
 		},
 		{
@@ -1164,11 +1164,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://n3onblue.github.io/sets/DHW-files/img/43_Mijna, Dejected Princess_back.png"
+					"en": "https://n3onblue.github.io/sets/DHw-files/img/43_Mijna, Dejected Princess_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/43_Mijna, Dejected Princess_front.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/43_Mijna, Dejected Princess_front.png"
 			}
 		},
 		{
@@ -1181,11 +1181,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://n3onblue.github.io/sets/DHW-files/img/75_Nil, Who Has it All_back.png"
+					"en": "https://n3onblue.github.io/sets/DHw-files/img/75_Nil, Who Has it All_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/75_Nil, Who Has it All_front.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/75_Nil, Who Has it All_front.png"
 			}
 		},
 		{
@@ -1198,11 +1198,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://n3onblue.github.io/sets/DHW-files/img/17_Pax Bellum, Pacifist_back.png"
+					"en": "https://n3onblue.github.io/sets/DHw-files/img/17_Pax Bellum, Pacifist_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/17_Pax Bellum, Pacifist_front.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/17_Pax Bellum, Pacifist_front.png"
 			}
 		},
 		{
@@ -1212,7 +1212,7 @@
 			"type": "Legendary Planeswalker — Winmeari",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/203_Winmeari, Blood Rebel.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/203_Winmeari, Blood Rebel.png"
 			}
 		},
 		{
@@ -1222,7 +1222,7 @@
 			"type": "Creature — Spirit Avatar",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/2_Avatar of Isolation.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/2_Avatar of Isolation.png"
 			}
 		},
 		{
@@ -1232,7 +1232,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/19_Return to the Material.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/19_Return to the Material.png"
 			}
 		},
 		{
@@ -1242,7 +1242,7 @@
 			"type": "Land — Animus",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/233_Flesh Mound.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/233_Flesh Mound.png"
 			}
 		},
 		{
@@ -1252,7 +1252,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/199_Spirit Guide.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/199_Spirit Guide.png"
 			}
 		},
 		{
@@ -1262,7 +1262,7 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/82_Unescapable Bloodthirst.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/82_Unescapable Bloodthirst.png"
 			}
 		},
 		{
@@ -1272,7 +1272,7 @@
 			"type": "Legendary Creature — Human Rebel",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/154_Bo, Uncertainty Scribe.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/154_Bo, Uncertainty Scribe.png"
 			}
 		},
 		{
@@ -1282,7 +1282,7 @@
 			"type": "Legendary Creature — Hound Zombie Rebel",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/155_Boney, Unhuntable Prey.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/155_Boney, Unhuntable Prey.png"
 			}
 		},
 		{
@@ -1292,7 +1292,7 @@
 			"type": "Legendary Creature — Elf Rebel",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/204_Zaharah, Who Loves.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/204_Zaharah, Who Loves.png"
 			}
 		},
 		{
@@ -1302,7 +1302,7 @@
 			"type": "Legendary Creature — Merfolk Rebel",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/205_Zhed, Land Lover.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/205_Zhed, Land Lover.png"
 			}
 		},
 		{
@@ -1312,7 +1312,7 @@
 			"type": "Legendary Creature — Angel Rebel",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/185_Phraz, Polytheistic.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/185_Phraz, Polytheistic.png"
 			}
 		},
 		{
@@ -1322,7 +1322,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/22_Solun Wizard Bane.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/22_Solun Wizard Bane.png"
 			}
 		},
 		{
@@ -1332,7 +1332,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/9_Enlightened of the Sky.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/9_Enlightened of the Sky.png"
 			}
 		},
 		{
@@ -1342,7 +1342,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/4_Course Charter.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/4_Course Charter.png"
 			}
 		},
 		{
@@ -1352,7 +1352,7 @@
 			"type": "Creature — Zombie Noble",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/15_Mortality Clinger.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/15_Mortality Clinger.png"
 			}
 		},
 		{
@@ -1362,7 +1362,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/16_Night Watch Protector.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/16_Night Watch Protector.png"
 			}
 		},
 		{
@@ -1372,7 +1372,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/10_Eradicate the Sinful.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/10_Eradicate the Sinful.png"
 			}
 		},
 		{
@@ -1382,7 +1382,7 @@
 			"type": "Enchantment",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/20_Revisit the Lost.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/20_Revisit the Lost.png"
 			}
 		},
 		{
@@ -1392,7 +1392,7 @@
 			"type": "Creature — Wall",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/26_Wall of Omens.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/26_Wall of Omens.png"
 			}
 		},
 		{
@@ -1402,7 +1402,7 @@
 			"type": "Creature — Angel Soldier",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/210_Herald of Cherubs.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/210_Herald of Cherubs.png"
 			}
 		},
 		{
@@ -1412,7 +1412,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/169_Flame Trained Soldier.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/169_Flame Trained Soldier.png"
 			}
 		},
 		{
@@ -1422,7 +1422,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/188_Prayer of Oblivion.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/188_Prayer of Oblivion.png"
 			}
 		},
 		{
@@ -1432,7 +1432,7 @@
 			"type": "Creature — Faerie Scout",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/53_Tundra Sprite.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/53_Tundra Sprite.png"
 			}
 		},
 		{
@@ -1442,7 +1442,7 @@
 			"type": "Creature — Merfolk Bard",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/30_Aquterra Bard.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/30_Aquterra Bard.png"
 			}
 		},
 		{
@@ -1452,7 +1452,7 @@
 			"type": "Creature — Merfolk",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/34_Depth Bringer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/34_Depth Bringer.png"
 			}
 		},
 		{
@@ -1462,7 +1462,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/46_Sky Tyrant.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/46_Sky Tyrant.png"
 			}
 		},
 		{
@@ -1472,7 +1472,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/55_Wave Maker.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/55_Wave Maker.png"
 			}
 		},
 		{
@@ -1482,7 +1482,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/29_Abandon Ideology.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/29_Abandon Ideology.png"
 			}
 		},
 		{
@@ -1492,7 +1492,7 @@
 			"type": "Instant",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/49_Spell Smother.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/49_Spell Smother.png"
 			}
 		},
 		{
@@ -1502,7 +1502,7 @@
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/50_Submerged Treasure.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/50_Submerged Treasure.png"
 			}
 		},
 		{
@@ -1512,7 +1512,7 @@
 			"type": "Creature — Hound",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/215_Rabid Bloodhound.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/215_Rabid Bloodhound.png"
 			}
 		},
 		{
@@ -1522,7 +1522,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/173_Gaping Maw of Deep Sea.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/173_Gaping Maw of Deep Sea.png"
 			}
 		},
 		{
@@ -1532,7 +1532,7 @@
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/157_Consumed by the Sea.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/157_Consumed by the Sea.png"
 			}
 		},
 		{
@@ -1542,7 +1542,7 @@
 			"type": "Creature — Vampire Beast",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/57_Blood Drinker.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/57_Blood Drinker.png"
 			}
 		},
 		{
@@ -1552,7 +1552,7 @@
 			"type": "Creature — Bear Horror",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/56_Blighted Hunt.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/56_Blighted Hunt.png"
 			}
 		},
 		{
@@ -1562,7 +1562,7 @@
 			"type": "Creature — Beast Horror",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/72_It That Feeds.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/72_It That Feeds.png"
 			}
 		},
 		{
@@ -1572,7 +1572,7 @@
 			"type": "Creature — Spirit Horror",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/65_Drainer of Viscera.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/65_Drainer of Viscera.png"
 			}
 		},
 		{
@@ -1582,7 +1582,7 @@
 			"type": "Creature — Human Horror",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/73_Mother of Gluttony.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/73_Mother of Gluttony.png"
 			}
 		},
 		{
@@ -1592,7 +1592,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/66_Drink the Blood.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/66_Drink the Blood.png"
 			}
 		},
 		{
@@ -1602,7 +1602,7 @@
 			"type": "Artifact",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/67_Earthly Attachment.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/67_Earthly Attachment.png"
 			}
 		},
 		{
@@ -1612,7 +1612,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/213_Offering Gatherer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/213_Offering Gatherer.png"
 			}
 		},
 		{
@@ -1622,7 +1622,7 @@
 			"type": "Creature — Human Necromancer",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/174_Heartbroken Necromancer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/174_Heartbroken Necromancer.png"
 			}
 		},
 		{
@@ -1632,7 +1632,7 @@
 			"type": "Instant",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/191_Reject Flesh.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/191_Reject Flesh.png"
 			}
 		},
 		{
@@ -1642,7 +1642,7 @@
 			"type": "Creature — Human Barbarian",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/86_Battered Barbarian.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/86_Battered Barbarian.png"
 			}
 		},
 		{
@@ -1652,7 +1652,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/91_Divine Projector.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/91_Divine Projector.png"
 			}
 		},
 		{
@@ -1662,7 +1662,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/107_Soldier Devout.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/107_Soldier Devout.png"
 			}
 		},
 		{
@@ -1672,7 +1672,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/103_Revolutionary Songwriter.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/103_Revolutionary Songwriter.png"
 			}
 		},
 		{
@@ -1682,7 +1682,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/94_Fire Scaled Fidist.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/94_Fire Scaled Fidist.png"
 			}
 		},
 		{
@@ -1692,7 +1692,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/98_In the Flames of Glory.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/98_In the Flames of Glory.png"
 			}
 		},
 		{
@@ -1702,7 +1702,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/90_Charcoal Earth.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/90_Charcoal Earth.png"
 			}
 		},
 		{
@@ -1712,7 +1712,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/85_Armies of Fides.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/85_Armies of Fides.png"
 			}
 		},
 		{
@@ -1722,7 +1722,7 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/220_Thoughtful Survivor.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/220_Thoughtful Survivor.png"
 			}
 		},
 		{
@@ -1732,7 +1732,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/189_Reckless Drake.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/189_Reckless Drake.png"
 			}
 		},
 		{
@@ -1742,7 +1742,7 @@
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/193_Repeat Yourself.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/193_Repeat Yourself.png"
 			}
 		},
 		{
@@ -1752,7 +1752,7 @@
 			"type": "Creature — Human Berserker",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/136_Skull Crowned Blood Hunter.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/136_Skull Crowned Blood Hunter.png"
 			}
 		},
 		{
@@ -1762,7 +1762,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/129_Prophet of Salt Waters.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/129_Prophet of Salt Waters.png"
 			}
 		},
 		{
@@ -1772,7 +1772,7 @@
 			"type": "Creature — Merfolk Druid",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/126_Nippy Shoalsteer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/126_Nippy Shoalsteer.png"
 			}
 		},
 		{
@@ -1782,7 +1782,7 @@
 			"type": "Creature — Zombie Beast",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/121_Frostwild Zombie.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/121_Frostwild Zombie.png"
 			}
 		},
 		{
@@ -1792,7 +1792,7 @@
 			"type": "Creature — Leviathan",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/117_Coral Depth Stalker.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/117_Coral Depth Stalker.png"
 			}
 		},
 		{
@@ -1802,7 +1802,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/122_Idol of Gore.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/122_Idol of Gore.png"
 			}
 		},
 		{
@@ -1812,7 +1812,7 @@
 			"type": "Sorcery",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/132_Ruin Excavation.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/132_Ruin Excavation.png"
 			}
 		},
 		{
@@ -1822,7 +1822,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/137_Strength of the Apex.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/137_Strength of the Apex.png"
 			}
 		},
 		{
@@ -1832,7 +1832,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/206_Coral Beast.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/206_Coral Beast.png"
 			}
 		},
 		{
@@ -1842,7 +1842,7 @@
 			"type": "Creature — Human Beast",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/201_Terror of Storms.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/201_Terror of Storms.png"
 			}
 		},
 		{
@@ -1852,7 +1852,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/158_Corpse Rot.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/158_Corpse Rot.png"
 			}
 		},
 		{
@@ -1862,7 +1862,7 @@
 			"type": "Sorcery",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/176_Ieiun's Intervention.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/176_Ieiun's Intervention.png"
 			}
 		},
 		{
@@ -1872,7 +1872,7 @@
 			"type": "Sorcery",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/165_Fides' Intervention.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/165_Fides' Intervention.png"
 			}
 		},
 		{
@@ -1882,7 +1882,7 @@
 			"type": "Sorcery",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/160_Cruor's Intervention.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/160_Cruor's Intervention.png"
 			}
 		},
 		{
@@ -1892,7 +1892,7 @@
 			"type": "Sorcery",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/197_Solus' Intervention.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/197_Solus' Intervention.png"
 			}
 		},
 		{
@@ -1902,7 +1902,7 @@
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/170_Fluctus' Intervention.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/170_Fluctus' Intervention.png"
 			}
 		},
 		{
@@ -1912,7 +1912,7 @@
 			"type": "Enchantment",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/58_Blood Monarch.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/58_Blood Monarch.png"
 			}
 		},
 		{
@@ -1922,7 +1922,7 @@
 			"type": "Artifact Creature — Cleric Construct",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/221_Abandoned Machine.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/221_Abandoned Machine.png"
 			}
 		},
 		{
@@ -1932,7 +1932,7 @@
 			"type": "Artifact",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/223_Deserters Cabin.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/223_Deserters Cabin.png"
 			}
 		},
 		{
@@ -1942,7 +1942,7 @@
 			"type": "Artifact",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/229_Rune of Rebuke.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/229_Rune of Rebuke.png"
 			}
 		},
 		{
@@ -1952,7 +1952,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/224_Flame Scepter.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/224_Flame Scepter.png"
 			}
 		},
 		{
@@ -1962,7 +1962,7 @@
 			"type": "Artifact",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/225_Hunters Tome.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/225_Hunters Tome.png"
 			}
 		},
 		{
@@ -1972,7 +1972,7 @@
 			"type": "Artifact",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/230_Symbol of Rebelion..png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/230_Symbol of Rebelion..png"
 			}
 		},
 		{
@@ -1982,7 +1982,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/11_Holy Choir.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/11_Holy Choir.png"
 			}
 		},
 		{
@@ -1992,7 +1992,7 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/38_Heir's Legacy.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/38_Heir's Legacy.png"
 			}
 		},
 		{
@@ -2002,7 +2002,7 @@
 			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/106_Sit Upon Enemy Corpses.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/106_Sit Upon Enemy Corpses.png"
 			}
 		},
 		{
@@ -2012,7 +2012,7 @@
 			"type": "Creature — Vampire Soldier",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/77_Ritual Warden.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/77_Ritual Warden.png"
 			}
 		},
 		{
@@ -2022,7 +2022,7 @@
 			"type": "Artifact",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/226_Mana Amplifier.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/226_Mana Amplifier.png"
 			}
 		},
 		{
@@ -2032,7 +2032,7 @@
 			"type": "Legendary Planeswalker — Joy",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/80_Taran Joy, Flayer of Gods.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/80_Taran Joy, Flayer of Gods.png"
 			}
 		},
 		{
@@ -2042,7 +2042,7 @@
 			"type": "Creature — Merfolk Warrior",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/116_Champion of Aquterra.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/116_Champion of Aquterra.png"
 			}
 		},
 		{
@@ -2052,7 +2052,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/35_Determined Chronomancer.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/35_Determined Chronomancer.png"
 			}
 		},
 		{
@@ -2062,7 +2062,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/89_Chaotic Zealot.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/89_Chaotic Zealot.png"
 			}
 		},
 		{
@@ -2072,7 +2072,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/25_Voice of the Enlightened.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/25_Voice of the Enlightened.png"
 			}
 		},
 		{
@@ -2082,7 +2082,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/83_Village Blight.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/83_Village Blight.png"
 			}
 		},
 		{
@@ -2092,7 +2092,7 @@
 			"type": "Creature — Angel Warrior",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/88_Bringer of Divine Punishment.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/88_Bringer of Divine Punishment.png"
 			}
 		},
 		{
@@ -2102,7 +2102,7 @@
 			"type": "Enchantment",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/108_Solus's Devine Crusade.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/108_Solus's Devine Crusade.png"
 			}
 		},
 		{
@@ -2112,7 +2112,7 @@
 			"type": "Creature — Giant Elemental",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/39_Ice Tyrant.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/39_Ice Tyrant.png"
 			}
 		},
 		{
@@ -2122,7 +2122,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/120_Escaped from the Chasm.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/120_Escaped from the Chasm.png"
 			}
 		},
 		{
@@ -2132,7 +2132,7 @@
 			"type": "Creature — Horse Elemental",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/124_Kelp Assimulant.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/124_Kelp Assimulant.png"
 			}
 		},
 		{
@@ -2142,7 +2142,7 @@
 			"type": "Creature — Beast Zombie",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/133_Sculpture of Flesh and Bone.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/133_Sculpture of Flesh and Bone.png"
 			}
 		},
 		{
@@ -2152,7 +2152,7 @@
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/228_Rebel Hideaway.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/228_Rebel Hideaway.png"
 			}
 		},
 		{
@@ -2162,7 +2162,7 @@
 			"type": "Land",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/232_Evidence of the God Culling.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/232_Evidence of the God Culling.png"
 			}
 		},
 		{
@@ -2172,7 +2172,7 @@
 			"type": "Sorcery",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/192_Relinquish Attachments.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/192_Relinquish Attachments.png"
 			}
 		},
 		{
@@ -2182,7 +2182,7 @@
 			"type": "Enchantment",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/147_Armies Echos.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/147_Armies Echos.png"
 			}
 		},
 		{
@@ -2192,7 +2192,7 @@
 			"type": "Instant",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/182_Mijna's Resolve.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/182_Mijna's Resolve.png"
 			}
 		},
 		{
@@ -2202,7 +2202,7 @@
 			"type": "Enchantment",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/150_Bestial Strength.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/150_Bestial Strength.png"
 			}
 		},
 		{
@@ -2212,7 +2212,7 @@
 			"type": "Creature — Vampire Monk",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/209_Feasting Vampire.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/209_Feasting Vampire.png"
 			}
 		},
 		{
@@ -2222,7 +2222,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/208_Devoted Solun.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/208_Devoted Solun.png"
 			}
 		},
 		{
@@ -2232,7 +2232,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/216_Recurring Prey.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/216_Recurring Prey.png"
 			}
 		},
 		{
@@ -2242,7 +2242,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/212_Nomadic Paladin.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/212_Nomadic Paladin.png"
 			}
 		},
 		{
@@ -2252,7 +2252,7 @@
 			"type": "Creature — Merfolk Scout",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/217_Ship Wreck Scavenger.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/217_Ship Wreck Scavenger.png"
 			}
 		},
 		{
@@ -2262,7 +2262,7 @@
 			"type": "Creature — Merfolk Wizard",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/146_Aquterra Tide Pusher.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/146_Aquterra Tide Pusher.png"
 			}
 		},
 		{
@@ -2272,7 +2272,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/152_Blood Worship Commander.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/152_Blood Worship Commander.png"
 			}
 		},
 		{
@@ -2282,7 +2282,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/168_Fiery Judgement.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/168_Fiery Judgement.png"
 			}
 		},
 		{
@@ -2292,7 +2292,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/148_Belief Cleaver.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/148_Belief Cleaver.png"
 			}
 		},
 		{
@@ -2302,7 +2302,7 @@
 			"type": "Instant",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/180_Lost Among the Branches.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/180_Lost Among the Branches.png"
 			}
 		},
 		{
@@ -2312,7 +2312,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/156_Camouflaged Maw.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/156_Camouflaged Maw.png"
 			}
 		},
 		{
@@ -2322,7 +2322,7 @@
 			"type": "Enchantment",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/202_Unyielding Determination.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/202_Unyielding Determination.png"
 			}
 		},
 		{
@@ -2332,7 +2332,7 @@
 			"type": "Sorcery",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/195_Selfless Ascension.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/195_Selfless Ascension.png"
 			}
 		},
 		{
@@ -2342,7 +2342,7 @@
 			"type": "Artifact",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/222_Cracking Glacier.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/222_Cracking Glacier.png"
 			}
 		},
 		{
@@ -2352,7 +2352,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/239_Island.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/239_Island.png"
 			}
 		},
 		{
@@ -2362,7 +2362,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/240_Swamp.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/240_Swamp.png"
 			}
 		},
 		{
@@ -2372,7 +2372,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/241_Mountain.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/241_Mountain.png"
 			}
 		},
 		{
@@ -2382,7 +2382,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/242_Forest.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/242_Forest.png"
 			}
 		},
 		{
@@ -2392,7 +2392,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/2_Angel.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/2_Angel.png"
 			}
 		},
 		{
@@ -2402,7 +2402,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/3_Bird.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/3_Bird.png"
 			}
 		},
 		{
@@ -2412,7 +2412,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/4_Human.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/4_Human.png"
 			}
 		},
 		{
@@ -2422,7 +2422,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/5_Soldier.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/5_Soldier.png"
 			}
 		},
 		{
@@ -2432,7 +2432,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/6_Spirit.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/6_Spirit.png"
 			}
 		},
 		{
@@ -2442,7 +2442,7 @@
 			"type": "Token Creature — Crab",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/7_Crab.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/7_Crab.png"
 			}
 		},
 		{
@@ -2452,7 +2452,7 @@
 			"type": "Token Creature — Merfolk",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/8_Merfolk.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/8_Merfolk.png"
 			}
 		},
 		{
@@ -2462,7 +2462,7 @@
 			"type": "Token Creature — Avatar",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/10_Avatar.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/10_Avatar.png"
 			}
 		},
 		{
@@ -2472,7 +2472,7 @@
 			"type": "Token Creature — Barbarian",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/11_Barbarian.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/11_Barbarian.png"
 			}
 		},
 		{
@@ -2482,7 +2482,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/12_Elemental.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/12_Elemental.png"
 			}
 		},
 		{
@@ -2492,7 +2492,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/13_Plant.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/13_Plant.png"
 			}
 		},
 		{
@@ -2502,7 +2502,7 @@
 			"type": "Token Creature — Rebel",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/14_Rebel.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/14_Rebel.png"
 			}
 		},
 		{
@@ -2512,7 +2512,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/15_Treasure.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/15_Treasure.png"
 			}
 		},
 		{
@@ -2522,7 +2522,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/0_Holy War.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/0_Holy War.png"
 			}
 		},
 		{
@@ -2532,7 +2532,7 @@
 			"type": "Land",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/235_Icecap Cemetary.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/235_Icecap Cemetary.png"
 			}
 		},
 		{
@@ -2542,7 +2542,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/238_Plains.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/238_Plains.png"
 			}
 		},
 		{
@@ -2552,7 +2552,7 @@
 			"type": "Land",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/237_Towering Peaks.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/237_Towering Peaks.png"
 			}
 		},
 		{
@@ -2562,7 +2562,7 @@
 			"type": "Land",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/234_Glorious Road.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/234_Glorious Road.png"
 			}
 		},
 		{
@@ -2572,7 +2572,7 @@
 			"type": "Land",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/231_Coral Garden.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/231_Coral Garden.png"
 			}
 		},
 		{
@@ -2582,7 +2582,7 @@
 			"type": "Land",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/236_Iceroot Crags.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/236_Iceroot Crags.png"
 			}
 		},
 		{
@@ -2592,7 +2592,7 @@
 			"type": "Artifact Creature — Thopter",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/227_Pilgrims Eye.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/227_Pilgrims Eye.png"
 			}
 		},
 		{
@@ -2602,7 +2602,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/1_Recruitment.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/1_Recruitment.png"
 			}
 		},
 		{
@@ -2612,7 +2612,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/9_Zombie.png"
+				"en": "https://n3onblue.github.io/sets/DHw-files/img/9_Zombie.png"
 			}
 		}
 	]
