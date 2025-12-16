@@ -4,6 +4,11 @@
             "set_code": "APH",
             "set_name": "Aphantasia",
             "formats": ""
+        },
+        {
+            "set_code": "DHW",
+            "set_name": "Deorum: Holy War",
+            "formats": ""
         }
     ]
 }
