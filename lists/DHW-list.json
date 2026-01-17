@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Bringer of Divine Punishment",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "DHW"
     },
@@ -79,7 +79,7 @@
     },
     {
         "card_name": "Chaotic Zealot",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "DHW"
     },
@@ -109,7 +109,7 @@
     },
     {
         "card_name": "Me, Divine Aspirant",
-        "number": 101,
+        "number": 102,
         "shape": "transform double faced",
         "set": "DHW"
     },
@@ -259,7 +259,7 @@
     },
     {
         "card_name": "Charcoal Earth",
-        "number": 90,
+        "number": 91,
         "shape": "normal",
         "set": "DHW"
     },
@@ -289,7 +289,7 @@
     },
     {
         "card_name": "Divine Projector",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "DHW"
     },
@@ -319,7 +319,7 @@
     },
     {
         "card_name": "Fire Scaled Fidist",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "DHW"
     },
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "In the Flames of Glory",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "DHW"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Revolutionary Songwriter",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "DHW"
     },
@@ -498,8 +498,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Enraged Anarchist",
-        "number": 92,
+        "card_name": "Blood Wing Angel",
+        "number": 88,
         "shape": "normal",
         "set": "DHW"
     },
@@ -528,7 +528,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Fides' Fury",
+        "card_name": "Enraged Anarchist",
         "number": 93,
         "shape": "normal",
         "set": "DHW"
@@ -558,8 +558,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Fire Sword Smite",
-        "number": 95,
+        "card_name": "Fides' Fury",
+        "number": 94,
         "shape": "normal",
         "set": "DHW"
     },
@@ -588,7 +588,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Glyph Marked Bruiser",
+        "card_name": "Fire Sword Smite",
         "number": 96,
         "shape": "normal",
         "set": "DHW"
@@ -618,7 +618,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Gnome Hunter",
+        "card_name": "Glyph Marked Bruiser",
         "number": 97,
         "shape": "normal",
         "set": "DHW"
@@ -648,8 +648,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Intimidating Lancer",
-        "number": 99,
+        "card_name": "Gnome Hunter",
+        "number": 98,
         "shape": "normal",
         "set": "DHW"
     },
@@ -678,7 +678,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Lay Seige",
+        "card_name": "Intimidating Lancer",
         "number": 100,
         "shape": "normal",
         "set": "DHW"
@@ -708,8 +708,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Revolutionary Pyromancer",
-        "number": 102,
+        "card_name": "Lay Seige",
+        "number": 101,
         "shape": "normal",
         "set": "DHW"
     },
@@ -738,8 +738,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Righteous Anger of Solus",
-        "number": 104,
+        "card_name": "Revolutionary Pyromancer",
+        "number": 103,
         "shape": "normal",
         "set": "DHW"
     },
@@ -768,7 +768,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Shackled Angel",
+        "card_name": "Righteous Anger of Solus",
         "number": 105,
         "shape": "normal",
         "set": "DHW"
@@ -858,8 +858,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Drill Ideology",
-        "number": 162,
+        "card_name": "Fides' Faithful",
+        "number": 164,
         "shape": "normal",
         "set": "DHW"
     },
@@ -1116,8 +1116,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Fluctus' Intervention",
-        "number": 170,
+        "card_name": "Feasting Sea Beast",
+        "number": 163,
         "shape": "normal",
         "set": "DHW"
     },
@@ -1146,8 +1146,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Gaping Maw of Deep Sea",
-        "number": 173,
+        "card_name": "Fluctus' Intervention",
+        "number": 170,
         "shape": "normal",
         "set": "DHW"
     },
@@ -1206,14 +1206,14 @@
         "set": "DHW"
     },
     {
-        "card_name": "Feasting Sea Beast",
-        "number": 164,
+        "card_name": "Gaping Maw of Deep Sea",
+        "number": 173,
         "shape": "normal",
         "set": "DHW"
     },
     {
         "card_name": "Enlightened Sanctum Keeper",
-        "number": 163,
+        "number": 162,
         "shape": "normal",
         "set": "DHW"
     },
@@ -1347,7 +1347,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "Winmeari, Blood Rebel",
+        "card_name": "Winmeari, Carnage Rebel",
         "number": 203,
         "shape": "planeswalker",
         "set": "DHW"

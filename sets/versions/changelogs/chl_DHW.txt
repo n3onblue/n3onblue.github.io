@@ -1,4 +1,390 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Blood Wing Angel added.
+Fides' Faithful added.
+Winmeari, Carnage Rebel added.
+
+Shackled Angel removed.
+Drill Ideology removed.
+Winmeari, Blood Rebel removed.
+
+Acolyte of Loss
+cost: {2}{W}{B} => {1}{W}{B}
+pt: 3/3 => 3/2
+
+Acolyte of Self Importance
+pt: 4/1 => 3/3
+
+Acolyte of the Depths
+rules_text: Whenever one or more of your creatures become tapped, put a +1/+1 counter on Acolyte of the Depths. => Whenever one or more of your creatures become tapped for the first time each turn, put a +1/+1 counter on Acolyte of the Depths.
+
+True Hearted Minimalist
+rules_text: {1}{W}, {T}, Sacrifice a nonland permanent: True Hearted Minimalist becomes a Spirit with base power and toughness 3/3 and flying. Activate only as a sorcery. => {1}{W}, {T}, Sacrifice a nonland permanent: Put two +1/+1 and a flying counter on True Hearted Minimalist. Activate only as a sorcery.
+
+Preacher of Enlightenment
+pt: 0/1 => 2/1
+
+Eager Enlistee
+cost: {2}{W} => {1}{W}
+pt: 2/2 => 2/1
+
+Walls of the Empire
+rules_text: Defender
+When Walls of the Empire enters, create a 2/3 white Bird creature token with flying. => Defender
+Soldiers you control have +1/+0.
+Whenever you attack with one or more creatures, conjure a card named Recruitment into your hand [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+pt: 0/3 => 0/4
+
+Consult the Enlightened
+cost: {3}{W} => {2}{W}
+
+Enlightened Bishop
+rules_text: [i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard, put a +1/+1 counter on target creature you control. => [i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard, put a +1/+1 counter on target creature you control. It gains flying until end of turn.
+pt: 3/3 => 5/5
+
+War Room Talks
+type: Instant => Sorcery
+rules_text: Draw a card. Conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Draw a card. Conjure a card named Recruitment into your hand. You Gain 2 life. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Path to Enlightenment
+rules_text: Enchant creature
+Enchanted creature gets +2/+0.
+When enchanted creature dies, if it isn't a token, create a 1/1 white Spirit creature token with flying and attach Path to Enlightenment to it from your graveyard. => Enchant creature
+Enchanted creature gets +2/+0 and has menace.
+When enchanted creature dies, if it isn't a token, create a 1/1 white Spirit creature token with flying and attach Path to Enlightenment to it from your graveyard.
+
+Snow Owl
+rules_text: Flying
+[i]Convicted[/i] —Whenever you cast your second spell each turn, Snow Owl gets +1/+1 until end of turn. => Flying
+[i]Convicted[/i] —Whenever you cast your second spell each turn, put a +1/+1 counter on Snow Owl.
+
+Efficient Acrobat
+rules_text: [i]Convicted[/i] — Whenever you cast your second spell each turn, Efficient Acrobat gains flying until end of turn. => When Efficient Acrobat enters, surveil 2.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, Efficient Acrobat gains flying until end of turn.
+
+Lethargy Mage
+rules_text: Trample
+{2}, {T}: Target creature gets -4/-0 until your next turn. => Whenever Lethargy Mage is tapped, if it isn't combat, draw a card, then discard a card.
+{G}{U}, {T}: Tap target creature.
+pt: 3/2 => 4/2
+
+Fidist Rioter
+rules_text: Haste
+[i]Convicted[/i] — Whenever you cast your second spell each turn, put a +1/+1 counter on Fidist Rioter. => Haste
+[i]Convicted[/i] — Whenever you cast your second spell each turn, put two +1/+1 counters on Fidist Rioter.
+
+Imprisoned Sage
+rules_text: Defender [i](This creature can't attack.)[/i]
+[i]Convicted[/i] — Whenever you cast your second spell each turn, Imprisoned Sage loses defender until end of turn. => Defender, menace [i](This creature can't attack. This creature can't be blocked except by two or more creatures.)[/i]
+[i]Convicted[/i] — Whenever you cast your second spell each turn, Imprisoned Sage loses defender until end of turn.
+pt: 4/4 => 5/5
+
+Tide Pool Temptress
+rules_text: Whenever Tide Pool Temptress attacks, tap target creature.
+{T}: Untap target non-Serpent creature. => Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Whenever Tide Pool Temptress attacks, tap target creature.
+pt: 3/3 => 4/4
+
+Scourge of the Seas
+pt: 5/5 => 6/6
+
+Snow Fortifications
+rules_text: Defender [i](This creature can't attack.)[/i] => Defender [i](This creature can't attack.)[/i]
+When Snow Fortifications enters, put a stun counter on target creature. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Fides' Rebuke
+rules_text: [i]Convicted[/i] — If Fides' Rebuke is the second spell you've cast this turn, it costs {1} less to cast. 
+Counter target spell. => Counter target spell.
+[i]Convicted[/i] — If Fides' Rebuke is the second spell you've cast this turn, draw a card.
+
+Lost in the Current
+rules_text: Draw a card.
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Reveal the top three cards of your library. You may put a noncreature card revealed this way into your hand. Put the rest into you graveyard. 
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i]
+
+Sea's Memory
+rules_text: Put a +1/+1 counter on up to three target creatures you control.
+Resurface 5 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 5 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Distribute three +1/+1 counters among creatures you control.
+Resurface 5 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 5 or greater in addition to its other costs. Exile it as it resolves.)[/i]
+
+Depraved Isolationist
+rules_text: [i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard, Depraved Isolationist gets +1/+0 and gains menace until end of turn. => Menace
+[i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard, Depraved Isolationist gets +1/+1 until end of turn.
+pt: 2/2 => 3/3
+
+Exhausted Gravekeeper
+rules_text: [i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard, surveil 2. => [i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard, surveil 2.
+{2}{B}, Sacrifice Exhausted Gravekeeper: Return target creature card from your graveyard to your hand.
+
+Cruor's Monster
+rules_text: Whenever one or more cards leave your graveyard, put a +1/+1 counter on Cruor's Monster and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever one or more cards leave your graveyard, put a +1/+1 counter on Cruor's Monster and surveil 1.
+
+Crushing Avalanche
+rules_text: Target creature gets -9/-9 until end of turn. => Target creature gets -12/-12 until end of turn.
+
+Scars of the Pitchfork
+
+Trail of Blood
+
+Intimidating Lancer
+rules_text: When Intimidating Lancer enters, you may discard a card. If you do, draw a card.
+[i]Convicted[/i] —Whenever you cast your second spell each turn, Intimidating Lancer gets +1/+0 and gains menace until end of turn. => When Intimidating Lancer enters, you may discard a card. If you do, draw a card.
+[i]Convicted[/i] —Whenever you cast your second spell each turn, Intimidating Lancer gets +2/+0 and gains menace until end of turn.
+
+Solun Striker
+pt: 3/2 => 3/3
+
+Deep Sea Veteran
+rules_text: Deathtouch => 
+pt: 1/1 => 2/1
+
+Infant Razortooth
+rules_text: Trample => Trample
+Scavenge abilities that target Infant Razortooth cost {1} less to activate.
+
+Crab Rider
+rules_text: When Crab Rider enters, create a 0/3 blue Crab creature token.
+{T}: Target Crab gets +3/+0 until end of turn. Activate only as a sorcery. => When Crab Rider enters, create a 0/3 blue Crab creature token.
+{T}: Target Crab gets +3/+0 and gains vigilance until end of turn. Activate only as a sorcery.
+
+Frenzied Cold Blood
+rules_text: Trample
+Scavenge {3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Trample, haste
+Scavenge {3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+pt: 3/1 => 3/2
+
+Feasting Sea Beast
+rules_text: Trample
+Whenever you tap one or more creatures, Feasting Sea Beast gets +1/+0 until end of turn. => Trample
+Tap a creature you control: Feasting Sea Beast gets +X/+X until end of turn where X is the tapped creatures power. Activate only once each turn as a sorcery.
+
+Branch-Bound Stalker
+rules_text: Vigilance, reach => Vigilance, reach
+When Branch-Bound Stalker attacks or blocks, surveil 1.
+pt: 2/5 => 3/5
+
+Sea Legion Commander
+rules_text: Trample
+When Sea Legion Commander enters, create a 1/1 blue Merfolk creature token. => Trample
+When Sea Legion Commander enters, create two 1/1 blue Merfolk creature tokens.
+
+Meat Mass
+rules_text: This spell costs {1} less to cast for each counter on creatures you control.
+Vigilance => Vigilance
+Meat Mass enters with a number of +1/+1 counters on it equal to the number of counters on permanents you control.
+
+Crush of Ancient Maws
+cost: {2}{G} => {1}{G}
+
+Cadaver-Hungry Hydra
+rules_text: When you cast this spell, mill twice X cards.
+Trample
+Cadaver-Hungry Hydra's power and toughness are each equal to the number of other creature cards in your graveyard plus the number of cards with scavenge you own in exile.
+Scavenge {2}{G}{G}{G} => When you cast this spell, mill three times X cards.
+Trample, haste
+Cadaver-Hungry Hydra's power and toughness are each equal to the number of other creature cards in your graveyard plus the number of cards with scavenge you own in exile.
+Scavenge {2}{G}{G}{G}
+
+Molder of Waves
+pt: 1/1 => 3/3
+
+Leviathan Trench
+cost: {2}{G}{U} => {1}{G}{U}
+rules_text: Whenever a nontoken creature enters under your control, draw a card.
+{4}{G}{G}: Put a +1/+1 counter on each creature you control. They gain trample until end of turn. => {X}, Exile a creature card with mana value X from your graveyard: Search your library for a creature with mana value X and put it onto the battlefield. Activate only once each turn as a sorcery.
+
+Angelic Tactician
+rules_text: Flying, vigilance
+Whenever Angelic Tactician deals combat damage to an opponent or an attacking creature, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Flying
+Whenever Angelic Tactician attacks, target token gets +3/+3 and gains flying until end of turn.
+{3}{W}: Conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Solus, of Holy Conquest
+rules_text: [i]Prove Worthy[/i] — When Solus enters and at the beginning of your end step, if you control four or more soldiers, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink
+If a source would create one or more tokens under your control, create that many plus an additional 1/1 white Soldier creature token. => [i]Prove Worthy[/i] — At the beginning of combat, if you control four or more soldiers, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink
+If a source would create one or more tokens under your control, create that many plus an additional 1/1 white Soldier creature token.
+
+Fides, of Immutable Certainty
+rules_text: [i]Prove Worthy[/i] — When Fides enters and at the beginning of your end step, if you have cast two or more spells this turn, you may have Fides become a God creature in addition to its other types.
+Trample, haste
+Whenever a creature you control deals combat damage to an opponent, draw a card, then discard a card. => [i]Prove Worthy[/i] — At the beginning of combat, if you have cast two or more spells this turn, you may have Fides become a God creature in addition to its other types.
+Trample, haste
+Whenever a creature you control deals combat damage to an opponent, draw a card, then discard a card.
+
+Cruor, of Endless Bloodfeast
+cost: {3}{B}{G} => {1}{B}{G}
+rules_text: [i]Prove Worthy[/i] — When Cruor enters and at the beginning of your end step, if you control a creature with power 4 or greater, you may have Cruor become a God creature in addition to its other types.
+Menace, trample
+Creatures you control with counters on them have menace and trample.
+Creature cards in your graveyard have scavenge {B}{G}. => [i]Prove Worthy[/i] — At the beginning of combat, if you control a creature with power 4 or greater, you may have Cruor become a God creature in addition to its other types.
+Menace, trample
+Creature cards in your graveyard have scavenge {B}{G}.
+
+Ieiun, of Endless Fasting
+rules_text: [i]Prove Worthy[/i] — When Ieiun enters and at the beginning of your end step, if a nonland permanent was put into graveyard from anywhere this turn, you may have Ieiun become a God creature in addition to its other types. 
+Deathtouch
+At the beginning of your upkeep, you may sacrifice another nontoken creature you control. If you do, create a token copy of it except its a 1/1 Spirit with flying. => [i]Prove Worthy[/i] — At the beginning of combat, if a nonland permanent was put into graveyard from anywhere this turn, you may have Ieiun become a God creature in addition to its other types. 
+Deathtouch
+At the beginning of your upkeep, you may sacrifice another nontoken creature you control. If you do, create a token copy of it except its a 1/1 Spirit with flying.
+
+Fluctus, of Tide and Storm
+rules_text: [i]Prove Worthy[/i] — When Fluctus enters and at the beginning of your end step, if you have seven or more cards in your graveyard, you may have Fluctus become a God creature in addition to its other types.
+Spells can't be countered.
+Instant and sorcery cards in your graveyard have resurface 3. [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i] => [i]Prove Worthy[/i] — At the beginning of combat, if you have seven or more cards in your graveyard, you may have Fluctus become a God creature in addition to its other types.
+Spells can't be countered.
+Instant and sorcery cards in your graveyard have resurface 3. [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i]
+
+Mijna, Dejected Princess
+rules_text: Whenever one or more Merfolk, Leviathan, Shark, or Fish attack, you may mill that many cards, then if there are seven or more cards in your graveyard, you may transform Mijna, Dejected Princess. => When Mijna, Dejected Princess enters, create a 1/1 blue Merfolk creature token. 
+Whenever three or more Merfolk, Leviathan, Shark, or Fish attack, you may transform Mijna, Dejected Princess.
+pt: 1/3 => 1/1
+
+Nil, Who Has it All
+rules_text: When Nil enters and at the beginning of your upkeep, lose 1 life, create a Treasure token, and create a 0/1 white Human creature token.
+At the beginning of your end step, if you control no other nonland permanents, transform Nil. => When Nil enters lose 1 life, create a Treasure token, and create a 0/1 white Human creature token.
+At the beginning of your end step, if you control no other nonland permanents, transform Nil.
+
+Pax Bellum, Pacifist
+rules_text: Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.
+At the beginning each your end step, if two or more creatures died this turn under your control, transom Pax Bellum, Pacifist. => Whenever one or more creatures attacks, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+At the beginning each your end step, if two or more creatures died this turn under your control, transom Pax Bellum, Pacifist.
+pt: 0/3 => 0/4
+
+Return to the Material
+cost: {3}{W} => {2}{W}
+
+Boney, Unhuntable Prey
+rules_text: Menace
+Whenever a creature enters with greater power than Boney, Unhuntable Prey, put a +1/+1 counter on Boney.
+If Boney would die, if it didn't have a stun counter on it, tap it and put a stun counter on it instead. => Menace
+Whenever a creature enters with greater power than Boney, Unhuntable Prey, put a +1/+1 counter on Boney.
+If Boney would die, if it has a counter on it, remove that counter and all damage from Boney instead.
+
+Zaharah, Who Loves
+cost: {3}{W}{B} => {2}{W}{B}
+pt: 4/5 => 4/3
+
+Mortality Clinger
+pt: 2/2 => 3/3
+
+Night Watch Protector
+pt: 3/3 => 4/3
+
+Revisit the Lost
+cost: {2}{W}{W} => {1}{W}{W}
+
+Tundra Sprite
+rules_text: Flying
+When Tundra Sprite enters, scry 2. => Flying
+When Tundra Sprite enters, surveil 1.
+
+Aquterra Bard
+rules_text: When Aquterra Bard enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{4}{U}, Sacrifice a Aquterra Bard: Return an instant or sorcery card from your graveyard to your hand. => When Aquterra Bard enters, surveil 2.
+{4}{U}, Sacrifice a Aquterra Bard: Return an instant or sorcery card from your graveyard to your hand.
+
+Wave Maker
+rules_text: Ward {2}
+Whenever Wave Maker becomes tapped, tap another target creature your opponents control. => Ward {2}
+Wave Maker can't be blocked.
+
+Gaping Maw of Deep Sea
+
+Fire Scaled Fidist
+rules_text: Flying
+ Whenever Fire Scaled Fidist enters, add {R}{R}{R}. => Flying
+Whenever Fire Scaled Fidist enters, add {R}{R}{R}.
+
+In the Flames of Glory
+rules_text: In the Flames of Glory deals damage to any target equal to the number of tokens you control. => In the Flames of Glory deals 3 damage to any target. If you control three or more creatures, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Thoughtful Survivor
+rules_text: [i]Convicted[/i] — Whenever you cast your second spell each turn, you may draw two cards, then discard two cards. => [i]Convicted[/i] — Whenever you cast your second spell each turn, you may draw two cards, then discard a card.
+
+Reckless Drake
+rules_text: Flying
+Reckless Drake's power is equal to the number of instant and sorcery cards in your graveyard.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, draw a card. => Flying
+Reckless Drake's power is equal to the number of instant and sorcery cards in your graveyard.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, reckless drake gains double strike until end of turn.
+pt: */4 => */3
+
+Prophet of Salt Waters
+rules_text: Trample
+Whenever Prophet of Salt Waters becomes tapped, put a +1/+1 counter on it. => Trample
+Whenever Prophet of Salt Waters is tapped to pay an additional cost of a spell, untap it.
+pt: 1/1 => 3/2
+
+Idol of Gore
+cost: {7}{G} => {5}{G}
+rules_text: This spell costs {1} less to cast for each creature card you own in your graveyard and in exile.
+Trample => If there are six or more creature cards that you own in your graveyard and in exile, Idol of Gore has trample, vigilance, and haste.
+
+Coral Beast
+rules_text: Defender
+{T}: Add one mana of any color
+Whenever one or more cards leave your graveyard, Coral Beast loses defender until end of turn. => Coral Beast can't be blocked by more than one creature.
+Trample
+Whenever one or more cards leave your graveyard, up to one target creature must block Coral Beast this turn if able.
+
+Terror of Storms
+rules_text: Vigilance
+Whenever one or more cards leave your graveyard, each opponent loses 1 life.
+Scavenge {4}{B}{G} [i]({4}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Vigilance
+Whenever one or more cards leave your graveyard, each opponent loses 2 life.
+Scavenge {4}{B}{G} [i]({4}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Corpse Rot
+
+Blood Monarch
+cost: {1}{B}{B} => {B}{B}
+
+Deserters Cabin
+rules_text: When Deserters Cabin enters or is destroyed, create two 1/1 Rebel creature tokens that are all colors. => When Deserters Cabin enters or leaves the battlefield, create two 1/1 Rebel creature tokens that are all colors.
+
+Rune of Rebuke
+rules_text: When Rune of Rebuke enters, draw a card.
+{4}, Sacrifice Rune of Rebuke: Rune of Rebuke deals 4 damage to target creature or planeswalker. => When Rune of Rebuke enters, draw a card.
+{4}, Sacrifice Rune of Rebuke: Rune of Rebuke deals 4 damage to target creature or planeswalker. Activate only as a sorcery,
+
+Kelp Assimulant
+cost: {4}{G} => {1}{G}
+rules_text: This spell costs {1} less for each card that left your graveyard this turn.
+Trample, haste => Trample, haste
+Kelp Assimulant can't attack or block unless a card left your graveyard this turn.
+
+Sculpture of Flesh and Bone
+
+Mijna's Resolve
+rules_text: Choose one —
+• Counter target spell.
+• You and permanents you control gain hexproof until end of turn. => Choose one —
+• Counter target spell.
+• You and permanents you control gain hexproof and indestructible until end of turn.
+
+Feasting Vampire
+rules_text: Flying, lifelink
+[i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard from the battlefield, put a +1/+1 counter on Feasting Vampire. => Flying, lifelink
+[i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard from the battlefield, prevent all damage that would be dealt to Feasting Vampire this turn.
+pt: 1/2 => 4/2
+
+Aquterra Tide Pusher
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever you tap a creature, put a +1/+1 counter on it. => Trample
+Whenever you tap a creature for the first time each turn, untap it.
+Whenever you cast a spell from your graveyard, put a +1/+1 counter on each creature you control.
+pt: 3/3 => 4/4
+
+Fiery Judgement
+cost: {R}{W} => {1}{R}{W}
+rules_text: As an additional cost to cast this spell, you may pay {2}.
+Fiery Judgement deals 3 damage to target creature. If the additional cost was paid, create two 1/1 Rebel creature tokens that are all colors. => Fiery Judgement deals 2 damage to any target. Create two 1/1 rebel creature token that are all colors.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
