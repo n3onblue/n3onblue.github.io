@@ -2,7 +2,7 @@
     "name": "Aphantasia",
     "formats": "",
     "trimmed": "y",
-    "image_type": "jpg",
+    "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
     "cards": [
@@ -5080,5 +5080,5 @@
             "notes": ""
         }
     ],
-    "version": 16
+    "version": 17
 }

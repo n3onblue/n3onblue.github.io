@@ -1,4 +1,261 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Acolyte of Self-Importance added.
+True-hearted Minimalist added.
+Inescapable Bloodthirst added.
+Solun Wizards' Bane added.
+Armies' Echos added.
+
+Acolyte of Self Importance removed.
+True Hearted Minimalist removed.
+Unescapable Bloodthirst removed.
+Solun Wizard Bane removed.
+Armies Echos removed.
+
+Acolyte of Plurality
+rules_text: Flying
+Other creatures you control have +1/+0.
+Whenever Acolyte of Plurality attacks, conjure a card named recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Flying
+Other creatures you control have +1/+0.
+Whenever Acolyte of Plurality attacks, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Acolyte of the Depths
+rules_text: Whenever one or more of your creatures become tapped for the first time each turn, put a +1/+1 counter on Acolyte of the Depths. => Whenever one or more of your creatures you control become tapped for the first time each turn, put a +1/+1 counter on Acolyte of the Depths.
+
+Walls of the Empire
+rules_text: Defender
+Soldiers you control have +1/+0.
+Whenever you attack with one or more creatures, conjure a card named Recruitment into your hand [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Defender
+Soldiers you control have +1/+0.
+Whenever you attack, conjure a card named Recruitment into your hand [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Solun Avenger
+rules_text: Flying
+When Solun Avenger enters, put a +1/+1 counter on up to two target creature tokens. => Flying
+When Solun Avenger enters, put a +1/+1 counter on each of up to two target creature tokens.
+
+Path to Enlightenment
+rules_text: Enchant creature
+Enchanted creature gets +2/+0 and has menace.
+When enchanted creature dies, if it isn't a token, create a 1/1 white Spirit creature token with flying and attach Path to Enlightenment to it from your graveyard. => Enchant creature
+Enchanted creature gets +2/+0 and has menace.
+When enchanted creature dies, if it isn't a token, create a 1/1 white Spirit creature token with flying. Return Path to Enlightenment to the battlefield attached to that token.
+
+Tome Bearer
+rules_text: When Tome Bearer enters, return an instant or sorcery card from your graveyard to your hand. => When Tome Bearer enters, return target instant or sorcery card from your graveyard to your hand.
+
+Scourge of the Seas
+rules_text: Vigilance, Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => Vigilance, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+Forgo Physicality
+rules_text: Target creature gains “When this creature dies, return it to the battlefield under its owners control with a flying counter on it. It is a spirit in addition to its other types.” until end of turn. => Target creature gains “When this creature dies, return it to the battlefield under its owner's control with a flying counter on it. It becomes a Spirit in addition to its other types.” until end of turn.
+
+Prayer of Flame
+rules_text: As an additional cost to cast this spell, you may sacrifice a token.
+Prayer of Flame deals 3 damage to any target. If you paid the additional cost, gain 3 life. => As an additional cost to cast this spell, you may sacrifice a token.
+Prayer of Flame deals 3 damage to any target. If this spells additional cost was paid, gain 3 life.
+
+Bloody Feast
+rules_text: Put a +1/+1 counter on target creature, it gets +2/+2 and gains indestructible until end of turn. => Put a +1/+1 counter on target creature. It gets +2/+2 and gains indestructible until end of turn.
+
+Call of the Collective
+rules_text: Target creature gets +X/+X and gains trample until end of turn, where X is the number tapped creatures you control. => Target creature gets +X/+X and gains trample until end of turn, where X is the number of tapped creatures you control.
+
+Pick Apart
+rules_text: Surveil 3
+You may reveal the top card of your library. If its a creature or land card you may put it into your hand.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Surveil 3.
+You may reveal the top card of your library. If its a creature or land card, you may put it into your hand.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Exile it as it resolves.)[/i]
+
+Leviathan Trench
+rules_text: {X}, Exile a creature card with mana value X from your graveyard: Search your library for a creature with mana value X and put it onto the battlefield. Activate only once each turn as a sorcery. => {X}, Exile a creature card with mana value X from your graveyard: Search your library for a creature with mana value X and put it onto the battlefield. Activate only as a sorcery and only once each turn.
+
+Angelic Tactician
+rules_text: Flying
+Whenever Angelic Tactician attacks, target token gets +3/+3 and gains flying until end of turn.
+{3}{W}: Conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Flying
+Whenever Angelic Tactician attacks, up to one target token gets +3/+3 and gains flying until end of turn.
+{3}{W}: Conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Solus, of Holy Conquest
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat, if you control four or more soldiers, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink
+If a source would create one or more tokens under your control, create that many plus an additional 1/1 white Soldier creature token. => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you control four or more Soldiers, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink
+If one or more tokens would be created under your control, those tokens plus that many 1/1 white Soldier creature tokens are created instead.
+
+Fides, of Immutable Certainty
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat, if you have cast two or more spells this turn, you may have Fides become a God creature in addition to its other types.
+Trample, haste
+Whenever a creature you control deals combat damage to an opponent, draw a card, then discard a card. => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you have cast two or more spells this turn, you may have Fides become a God creature in addition to its other types.
+Trample, haste
+Whenever a creature you control deals combat damage to an opponent, draw a card, then discard a card.
+
+Cruor, of Endless Bloodfeast
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat, if you control a creature with power 4 or greater, you may have Cruor become a God creature in addition to its other types.
+Menace, trample
+Creature cards in your graveyard have scavenge {B}{G}. => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may have Cruor become a God creature in addition to its other types.
+Menace, trample
+Creature cards in your graveyard have scavenge {1}{B}{G}.
+
+Ieiun, of Endless Fasting
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat, if a nonland permanent was put into graveyard from anywhere this turn, you may have Ieiun become a God creature in addition to its other types. 
+Deathtouch
+At the beginning of your upkeep, you may sacrifice another nontoken creature you control. If you do, create a token copy of it except its a 1/1 Spirit with flying. => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if a nonland permanent card was put into graveyard from anywhere this turn, you may have Ieiun become a God creature in addition to its other types. 
+Deathtouch
+At the beginning of your upkeep, you may sacrifice another nontoken creature you control. If you do, create a token copy of it except its a 1/1 Spirit with flying.
+
+Fluctus, of Tide and Storm
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat, if you have seven or more cards in your graveyard, you may have Fluctus become a God creature in addition to its other types.
+Spells can't be countered.
+Instant and sorcery cards in your graveyard have resurface 3. [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i] => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you have seven or more cards in your graveyard, you may have Fluctus become a God creature in addition to its other types.
+Spells can't be countered.
+Instant and sorcery cards in your graveyard have resurface 3. [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i]
+
+Pax Bellum, Pacifist
+rules_text: Whenever one or more creatures attacks, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+At the beginning each your end step, if two or more creatures died this turn under your control, transom Pax Bellum, Pacifist. => Whenever one or more creatures attack, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+At the beginning each your end step, if two or more creatures died this turn under your control, transom Pax Bellum, Pacifist.
+
+Return to the Material
+rules_text: Return each nonland permanent card in your graveyard that were put there from the battlefield this turn.
+Permanents you control gain indestructible and can't be sacrificed this turn. => Return each nonland permanent card in your graveyard that were put there from the battlefield this turn to the battlefield.
+Permanents you control gain indestructible and can't be sacrificed this turn.
+
+Phraz, Polytheistic
+rules_text: Flying
+If you would cast a spell that is exactly two colors, create a 4/4 white Angel creature token with flying. => Flying
+Whenever you cast a spell that is exactly two colors, create a 4/4 white Angel creature token with flying.
+
+Course Charter
+rules_text: When Course Charter enters, choose one —
+• If you control less lands than target opponent, search your library for a plains card and put it into your hand. Shuffle afterwards.
+• If an opponent has more life than you, gain 4 life.
+• If an opponent control more creatures than you, create a 1/1 white Soldier creature token. => When Course Charter enters, choose one —
+• If you control less lands than target opponent, search your library for a Plains card and put it into your hand. Shuffle afterwards.
+• If an opponent has more life than you, gain 4 life.
+• If an opponent control more creatures than you, create a 1/1 white Soldier creature token.
+
+Prayer of Oblivion
+rules_text: Prayer of Oblivion deals 4 damage to target creature. If it would die this turn, conjure a card named Recruitment into you hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Prayer of Oblivion deals 4 damage to target creature. When that creature dies this turn, conjure a card named Recruitment into you hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Aquterra Bard
+rules_text: When Aquterra Bard enters, surveil 2.
+{4}{U}, Sacrifice a Aquterra Bard: Return an instant or sorcery card from your graveyard to your hand. => When Aquterra Bard enters, surveil 2.
+{4}{U}, Sacrifice a Aquterra Bard: Return target instant or sorcery card from your graveyard to your hand.
+
+Spell Smother
+cost: {1}{U} => {2}{U}
+rules_text: Counter target instant or sorcery spell.
+Draw a card. => Counter target noncreature spell.
+Draw a card.
+
+Heartbroken Necromancer
+rules_text: Menace
+When Heartbroken Necromancer attacks, if a creature died this turn under your control, create a 2/2 black Zombie creature token that is tapped and attacking. => Menace
+When Heartbroken Necromancer attacks, if a creature died this turn under your control this turn, create a 2/2 black Zombie creature token that is tapped and attacking.
+
+Soldier Devout
+rules_text: Whenever Soldier Devout attacks, conjure a card named Recruitment into you hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+Sacrifice a token: Exile the top card of your library, you may play it this turn. => Whenever Soldier Devout attacks, conjure a card named Recruitment into you hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+Sacrifice a token: Exile the top card of your library. You may play it this turn.
+
+Fire Scaled Fidist
+rules_text: Flying
+Whenever Fire Scaled Fidist enters, add {R}{R}{R}. => Flying
+When Fire Scaled Fidist enters, add {R}{R}{R}.
+
+Reckless Drake
+rules_text: Flying
+Reckless Drake's power is equal to the number of instant and sorcery cards in your graveyard.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, reckless drake gains double strike until end of turn. => Flying
+Reckless Drake's power is equal to the number of instant and sorcery cards in your graveyard.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, Reckless Drake gains double strike until end of turn.
+
+Repeat Yourself
+rules_text: Copy target spell. You may choose new targets for the copy. [i](Copies of creatures enter as tokens.)[/i] => Copy target spell. You may choose new targets for the copy. [i](Copies of permanent spells enter as tokens.)[/i]
+
+Nippy Shoalsteer
+rules_text: {T}: Add one mana of any color.
+If there are three or more counters on Nippy Shoalsteer, it has vigilance.
+Whenever you cast a spell or activate an ability from your graveyard, put a +1/+1 counter on Nippy Shoalsteer. => {T}: Add one mana of any color.
+As long as there are three or more counters on Nippy Shoalsteer, it has vigilance.
+Whenever you cast a spell or activate an ability from your graveyard, put a +1/+1 counter on Nippy Shoalsteer.
+
+Ruin Excavation
+rules_text: Search your library for two basic land cards and put them onto the battlefield tapped. Shuffle afterwards.
+{G}, Discard Ruin Excavation: Mill four cards, you may put a land card from among them into your hand. => Search your library for two basic land cards and put them onto the battlefield tapped. Shuffle afterwards.
+{G}, Discard Ruin Excavation: Mill four cards. You may put a land card from among them into your hand.
+
+Ieiun's Intervention
+rules_text: Choose one, if a nonland permanent you control was put into a graveyard this turn, choose two instead —
+• Target player discards a card.
+• Target player sacrifices a creature.
+• Target player gains 5 life. => Choose one. If a nonland permanent you control was put into a graveyard this turn, choose two instead —
+• Target player discards a card.
+• Target player sacrifices a creature.
+• Target player gains 5 life.
+
+Fides' Intervention
+rules_text: Choose one, if this is the second spell you have cast this turn, choose two instead. —
+• Draw two cards then discard two cards.
+• Fides' Intervention deals 2 damage to target creature or planeswalker.
+• Return target noncreature nonland permanent to its owners hand. => Choose one, if this is the second spell you have cast this turn, choose two instead. —
+• Draw two cards, then discard two cards.
+• Fides' Intervention deals 2 damage to target creature or planeswalker.
+• Return target noncreature, nonland permanent to its owners hand.
+
+Cruor's Intervention
+rules_text: Choose one, if you control a creature with the greatest power, choose two instead. —
+• Put two +1/+1 counters on target creature.
+• Mill five cards.
+• Return a creature card from you graveyard to your hand. => Choose one, if you control a creature with the greatest power or tied for the greatest as you cast this spell, choose two instead. —
+• Put two +1/+1 counters on target creature.
+• Mill five cards.
+• Return target creature card from you graveyard to your hand.
+
+Solus' Intervention
+rules_text: Choose one, if you control two or more tokens, choose two instead. —
+• Discard a card. If you do, draw two cards.
+• Return a creature card with mana value 3 or less from your graveyard to the battlefield.
+• Creatures you control gain haste until end of turn. => Choose one, if you controlled two or more tokens as you cast this spell, choose two instead. —
+• Discard a card. If you do, draw two cards.
+• Return a creature card with mana value 3 or less from your graveyard to the battlefield.
+• Creatures you control gain haste until end of turn.
+
+Sit Upon Enemy Corpses
+rules_text: Target creature gets +X/+0 and gains double strike until end of turn, where X is one plus the number of other spells you have cast this turn. => Target creature gets +X/+0 and gains double strike until end of turn, where X is the number of spells you've cast this turn.
+
+Bringer of Divine Punishment
+rules_text: Flying, haste
+Whenever Bringer of Divine Punishment attacks, you may discard your hand. If you do draw, cards equal to the number of creatures you control. => Flying, haste
+Whenever Bringer of Divine Punishment attacks, you may discard your hand. If you do, draw cards equal to the number of creatures you control.
+
+Escaped from the Chasm
+
+Ship Wreck Scavenger
+rules_text: Ship Wreck Scavenger can't be blocked by creatures with lesser power. 
+Whenever Ship Wreck Scavenger deals combat damage to an opponent or planeswalker, mill four cards. You may put a card milled this way to your hand. => Ship Wreck Scavenger can't be blocked by creatures with lesser power. 
+Whenever Ship Wreck Scavenger deals combat damage to an opponent or planeswalker, mill four cards. You may put a card milled this way into your hand.
+
+Aquterra Tide Pusher
+rules_text: Trample
+Whenever you tap a creature for the first time each turn, untap it.
+Whenever you cast a spell from your graveyard, put a +1/+1 counter on each creature you control. => Trample
+Whenever a creature you control becomes tapped for the first time each turn, untap it.
+Whenever you cast a spell from your graveyard, put a +1/+1 counter on each creature you control.
+
+Belief Cleaver
+rules_text: Menace
+Whenever you draw a card outside of the first card you draw during your draw step, Belief Cleaver gets +1/+0 until end of turn.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, you may discard a card, if you do, draw card. => Menace
+Whenever you draw a card other than the first card you draw during your draw step, Belief Cleaver gets +1/+0 until end of turn.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, you may discard a card, if you do, draw card.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Blood Wing Angel added.
