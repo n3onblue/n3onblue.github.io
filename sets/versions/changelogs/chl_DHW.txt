@@ -1,4 +1,80 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Lost in the Current
+rules_text: Reveal the top three cards of your library. You may put a noncreature card revealed this way into your hand. Put the rest into you graveyard. 
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Reveal the top three cards of your library. You may put a noncreature card revealed this way into your hand. Put the rest into you graveyard. 
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Then exile it.)[/i]
+
+Sea's Memory
+rules_text: Distribute three +1/+1 counters among creatures you control.
+Resurface 5 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 5 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Distribute three +1/+1 counters among creatures you control.
+Resurface 5 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 5 or greater in addition to its other costs. Then exile it.)[/i]
+
+Crush Under Waves
+rules_text: Tap up to two target creatures and put a stun counter on each of them.
+Resurface 4 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 4 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Tap up to two target creatures and put a stun counter on each of them.
+Resurface 4 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 4 or greater in addition to its other costs. Then exile it.)[/i]
+
+Crush of Ancient Maws
+rules_text: Target creature you control deals damage equal to its power to target creature you don't control.
+Resurface 5 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 5 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Target creature you control deals damage equal to its power to target creature you don't control.
+Resurface 5 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 5 or greater in addition to its other costs. Then exile it.)[/i]
+
+Pick Apart
+rules_text: Surveil 3.
+You may reveal the top card of your library. If its a creature or land card, you may put it into your hand.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Surveil 3.
+You may reveal the top card of your library. If its a creature or land card, you may put it into your hand.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Then exile it.)[/i]
+
+Aquterra's Expansion
+rules_text: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Then exile it.)[/i]
+
+Fluctus, of Tide and Storm
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you have seven or more cards in your graveyard, you may have Fluctus become a God creature in addition to its other types.
+Spells can't be countered.
+Instant and sorcery cards in your graveyard have resurface 3. [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i] => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you have seven or more cards in your graveyard, you may have Fluctus become a God creature in addition to its other types.
+Spells can't be countered.
+Instant and sorcery cards in your graveyard have resurface 3. [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Then exile it.)[/i]
+
+Submerged Treasure
+rules_text: Draw two cards.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Draw two cards.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Then exile it.)[/i]
+
+Consumed by the Sea
+rules_text: Draw a card. You may put a land card in your hand onto the battlefield.
+Resurface 4 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 4 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Draw a card. You may put a land card in your hand onto the battlefield.
+Resurface 4 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 4 or greater in addition to its other costs. Then exile it.)[/i]
+
+Fluctus' Intervention
+rules_text: Choose one—
+• Put a +1/+1 counter on each creature you control.
+• Create two 1/1 blue Merfolk creature tokens.
+• Surveil 2, then draw a card.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Choose one—
+• Put a +1/+1 counter on each creature you control.
+• Create two 1/1 blue Merfolk creature tokens.
+• Surveil 2, then draw a card.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Then exile it.)[/i]
+
+Heir's Legacy
+rules_text: Create a token that's a copy of target creature you control.
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Create a token that's a copy of target creature you control.
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Then exile it.)[/i]
+
+Escaped from the Chasm
+rules_text: Look at the top six cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Resurface 6 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 6 or greater in addition to its other costs. Exile it as it resolves.)[/i] => Look at the top six cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Resurface 6 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 6 or greater in addition to its other costs. Then exile it.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Acolyte of Self-Importance added.
