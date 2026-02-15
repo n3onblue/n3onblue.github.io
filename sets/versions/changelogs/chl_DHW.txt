@@ -1,4 +1,81 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+True-hearted Minimalist
+cost: {W} => {1}{W}
+pt: 1/1 => 2/1
+
+Solun Tactician
+cost: {1}{W} => {W}
+rules_text: Whenever Solun Tactician or another creature enters under your control, you gain 1 life. => When Solun Tactician enters, conjure a card name recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+pt: 2/2 => 1/2
+
+Preacher of Enlightenment
+pt: 2/1 => 1/1
+
+Holy City Sentinel
+rules_text: Flying
+When Holy City Sentinel enters, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Flying
+Whenever another creature enters under your control, gain 1 life. If this is the first time this ability has triggered this turn, scry 1.
+
+Cadaver-Hungry Hydra
+rules_text: When you cast this spell, mill three times X cards.
+Trample, haste
+Cadaver-Hungry Hydra's power and toughness are each equal to the number of other creature cards in your graveyard plus the number of cards with scavenge you own in exile.
+Scavenge {2}{G}{G}{G} => When you cast this spell, mill three times X cards.
+Trample
+Cadaver-Hungry Hydra's power and toughness are each equal to the number of other creature cards in your graveyard plus the number of cards with scavenge you own in exile.
+Scavenge {2}{G}{G}{G}
+
+Solus, of Holy Conquest
+cost: {R}{W} => {2}{R}{W}
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you control four or more Soldiers, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink
+If one or more tokens would be created under your control, those tokens plus that many 1/1 white Soldier creature tokens are created instead. => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you control four or more creatures, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink, haste
+If one or more tokens would be created under your control, those tokens plus that many 1/1 white Soldier creature tokens are created instead.
+pt: 4/4 => 5/5
+
+Pax Bellum, Pacifist
+rules_text: Whenever one or more creatures attack, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+At the beginning each your end step, if two or more creatures died this turn under your control, transom Pax Bellum, Pacifist. => Whenever one or more creatures attack, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+At the beginning of each end step, if two or more creatures died this turn under your control, transom Pax Bellum, Pacifist.
+
+Spell Smother
+rules_text: Counter target noncreature spell.
+Draw a card. => Counter target instant or sorcery spell.
+Draw a card.
+
+Battered Barbarian
+rules_text: Trample
+At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on Battered Barbarian. => Trample
+At the beginning of your end step, if a token entered under your control this turn, put a +1/+1 counter on Battered Barbarian.
+
+Ruin Excavation
+rules_text: Search your library for two basic land cards and put them onto the battlefield tapped. Shuffle afterwards.
+{G}, Discard Ruin Excavation: Mill four cards. You may put a land card from among them into your hand. => Search your library for up to two basic land cards and put them onto the battlefield tapped, then shuffle.
+{G}, Discard Ruin Excavation: Mill four cards. You may put a land card from among them into your hand.
+
+Holy Choir
+cost: {2}{W}{W} => {W}{W}
+rules_text: Whenever another nontoken creature you control enters, gain 2 life, then conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+Tokens you control get +2/+2. => Whenever another nontoken creature you control enters, gain 1 life, then conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+Creature tokens you control get +1/+0.
+pt: 2/2 => 1/1
+
+Sit Upon Enemy Corpses
+rules_text: Target creature gets +X/+0 and gains double strike until end of turn, where X is the number of spells you've cast this turn. => Target creature gets +X/+0 and gains double strike until end of turn, where X is the number of other spells you've cast this turn.
+
+Relinquish Attachments
+cost: {2}{W}{B} => {1}{W}{B}
+
+Devoted Solun
+rules_text: Creatures you control with base power and toughness 1/1 get +1/+1. => Creatures tokens you control get +1/+0.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
