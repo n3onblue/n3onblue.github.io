@@ -51,13 +51,13 @@
 			}
 		},
 		{
-			"name": "True-hearted Minimalist",
+			"name": "True-Hearted Minimalist",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Monk",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/24_True-hearted Minimalist.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/24_True-Hearted Minimalist.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Barbarian",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/70_Feral Vampire.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/69_Feral Vampire.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/69_Exhausted Gravekeeper.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/68_Exhausted Gravekeeper.png"
 			}
 		},
 		{
@@ -551,13 +551,13 @@
 			}
 		},
 		{
-			"name": "Exeunt",
+			"name": "Poetic Death",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/68_Exeunt.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/76_Poetic Death.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/75_Necrotic Fasting.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/74_Necrotic Fasting.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/71_Forgo Physicality.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/70_Forgo Physicality.png"
 			}
 		},
 		{
@@ -1083,7 +1083,7 @@
 		{
 			"name": "Cruor, of Endless Bloodfeast",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Enchantment",
 			"collector_number": "159",
 			"image_uris": {
@@ -1113,7 +1113,7 @@
 		{
 			"name": "Fides' Faithful",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Human Monk",
 			"collector_number": "164",
 			"image_uris": {
@@ -1176,16 +1176,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Elf Noble",
-			"collector_number": "76",
+			"collector_number": "75",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://n3onblue.github.io/sets/DHW-files/img/76_Nil, Who Has it All_back.png"
+					"en": "https://n3onblue.github.io/sets/DHW-files/img/75_Nil, Who Has it All_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/76_Nil, Who Has it All_front.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/75_Nil, Who Has it All_front.png"
 			}
 		},
 		{
@@ -1228,7 +1228,7 @@
 		{
 			"name": "Return to the Material",
 			"rarity": "mythic",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
@@ -1260,15 +1260,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/72_Inescapable Bloodthirst.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/71_Inescapable Bloodthirst.png"
 			}
 		},
 		{
 			"name": "Bo, Uncertainty Scribe",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{4}{U}{R}",
 			"type": "Legendary Creature — Human Rebel",
 			"collector_number": "154",
 			"image_uris": {
@@ -1528,7 +1528,7 @@
 		{
 			"name": "Consumed by the Sea",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
@@ -1560,9 +1560,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/73_It That Feeds.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/72_It That Feeds.png"
 			}
 		},
 		{
@@ -1580,9 +1580,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Horror",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/74_Mother of Gluttony.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/73_Mother of Gluttony.png"
 			}
 		},
 		{
@@ -1926,13 +1926,13 @@
 			}
 		},
 		{
-			"name": "Deserters Cabin",
+			"name": "Deserter's Cabin",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/223_Deserters Cabin.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/223_Deserter's Cabin.png"
 			}
 		},
 		{
@@ -1956,13 +1956,13 @@
 			}
 		},
 		{
-			"name": "Hunters Tome",
+			"name": "Hunter's Tome",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/225_Hunters Tome.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/225_Hunter's Tome.png"
 			}
 		},
 		{
@@ -2096,13 +2096,13 @@
 			}
 		},
 		{
-			"name": "Solus's Devine Crusade",
+			"name": "Solus' Divine Crusade",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}",
 			"type": "Enchantment",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://n3onblue.github.io/sets/DHW-files/img/108_Solus's Devine Crusade.png"
+				"en": "https://n3onblue.github.io/sets/DHW-files/img/108_Solus' Divine Crusade.png"
 			}
 		},
 		{
@@ -2279,7 +2279,7 @@
 			"name": "Fiery Judgement",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "168",
 			"image_uris": {
 				"en": "https://n3onblue.github.io/sets/DHW-files/img/168_Fiery Judgement.png"
@@ -2658,7 +2658,7 @@
 	2 Voice of the Enlightened
 	2 Village Blight
 	2 Bringer of Divine Punishment
-	1 Solus's Devine Crusade
+	1 Solus' Divine Crusade
 	2 Ice Tyrant
 	2 Escaped from the Chasm
 	2 Kelp Assimulant
@@ -2750,12 +2750,12 @@
 	4 Solus' Intervention
 	4 Fluctus' Intervention
 	4 Abandoned Machine
-	4 Deserters Cabin
+	4 Deserter's Cabin
 	4 Rune of Rebuke
 	4 Flame Scepter
-	4 Hunters Tome
+	4 Hunter's Tome
 [common(7)]
-	8 True-hearted Minimalist
+	8 True-Hearted Minimalist
 	8 Solun Tactician
 	8 Eager Cherub
 	8 Lonely Domestic
@@ -2804,7 +2804,7 @@
 	8 Enlightened Sanctum Keeper
 	8 Blood Grudge
 	8 Crushing Avalanche
-	8 Exeunt
+	8 Poetic Death
 	8 Scars of the Pitchfork
 	8 Trail of Blood
 	8 Refuse Oblivion
@@ -2863,7 +2863,7 @@
 	6 Acolyte of Self-Importance
 	6 Acolyte of the Depths
 	6 Acolyte of the Wilds
-	12 True-hearted Minimalist
+	12 True-Hearted Minimalist
 	12 Solun Tactician
 	12 Eager Cherub
 	12 Lonely Domestic
@@ -2913,7 +2913,7 @@
 	12 Enlightened Sanctum Keeper
 	12 Blood Grudge
 	12 Crushing Avalanche
-	12 Exeunt
+	12 Poetic Death
 	12 Scars of the Pitchfork
 	12 Trail of Blood
 	12 Refuse Oblivion
@@ -3047,10 +3047,10 @@
 	6 Fluctus' Intervention
 	2 Blood Monarch
 	6 Abandoned Machine
-	6 Deserters Cabin
+	6 Deserter's Cabin
 	6 Rune of Rebuke
 	6 Flame Scepter
-	6 Hunters Tome
+	6 Hunter's Tome
 	12 Symbol of Rebelion.
 	2 Holy Choir
 	2 Heir's Legacy
@@ -3064,7 +3064,7 @@
 	2 Voice of the Enlightened
 	2 Village Blight
 	2 Bringer of Divine Punishment
-	1 Solus's Devine Crusade
+	1 Solus' Divine Crusade
 	2 Ice Tyrant
 	2 Escaped from the Chasm
 	2 Kelp Assimulant
@@ -3101,7 +3101,7 @@
 	15 Acolyte of Self-Importance
 	15 Acolyte of the Depths
 	15 Acolyte of the Wilds
-	6 True-hearted Minimalist
+	6 True-Hearted Minimalist
 	6 Solun Tactician
 	6 Eager Cherub
 	6 Lonely Domestic
@@ -3151,7 +3151,7 @@
 	6 Enlightened Sanctum Keeper
 	6 Blood Grudge
 	6 Crushing Avalanche
-	6 Exeunt
+	6 Poetic Death
 	6 Scars of the Pitchfork
 	6 Trail of Blood
 	6 Refuse Oblivion
@@ -3285,10 +3285,10 @@
 	15 Fluctus' Intervention
 	7 Blood Monarch
 	15 Abandoned Machine
-	15 Deserters Cabin
+	15 Deserter's Cabin
 	15 Rune of Rebuke
 	15 Flame Scepter
-	15 Hunters Tome
+	15 Hunter's Tome
 	6 Symbol of Rebelion.
 	7 Holy Choir
 	7 Heir's Legacy
@@ -3302,7 +3302,7 @@
 	7 Voice of the Enlightened
 	7 Village Blight
 	7 Bringer of Divine Punishment
-	4 Solus's Devine Crusade
+	4 Solus' Divine Crusade
 	7 Ice Tyrant
 	7 Escaped from the Chasm
 	7 Kelp Assimulant

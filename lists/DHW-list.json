@@ -18,7 +18,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Solus's Devine Crusade",
+        "card_name": "Solus' Divine Crusade",
         "number": 108,
         "shape": "normal",
         "set": "DHW"
@@ -103,7 +103,7 @@
     },
     {
         "card_name": "Nil, Who Has it All",
-        "number": 76,
+        "number": 75,
         "shape": "transform double faced",
         "set": "DHW"
     },
@@ -343,7 +343,7 @@
     },
     {
         "card_name": "Inescapable Bloodthirst",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "DHW"
     },
@@ -373,7 +373,7 @@
     },
     {
         "card_name": "It That Feeds",
-        "number": 73,
+        "number": 72,
         "shape": "normal",
         "set": "DHW"
     },
@@ -403,7 +403,7 @@
     },
     {
         "card_name": "Mother of Gluttony",
-        "number": 74,
+        "number": 73,
         "shape": "normal",
         "set": "DHW"
     },
@@ -582,7 +582,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Exeunt",
+        "card_name": "Exhausted Gravekeeper",
         "number": 68,
         "shape": "normal",
         "set": "DHW"
@@ -612,7 +612,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Exhausted Gravekeeper",
+        "card_name": "Feral Vampire",
         "number": 69,
         "shape": "normal",
         "set": "DHW"
@@ -642,7 +642,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Feral Vampire",
+        "card_name": "Forgo Physicality",
         "number": 70,
         "shape": "normal",
         "set": "DHW"
@@ -672,8 +672,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Forgo Physicality",
-        "number": 71,
+        "card_name": "Necrotic Fasting",
+        "number": 74,
         "shape": "normal",
         "set": "DHW"
     },
@@ -702,8 +702,8 @@
         "set": "DHW"
     },
     {
-        "card_name": "Necrotic Fasting",
-        "number": 75,
+        "card_name": "Poetic Death",
+        "number": 76,
         "shape": "normal",
         "set": "DHW"
     },
@@ -750,7 +750,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "True-hearted Minimalist",
+        "card_name": "True-Hearted Minimalist",
         "number": 24,
         "shape": "normal",
         "set": "DHW"
@@ -1396,7 +1396,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Deserters Cabin",
+        "card_name": "Deserter's Cabin",
         "number": 223,
         "shape": "normal",
         "set": "DHW"
@@ -1408,7 +1408,7 @@
         "set": "DHW"
     },
     {
-        "card_name": "Hunters Tome",
+        "card_name": "Hunter's Tome",
         "number": 225,
         "shape": "normal",
         "set": "DHW"

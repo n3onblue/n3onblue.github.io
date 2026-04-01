@@ -1,4 +1,276 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+True-Hearted Minimalist added.
+Poetic Death added.
+Deserter's Cabin added.
+Hunter's Tome added.
+Solus' Divine Crusade added.
+
+True-hearted Minimalist removed.
+Exeunt removed.
+Deserters Cabin removed.
+Hunters Tome removed.
+Solus's Devine Crusade removed.
+
+Acolyte of Self-Importance
+rules_text: [i]Convicted[/i] — Whenever you cast your second spell each turn, Acolyte of Self-Importance gains menace and indestructible until end of turn. 
+Whenever Acolyte of Self-Importance deals combat damage to a player, draw a card. => [i]Convicted[/i] — Whenever you cast your second spell each turn, Acolyte of Self-Importance gains menace and first strike until end of turn. 
+Whenever Acolyte of Self-Importance deals combat damage to a player, draw a card.
+
+Solun Tactician
+rules_text: When Solun Tactician enters, conjure a card name recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => When Solun Tactician enters, conjure a card named recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+War Room Talks
+rules_text: Draw a card. Conjure a card named Recruitment into your hand. You Gain 2 life. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => Draw a card. Conjure a card named Recruitment into your hand. You gain 2 life. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Destroy Evil
+
+Snow Owl
+
+Merfolk Zealot
+
+Lethargy Mage
+rules_text: Whenever Lethargy Mage is tapped, if it isn't combat, draw a card, then discard a card.
+{G}{U}, {T}: Tap target creature. => Whenever Lethargy Mage is tapped, if it isn't a combat phase, draw a card, then discard a card.
+{G}{U}, {T}: Tap target creature.
+
+Lost in the Current
+rules_text: Reveal the top three cards of your library. You may put a noncreature card revealed this way into your hand. Put the rest into you graveyard. 
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Then exile it.)[/i] => Reveal the top three cards of your library. You may put a noncreature card revealed this way into your hand. Put the rest into your graveyard. 
+Resurface 3 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Then exile it.)[/i]
+
+Belief Makes Right
+rules_text: Draw four cards then discard two cards. => Draw four cards, then discard two cards.
+
+Cruor's Monster
+
+Blood Grudge
+
+Battle Priest of Hate
+rules_text: {T}: Battle Priest of Hate deals 1 damage to each opponent.
+At the beginning of each end step, if an opponent has lost 3 or more life this turn, conjure a card name Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i] => {T}: Battle Priest of Hate deals 1 damage to each opponent.
+At the beginning of each end step, if an opponent has lost 3 or more life this turn, conjure a card named Recruitment into your hand. [i](It's a sorcery that costs {1} with “Create a 1/1 white Soldier creature token.”)[/i]
+
+Solun Striker
+rules_text: When Solun Striker attacks, another target attacking creature gets +1/+0 until end of turn. => Whenever Solun Striker attacks, another target attacking creature gets +1/+0 until end of turn.
+
+Prayer of Flame
+rules_text: As an additional cost to cast this spell, you may sacrifice a token.
+Prayer of Flame deals 3 damage to any target. If this spells additional cost was paid, gain 3 life. => As an additional cost to cast this spell, you may sacrifice a token.
+Prayer of Flame deals 3 damage to any target. If this spell's additional cost was paid, gain 3 life.
+
+Ancestral Anger
+
+Skilled Hunter
+
+Infant Razortooth
+
+Branch-Bound Stalker
+rules_text: Vigilance, reach
+When Branch-Bound Stalker attacks or blocks, surveil 1. => Vigilance, reach
+Whenever Branch-Bound Stalker attacks or blocks, surveil 1.
+
+Bloody Feast
+
+Solus, of Holy Conquest
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you control four or more creatures, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink, haste
+If one or more tokens would be created under your control, those tokens plus that many 1/1 white Soldier creature tokens are created instead. => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if you control four or more creatures, you may have Solus become a God creature in addition to its other types.
+Flying, lifelink
+If one or more tokens would be created under your control, those tokens plus that many 1/1 white Soldier creature tokens are created instead.
+
+Cruor, of Endless Bloodfeast
+cost: {1}{B}{G} => {2}{B}{G}
+
+Ieiun, of Endless Fasting
+rules_text: [i]Prove Worthy[/i] — At the beginning of combat on your turn, if a nonland permanent card was put into graveyard from anywhere this turn, you may have Ieiun become a God creature in addition to its other types. 
+Deathtouch
+At the beginning of your upkeep, you may sacrifice another nontoken creature you control. If you do, create a token copy of it except its a 1/1 Spirit with flying. => [i]Prove Worthy[/i] — At the beginning of combat on your turn, if a nonland permanent card was put into graveyard from anywhere this turn, you may have Ieiun become a God creature in addition to its other types. 
+Deathtouch
+Whenever another nontoken creature dies, create a token copy of it except its a 1/1 Spirit with flying.
+pt: 4/4 => 4/3
+
+Fides' Faithful
+cost: {1}{U}{R} => {2}{U}{R}
+rules_text: You can't take extra turns.
+When Fides' Faithful enters, exile an instant or sorcery card from your graveyard. 
+Once during each of your turns, you may cast a copy of as card exiled with Fides' Faithful. [i](You still pay the costs.)[/i] => You can't take extra turns.
+When Fides' Faithful enters, exile an instant or sorcery card from your graveyard. 
+Once during each of your turns, you may cast a copy of as card exiled with Fides' Faithful. You cannot select opponents or creatures they control as targets for that spell. [i](You still pay the costs.)[/i]
+pt: 2/2 => 3/3
+
+Mijna, Dejected Princess
+rules_text: When Mijna, Dejected Princess enters, create a 1/1 blue Merfolk creature token. 
+Whenever three or more Merfolk, Leviathan, Shark, or Fish attack, you may transform Mijna, Dejected Princess. => When Mijna, Dejected Princess enters, create a 1/1 blue Merfolk creature token. 
+Whenever you attack with three or more Merfolk, Leviathan, Shark, or Fish, you may transform Mijna, Dejected Princess.
+
+Nil, Who Has it All
+rules_text: When Nil enters lose 1 life, create a Treasure token, and create a 0/1 white Human creature token.
+At the beginning of your end step, if you control no other nonland permanents, transform Nil. => When Nil enters, lose 1 life, create a Treasure token, and create a 0/1 white Human creature token.
+At the beginning of your end step, if you control no other nonland permanents, transform Nil.
+
+Winmeari, Carnage Rebel
+rules_text: Attacking creatures your opponents control must attack a Winmeari planeswalker if able.
+[+2]: Winmeari becomes a 6/6 Angel creature with flying, lifelink, haste, and indestructible until end of turn. [i](She isn't a planeswalker.)[/i]
+[-3]: Each opponent sacrifices three creatures.
+[-10]: You get an emblem with “At the beginning of your end step, create five 1/1 Rebel creature tokens that are all colors.” => Attacking creatures your opponents control must attack a Winmeari planeswalker if able.
+[+2]: Winmeari becomes a 6/6 Angel creature with flying, haste, indestructible, and healing 3 until end of turn. [i](She isn't a planeswalker.)[/i]
+[-3]: Each opponent sacrifices three creatures.
+[-10]: You get an emblem with “At the beginning of your end step, create five 1/1 Rebel creature tokens that are all colors.”
+special_text: Attacking creatures your opponents control must attack a Winmeari planeswalker if able.
+[+2]: Winmeari becomes a 6/6 Angel creature with flying, lifelink, haste, and indestructible until end of turn. [i](She isn't a planeswalker.)[/i]
+[-3]: Each opponent sacrifices three creatures.
+[-10]: You get an emblem with “At the beginning of your end step, create five 1/1 Rebel creature tokens that are all colors.” => Attacking creatures your opponents control must attack a Winmeari planeswalker if able.
+[+2]: Winmeari becomes a 6/6 Angel creature with flying, haste, indestructible, and healing 3 until end of turn. [i](She isn't a planeswalker.)[/i]
+[-3]: Each opponent sacrifices three creatures.
+[-10]: You get an emblem with “At the beginning of your end step, create five 1/1 Rebel creature tokens that are all colors.”
+
+Return to the Material
+cost: {2}{W} => {3}{W}
+rules_text: Return each nonland permanent card in your graveyard that were put there from the battlefield this turn to the battlefield.
+Permanents you control gain indestructible and can't be sacrificed this turn. => Return each nonland permanent card in your graveyard that were put there from the battlefield this turn to the battlefield.
+Until end of turn, permanents you control gain indestructible and “this permanent can't be sacrificed.”
+
+Bo, Uncertainty Scribe
+cost: {1}{U}{R} => {4}{U}{R}
+rules_text: Whenever you cast your first spell each turn, exile the top two cards of your library. You may play one of them this turn.
+Spells you cast from exile can't be countered. => Whenever you cast your first spell each turn, exile the top two cards of your library. You may play them this turn.
+Whenever you cast a spell from exile, copy it. You may choose new targets for the copy.
+pt: 2/2 => 5/5
+
+Boney, Unhuntable Prey
+rules_text: Menace
+Whenever a creature enters with greater power than Boney, Unhuntable Prey, put a +1/+1 counter on Boney.
+If Boney would die, if it has a counter on it, remove that counter and all damage from Boney instead. => Menace
+Evolve [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i]
+If Boney would die, if it has a counter on it, remove that counter and all damage from Boney instead.
+
+Zhed, Land Lover
+rules_text: Whenever a land enters under your control, create a 0/1 green Plant creature token.
+{T}: Put a +1/+1 counter on each Plant you control. => Whenever a land you control enters, create a 0/1 green Plant creature token.
+{T}: Put a +1/+1 counter on each Plant you control.
+
+Flame Trained Soldier
+
+Tundra Sprite
+rules_text: Flying
+When Tundra Sprite enters, surveil 1. => Flying
+When Tundra Sprite enters, surveil 1.
+[i]Convicted[/i] — Whenever you cast your second spell each turn, surveil 1.
+
+Depth Bringer
+rules_text: When Depth Bringer enters, return up to one target creature to its owner's hand. If you own it, draw a card. => When Depth Bringer enters, return up to one other target creature to its owner's hand. If you own it, draw a card.
+
+Consumed by the Sea
+cost: {G}{U} => {1}{G}{U}
+rules_text: Draw a card. You may put a land card in your hand onto the battlefield.
+Resurface 4 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 4 or greater in addition to its other costs. Then exile it.)[/i] => Draw a card. You may put a land card in your hand onto the battlefield.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Then exile it.)[/i]
+
+Blighted Hunt
+rules_text: Deathtouch
+Whenever a creature scavenges Blighted Hunt, it gains deathtouch and haste. Sacrifice it at the beginning of the next end step.
+Scavenge {BG} [i]({BG}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Deathtouch
+Whenever a creature you control scavenges Blighted Hunt, it gains haste. Sacrifice it at the beginning of the next end step.
+Scavenge {BG} [i]({BG}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Mother of Gluttony
+rules_text: Trample
+Whenever a card is exiled from a graveyard, Mother of Gluttony gains indestructible until end of turn.
+Whenever Mother of Gluttony deals combat damage to an opponent, mill that many cards. => Trample
+Whenever a card leaves your graveyard, Mother of Gluttony gains indestructible until end of turn.
+Whenever Mother of Gluttony deals combat damage to an opponent, mill that many cards.
+
+Heartbroken Necromancer
+rules_text: Menace
+When Heartbroken Necromancer attacks, if a creature died this turn under your control this turn, create a 2/2 black Zombie creature token that is tapped and attacking. => Menace
+When Heartbroken Necromancer attacks, if a creature you control died this turn, create a 2/2 black Zombie creature token that is tapped and attacking.
+
+Nippy Shoalsteer
+rules_text: {T}: Add one mana of any color.
+As long as there are three or more counters on Nippy Shoalsteer, it has vigilance.
+Whenever you cast a spell or activate an ability from your graveyard, put a +1/+1 counter on Nippy Shoalsteer. => {T}: Add one mana of any color.
+As long as there are three or more counters on Nippy Shoalsteer, it has vigilance.
+Whenever you cast a spell or activate an ability from your graveyard, put a +1/+1 counter on Nippy Shoalsteer. This ability triggers only once each turn.
+
+Ruin Excavation
+rules_text: Search your library for up to two basic land cards and put them onto the battlefield tapped, then shuffle.
+{G}, Discard Ruin Excavation: Mill four cards. You may put a land card from among them into your hand. => Search your library for up to two basic land cards and put them onto the battlefield tapped, then shuffle.
+{1}{G}, Discard Ruin Excavation: Mill four cards. You may put a land card from among them into your hand.
+
+Terror of Storms
+rules_text: Vigilance
+Whenever one or more cards leave your graveyard, each opponent loses 2 life.
+Scavenge {4}{B}{G} [i]({4}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Vigilance
+Whenever one or more cards leave your graveyard, each opponent loses 2 life. This ability triggers only once each turn.
+Scavenge {4}{B}{G} [i]({4}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Cruor's Intervention
+rules_text: Choose one, if you control a creature with the greatest power or tied for the greatest as you cast this spell, choose two instead. —
+• Put two +1/+1 counters on target creature.
+• Mill five cards.
+• Return target creature card from you graveyard to your hand. => Choose one. If you control a creature with the greatest power or tied for the greatest as you cast this spell, choose two instead – 
+• Put two +1/+1 counters on target creature.
+• Mill five cards.
+• Return target creature card from you graveyard to your hand.
+
+Fluctus' Intervention
+rules_text: Choose one—
+• Put a +1/+1 counter on each creature you control.
+• Create two 1/1 blue Merfolk creature tokens.
+• Surveil 2, then draw a card.
+Resurface 2 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 2 or greater in addition to its other costs. Then exile it.)[/i] => Choose one—
+• Put a +1/+1 counter on each creature you control.
+• Create two 1/1 blue Merfolk creature tokens.
+• Surveil 2, then draw a card.
+Resurface 4 [i](You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 4 or greater in addition to its other costs. Then exile it.)[/i]
+
+Blood Monarch
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+Whenever a creature dies, you may pay {2}. If you do, draw a card. => At the beginning of combat on your turn, put up to one +1/+1 counter on target creature you control. It must attack this turn if able. 
+Whenever a creature dies, you may pay {2}. If you do, draw a card.
+
+Mana Amplifier
+rules_text: {1}, {T}: Add two mana of the same type used to activate this ability.
+{3}, Sacrifice Mana Amplifier: Double the amount of each type of unspent mana you have. => {1}, {T}: Add two mana that's the same type as one used to activate this ability.
+{3}, Sacrifice Mana Amplifier: Double the amount of each type of unspent mana you have.
+
+Champion of Aquterra
+pt: 4/3 => 3/3
+
+Village Blight
+rules_text: Menace
+Sacrifice another creature: Village Blight gains indestructible until end of turn. If the sacrificed creature had scavenge you may activate that scavenge ability without paying its mana cost this turn. => Menace
+When this creatures scavenges, draw a card.
+Sacrifice another creature: Village Blight gains indestructible until end of turn. If the sacrificed creature had scavenge you may activate that scavenge ability without paying its mana cost this turn.
+pt: 5/4 => 5/5
+
+Feasting Vampire
+rules_text: Flying, lifelink
+[i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard from the battlefield, prevent all damage that would be dealt to Feasting Vampire this turn. => Flying
+[i]Minimalist[/i] — Whenever another nonland permanent you control is put into a graveyard from the battlefield, Feasting Vampire gains lifelink until end of turn.
+
+Devoted Solun
+rules_text: Creatures tokens you control get +1/+0. => At the beginning of combat on your turn, put a +1/+1 on target creature token you control.
+pt: 0/2 => 1/1
+
+Aquterra Tide Pusher
+rules_text: Trample
+Whenever a creature you control becomes tapped for the first time each turn, untap it.
+Whenever you cast a spell from your graveyard, put a +1/+1 counter on each creature you control. => Trample
+Whenever a creature you control becomes tapped, if it becoming tapped hasn't triggered this ability this turn, untap it.
+Whenever you cast a spell from your graveyard, put a +1/+1 counter on each creature you control.
+
+Fiery Judgement
+type: Instant => Sorcery
+rules_text: Fiery Judgement deals 2 damage to any target. Create two 1/1 rebel creature token that are all colors. => Fiery Judgement deals 2 damage to any target. Create two 1/1 rebel creature tokens that are all colors.
+
+Selfless Ascension
+rules_text: Each player sacrifices a creature. If you sacrificed a creature this way create a token copy of a creature sacrificed this way except its a 1/1 white Spirit creature with flying. => Each player sacrifices a creature. If you sacrificed a creature this way, create a token that's a copy of a creature sacrificed this way, except it's a 1 /1 white Spirit with flying..
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
